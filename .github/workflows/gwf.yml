@@ -39,7 +39,7 @@ jobs:
       uses: actions/checkout@v2
     
     # 自动更新IP库
-    - name: 自动更新IP库
+    - name: 自动更新GWF库
       run: |
           bash default/gwf.sh
     
@@ -54,7 +54,7 @@ jobs:
         commit_author: Action <actions@github.com>
     
     # 清理缓存
-    - name: 自动更新GWF库
+    - name: 自动更新GWF库缓存
       run: |
         bash default/purge.sh
     
