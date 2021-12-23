@@ -53,9 +53,14 @@ jobs:
         commit_user_email: 41898282+github-actions[bot]@users.noreply.github.com
         commit_author: Action <actions@github.com>
     
+    # 清理缓存
+    - name: 自动更新IP库
+      run: |
+        bash default/purge.sh
+    
     # 删除旧的GitHub-workflow    
     - name: 删除旧的GitHub-workflow
       uses: Mattraks/delete-workflow-runs@main
       with:
         retain_days: 1
-        keep_minimum_runs: 1    #保留多少个workflow不删除  
+        keep_minimum_runs: 1    #保留多少个workflow不删除
