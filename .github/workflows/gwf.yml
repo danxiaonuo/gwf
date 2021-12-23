@@ -54,7 +54,7 @@ jobs:
         commit_author: Action <actions@github.com>
     
     # 清理缓存
-    - name: 自动更新IP库
+    - name: 自动更新GWF库
       run: |
         bash default/purge.sh
     
