@@ -47,8 +47,15 @@ jobs:
     - name: 自动上传
       uses: stefanzweifel/git-auto-commit-action@v4
       with:
-        commit_message: Update IP
+        commit_message: Update GWF
         skip_dirty_check: false
         commit_user_name: Action Bot
         commit_user_email: 41898282+github-actions[bot]@users.noreply.github.com
         commit_author: Action <actions@github.com>
+    
+	# 删除旧的GitHub-workflow    
+    - name: 删除旧的GitHub-workflow
+      uses: Mattraks/delete-workflow-runs@main
+      with:
+        retain_days: 1
+        keep_minimum_runs: 1    #保留多少个workflow不删除  
