@@ -23,7 +23,7 @@ cat /tmp/temp_gfwlist1 /tmp/temp_gfwlist2 /tmp/temp_gfwlist3  | \
 # smartdns
 cat gfwlist.txt | sed 's/^/\./g' > /tmp/smartdns_gfw_domain.conf
 sed -i 's/^/nameserver \//' /tmp/smartdns_gfw_domain.conf
-sed -i 's/$/\/GFW/' /tmp/smartdns_gfw_domain.conf
+sed -i 's/$/\/gwf/' /tmp/smartdns_gfw_domain.conf
 echo "# GFW List" > /tmp/smartdns_tmp.conf
 cat /tmp/smartdns_tmp.conf /tmp/smartdns_gfw_domain.conf > smartdns_gfw_domain.conf
 
