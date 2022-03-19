@@ -24,8 +24,9 @@ cat /tmp/temp_gfwlist1 /tmp/temp_gfwlist2 /tmp/temp_gfwlist3  | \
 cat gfwlist.txt | sed 's/^/\./g' > smartdns_gfw_domain.conf
 sed -i 's/^/nameserver \//' smartdns_gfw_domain.conf
 sed -i 's/$/\/GFW/' smartdns_gfw_domain.conf
-echo "# GFW List" > smartdns_tmp.conf
-cat smartdns_tmp.conf smartdns_gfw_domain.conf > smartdns_gfw_domain.conf
+# echo "# GFW List" > smartdns_tmp.conf
+# cat smartdns_tmp.conf smartdns_gfw_domain.conf > smartdns_gfw_domain.conf
+rm -rf smartdns_tmp.conf
 
 # MMDB库
 curl -s -m 3 --retry-delay 3 --retry 3 -k -4 --header 'cache-control: no-cache' --url 'https://raw.githubusercontent.com/alecthw/mmdb_china_ip_list/release/Country.mmdb' > Country.mmdb
