@@ -33,6 +33,7 @@ curl -s -m 3 --retry-delay 3 --retry 3 -k -4 --header 'cache-control: no-cache' 
 cat apple.china.conf >> smartdns_xiaonuo_domain.conf
 cat google.china.conf >> smartdns_xiaonuo_domain.conf
 sed -i 's/^server=\/\(.*\)\/[^\/]*$/nameserver \/\1\/xiaonuo/g;/^nameserver/!d' smartdns_xiaonuo_domain.conf
+echo -e "nameserver /.xiaonuo.live/xiaonuo\nnameserver /.danxiaonuo.me/xiaonuo\nnameserver /.danxiaonuo.com/xiaonuo" >> smartdns_xiaonuo_domain.conf
 rm -rf apple.china.conf google.china.conf
 
 # MMDB库
