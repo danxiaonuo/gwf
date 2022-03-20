@@ -27,5 +27,13 @@ sed -i 's/$/\/gwf/' /tmp/smartdns_gfw_domain.conf
 echo "# GFW List" > /tmp/smartdns_tmp.conf
 cat /tmp/smartdns_tmp.conf /tmp/smartdns_gfw_domain.conf > smartdns_gfw_domain.conf
 
+curl -s -m 3 --retry-delay 3 --retry 3 -k -4 --header 'cache-control: no-cache' --url 'https://raw.githubusercontent.com/felixonmars/dnsmasq-china-list/master/accelerated-domains.china.conf' > smartdns_xiaonuo_domain.conf
+curl -s -m 3 --retry-delay 3 --retry 3 -k -4 --header 'cache-control: no-cache' --url 'https://raw.githubusercontent.com/felixonmars/dnsmasq-china-list/master/apple.china.conf' > apple.china.conf
+curl -s -m 3 --retry-delay 3 --retry 3 -k -4 --header 'cache-control: no-cache' --url 'https://raw.githubusercontent.com/felixonmars/dnsmasq-china-list/master/google.china.conf' > google.china.conf
+cat apple.china.conf >> smartdns_xiaonuo_domain.conf
+cat google.china.conf >> smartdns_xiaonuo_domain.conf
+sed -i 's/^server=\/\(.*\)\/[^\/]*$/nameserver \/\1\/xiaonuo/g;/^nameserver/!d' smartdns_xiaonuo_domain.conf
+rm -rf apple.china.conf google.china.conf
+
 # MMDB库
 curl -s -m 3 --retry-delay 3 --retry 3 -k -4 --header 'cache-control: no-cache' --url 'https://raw.githubusercontent.com/alecthw/mmdb_china_ip_list/release/Country.mmdb' > Country.mmdb
