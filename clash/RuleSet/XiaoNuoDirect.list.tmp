@@ -1,1 +1,222 @@
+# 直接连接
+# 本地地址
+# 参考：https://en.wikipedia.org/wiki/Reserved_IP_addresses
+# 域名关键字匹配
+DOMAIN-KEYWORD,speedtest
+DOMAIN-KEYWORD,weixin
+# 域名后缀匹配
+DOMAIN-SUFFIX,local
+DOMAIN-SUFFIX,localhost
+DOMAIN-SUFFIX,ip6-localhost
+DOMAIN-SUFFIX,ip6-loopback
+DOMAIN-SUFFIX,lan
+DOMAIN-SUFFIX,localdomain
+DOMAIN-SUFFIX,example
+DOMAIN-SUFFIX,invalid
+DOMAIN-SUFFIX,test
+# IP 段匹配
+IP-CIDR,0.0.0.0/8,no-resolve
+IP-CIDR,10.0.0.0/8,no-resolve
+IP-CIDR,100.64.0.0/10,no-resolve
+IP-CIDR,127.0.0.0/8,no-resolve
+IP-CIDR,169.254.0.0/16,no-resolve
+IP-CIDR,172.16.0.0/12,no-resolve
+IP-CIDR,192.0.0.0/24,no-resolve
+IP-CIDR,192.0.2.0/24,no-resolve
+IP-CIDR,192.88.99.0/24,no-resolve
+IP-CIDR,192.168.0.0/16,no-resolve
+IP-CIDR,198.18.0.0/15,no-resolve
+IP-CIDR,198.51.100.0/24,no-resolve
+IP-CIDR,203.0.113.0/24,no-resolve
+IP-CIDR,224.0.0.0/3,no-resolve
+IP-CIDR6,::1/128,no-resolve
+IP-CIDR6,fc00::/7,no-resolve
+IP-CIDR6,fe80::/10,no-resolve
+IP-CIDR6,fd00::/8,no-resolve
+
+# Router managed 路由器管理域名
+DOMAIN,router.+.asus.com
+DOMAIN-SUFFIX,+.hiwifi.com
+DOMAIN-SUFFIX,+.leike.cc
+DOMAIN-SUFFIX,+.miwifi.com
+DOMAIN-SUFFIX,+.my.router
+DOMAIN-SUFFIX,+.p.to
+DOMAIN-SUFFIX,+.peiluyou.com
+DOMAIN-SUFFIX,+.phicomm.me
+DOMAIN-SUFFIX,+.routerlogin.com
+DOMAIN-SUFFIX,+.tendawifi.com
+DOMAIN-SUFFIX,+.zte.home
+
+# 域名后缀匹配
+DOMAIN-SUFFIX,+.home.arpa
+DOMAIN-SUFFIX,+.msftconnecttest.com
+DOMAIN-SUFFIX,+.msftncsi.com
+DOMAIN-SUFFIX,+.localhost.sec.qq.com
+DOMAIN-SUFFIX,+.localhost.ptlogin2.qq.com
+DOMAIN-SUFFIX,+.jsdelivr.net
+DOMAIN-SUFFIX,+.cloudflare.com
+DOMAIN-SUFFIX,+.speedtest.net
+
+# xiaonuo标志
+# 域名后缀匹配
+DOMAIN-SUFFIX,+.iflyelf.com
+DOMAIN-SUFFIX,+.onlysing.com
+DOMAIN-SUFFIX,+.danxiaonuo.com
+DOMAIN-SUFFIX,+.danxiaonuo.me
+DOMAIN-SUFFIX,+.xiaonuo.live
+
+# clash
+# 域名匹配
+DOMAIN,clash.razord.top
+DOMAIN,yacd.haishan.me
+
+# 混合
+# Apple
+DOMAIN-SUFFIX,+.lcdn-registration.apple.com
+DOMAIN-SUFFIX,+.mzstatic.com
+
+# BAT
+DOMAIN-SUFFIX,+.baidu.com
+DOMAIN-SUFFIX,+.baidupcs.com
+DOMAIN-SUFFIX,+.bdimg.com
+DOMAIN-SUFFIX,+.bdstatic.com
+DOMAIN-SUFFIX,+.alipay.com
+DOMAIN-SUFFIX,+.alipayobjects.com
+DOMAIN-SUFFIX,+.alicdn.com
+DOMAIN-SUFFIX,+.aliyun.com
+DOMAIN-SUFFIX,+.aliyuncs.com
+DOMAIN-SUFFIX,+.taobao.com
+DOMAIN-SUFFIX,+.tmall.com
+DOMAIN-SUFFIX,+.qq.com
+DOMAIN-SUFFIX,+.qqurl.com
+
+# China
+DOMAIN-SUFFIX,+.cn
+DOMAIN-SUFFIX,+.126.net
+DOMAIN-SUFFIX,+.163.com
+DOMAIN-SUFFIX,+.163.net
+DOMAIN-SUFFIX,+.amap.com
+DOMAIN-SUFFIX,+.autonavi.com
+DOMAIN-SUFFIX,+.ccgslb.com
+DOMAIN-SUFFIX,+.ccgslb.net
+DOMAIN-SUFFIX,+.cnbeta.com
+DOMAIN-SUFFIX,+.cnbetacdn.com
+DOMAIN-SUFFIX,+.douban.com
+DOMAIN-SUFFIX,+.doubanio.com
+DOMAIN-SUFFIX,+.gtimg.com
+DOMAIN-SUFFIX,+.hao123.com
+DOMAIN-SUFFIX,+.haosou.com
+DOMAIN-SUFFIX,+.ifeng.com
+DOMAIN-SUFFIX,+.iqiyi.com
+DOMAIN-SUFFIX,+.jd.com
+DOMAIN-SUFFIX,+.mi.com
+DOMAIN-SUFFIX,+.miui.com
+DOMAIN-SUFFIX,+.netease.com
+DOMAIN-SUFFIX,+.netease.im
+DOMAIN-SUFFIX,+.qdaily.com
+DOMAIN-SUFFIX,+.qhimg.com
+DOMAIN-SUFFIX,+.qihucdn.com
+DOMAIN-SUFFIX,+.qiniucdn.com
+DOMAIN-SUFFIX,+.qiniudn.com
+DOMAIN-SUFFIX,+.sogou.com
+DOMAIN-SUFFIX,+.sogoucdn.com
+DOMAIN-SUFFIX,+.sohu.com
+DOMAIN-SUFFIX,+.steamstatic.com
+DOMAIN-SUFFIX,+.suning.com
+DOMAIN-SUFFIX,+.tudou.com
+DOMAIN-SUFFIX,+.upaiyun.com
+DOMAIN-SUFFIX,+.clouddn.com
+DOMAIN-SUFFIX,+.upyun.com
+DOMAIN-SUFFIX,+.weibo.com
+DOMAIN-SUFFIX,+.youku.com
+DOMAIN-SUFFIX,+.xunlei.com
+DOMAIN-SUFFIX,+.zhihu.com
+DOMAIN-SUFFIX,+.zhimg.com
+DOMAIN-SUFFIX,+.bdurl.net
+DOMAIN-SUFFIX,+.amemv.com
+DOMAIN-SUFFIX,+.douyinpic.com
+DOMAIN-SUFFIX,+.douyinvod.com
+DOMAIN-SUFFIX,+.snssdk.com
+DOMAIN-SUFFIX,+.ip.bjango.com
+DOMAIN-SUFFIX,+.todesk.com
+
+# 进程规则
+# 源进程名匹配
+PROCESS-NAME,smartdns
+PROCESS-NAME,clash
+PROCESS-NAME,v2ray
+PROCESS-NAME,xray
+PROCESS-NAME,naive
+PROCESS-NAME,trojan
+PROCESS-NAME,trojan-go
+PROCESS-NAME,ss-local
+PROCESS-NAME,privoxy
+PROCESS-NAME,leaf
+PROCESS-NAME,v2ray.exe
+PROCESS-NAME,xray.exe
+PROCESS-NAME,naive.exe
+PROCESS-NAME,trojan.exe
+PROCESS-NAME,trojan-go.exe
+PROCESS-NAME,ss-local.exe
+PROCESS-NAME,privoxy.exe
+PROCESS-NAME,leaf.exe
+PROCESS-NAME,Surge
+PROCESS-NAME,Surge 2
+PROCESS-NAME,Surge 3
+PROCESS-NAME,Surge 4
+PROCESS-NAME,Surge%202
+PROCESS-NAME,Surge%203
+PROCESS-NAME,Surge%204
+PROCESS-NAME,Thunder
+PROCESS-NAME,DownloadService
+PROCESS-NAME,qBittorrent
+PROCESS-NAME,Transmission
+PROCESS-NAME,fdm
+PROCESS-NAME,aria2c
+PROCESS-NAME,Folx
+PROCESS-NAME,NetTransport
+PROCESS-NAME,uTorrent
+PROCESS-NAME,WebTorrent
+PROCESS-NAME,aria2c.exe
+PROCESS-NAME,BitComet.exe
+PROCESS-NAME,fdm.exe
+PROCESS-NAME,NetTransport.exe
+PROCESS-NAME,qbittorrent.exe
+PROCESS-NAME,Thunder.exe
+PROCESS-NAME,ThunderVIP.exe
+PROCESS-NAME,transmission-daemon.exe
+PROCESS-NAME,transmission-qt.exe
+PROCESS-NAME,uTorrent.exe
+PROCESS-NAME,WebTorrent.exe
+PROCESS-NAME,Weiyun.exe
+PROCESS-NAME,baidunetdisk.exe
+PROCESS-NAME,com.tencent.mobileqq
+PROCESS-NAME,com.tencent.token
+PROCESS-NAME,com.tencent.qqmusic
+PROCESS-NAME,com.tencent.qqlive
+PROCESS-NAME,com.tencent.edu
+PROCESS-NAME,com.tencent.karaoke
+PROCESS-NAME,com.tencent.mm
+PROCESS-NAME,com.tencent.xin
+PROCESS-NAME,com.iflytek.iflyapp
+PROCESS-NAME,com.iflytek.oshall.ahzwfw
+PROCESS-NAME,com.youku.phone
+PROCESS-NAME,com.sina.weibo
+PROCESS-NAME,com.ss.android.ugc.aweme
+PROCESS-NAME,com.ss.android.ugc.aweme.lite
+PROCESS-NAME,com.qiyi.video
+PROCESS-NAME,com.sankuai.meituan
+PROCESS-NAME,com.sankuai.meituan.takeoutnew
+PROCESS-NAME,com.taou.maimai
+PROCESS-NAME,com.cainiao.wireless
+PROCESS-NAME,com.ss.android.article.video
+PROCESS-NAME,com.kugou.android
+PROCESS-NAME,com.MobileTicket
+PROCESS-NAME,unionpay.tsmservice
+PROCESS-NAME,com.taobao.mobile.dipei
+PROCESS-NAME,com.taobao.taobao
+PROCESS-NAME,com.taobao.idlefish
+PROCESS-NAME,com.taobao.trip
+PROCESS-NAME,com.eg.android.AipayGphone
+PROCESS-NAME,com.unionpay
 
