@@ -2,21 +2,21 @@
 mkdir -p ip
 curl -s -m 3 --retry-delay 3 --retry 3 -k -4 --header 'cache-control: no-cache' --url 'https://ispip.clang.cn/all_cn.txt' > ip/china_ipv4.txt
 curl -s -m 3 --retry-delay 3 --retry 3 -k -4 --header 'cache-control: no-cache' --url 'https://ispip.clang.cn/all_cn_ipv6.txt' > ip/china_ipv6.txt
-cat ip/china_ipv4.txt > ip/china_all.txt
-cat ip/china_ipv6.txt >> ip/china_all.txt
+cat ip/china_ipv4.txt > ip/china_ip.txt
+cat ip/china_ipv6.txt >> ip/china_ip.txt
 
 # clash 规则
 mkdir -p clash
 cat ip/china_ipv4.txt | perl -ne '/(.+\/\d+)/ && print "IP-CIDR,$1,no-resolve\n"' | sed "s/|/'/g" > clash/RuleSet/china_ipv4.list
 cat ip/china_ipv6.txt | perl -ne '/(.+\/\d+)/ && print "IP-CIDR6,$1,no-resolve\n"' | sed "s/|/'/g" > clash/RuleSet/china_ipv6.list
-cat clash/RuleSet/china_ipv4.list > clash/RuleSet/china_all.list
-cat clash/RuleSet/china_ipv6.list >> clash/RuleSet/china_all.list
+cat clash/RuleSet/china_ipv4.list > clash/RuleSet/china_ip.list
+cat clash/RuleSet/china_ipv6.list >> clash/RuleSet/china_ip.list
 
 cat ip/china_ipv4.txt | perl -ne '/(.+\/\d+)/ && print "  - IP-CIDR,$1,no-resolve\n"' | sed "s/|/'/g" > clash/RuleSet/china_ipv4.yaml
 cat ip/china_ipv6.txt | perl -ne '/(.+\/\d+)/ && print "  - IP-CIDR6,$1,no-resolve\n"' | sed "s/|/'/g" > clash/RuleSet/china_ipv6.yaml
-cat clash/RuleSet/china_ipv4.yaml > clash/RuleSet/china_all.yaml
-cat clash/RuleSet/china_ipv6.yaml >> clash/RuleSet/china_all.yaml
-sed -i '1 i\payload:' clash/RuleSet/china_all.yaml
+cat clash/RuleSet/china_ipv4.yaml > clash/RuleSet/china_ip.yaml
+cat clash/RuleSet/china_ipv6.yaml >> clash/RuleSet/china_ip.yaml
+sed -i '1 i\payload:' clash/RuleSet/china_ip.yaml
 sed -i '1 i\payload:' clash/RuleSet/china_ipv4.yaml
 sed -i '1 i\payload:' clash/RuleSet/china_ipv6.yaml
 
