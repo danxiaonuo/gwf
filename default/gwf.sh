@@ -65,6 +65,12 @@ cat proxy.txt | perl -ne '/([-_a-zA-Z0-9]+(\.[-_a-zA-Z0-9]+)*)/ && print "DOMAIN
 cat clash/RuleSet/XiaoNuoProxy.yaml.tmp > clash/RuleSet/XiaoNuoProxy.yaml
 cat proxy.txt | perl -ne '/([-_a-zA-Z0-9]+(\.[-_a-zA-Z0-9]+)*)/ && print "  - DOMAIN-SUFFIX,+.$1\n"' | sed "s/|/'/g" >> clash/RuleSet/XiaoNuoProxy.yaml
 
+# 拒绝域名
+# reject
+mkdir -p clash/RuleSet
+cat clash/RuleSet/XiaoNuoReject.list.tmp> clash/RuleSet/XiaoNuoReject.list
+cat clash/RuleSet/XiaoNuoReject.yaml.tmp > clash/RuleSet/XiaoNuoReject.yaml
+
 # smartdns
 mkdir -p smartdns
 cat proxy.txt | perl -ne '/([-_a-zA-Z0-9]+(\.[-_a-zA-Z0-9]+)*)/ && print "nameserver /.$1/gwf\n"' | sed "s/|/'/g" > smartdns/smartdns_gfw_domain.conf
