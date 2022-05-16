@@ -52,13 +52,13 @@ cat proxy.txt | perl -ne '/([-_a-zA-Z0-9]+(\.[-_a-zA-Z0-9]+)*)/ && print "  - DO
 cat proxy.txt | perl -ne '/([-_a-zA-Z0-9]+(\.[-_a-zA-Z0-9]+)*)/ && print "nameserver /.$1/gwf\n"' | sed "s/|/'/g" > smartdns_gfw_domain.conf
 
 # 顶级域名
-curl -s -m 3 --retry-delay 3 --retry 3 -k -4 --header 'cache-control: no-cache' --url 'https://raw.githubusercontent.com/Loyalsoldier/clash-rules/release/tld-not-cn.txt' > tld-not-cn.tmp
+curl -s -m 3 --retry-delay 3 --retry 3 -k -4 --header 'cache-control: no-cache' --url 'https://raw.githubusercontent.com/Loyalsoldier/domain-list-custom/release/tld-!cn.txt' | perl -ne '/^domain:([-_a-zA-Z0-9]+(\.[-_a-zA-Z0-9]+)*)/ && print "$1\n"' | sed "s/|/'/g" | xargs -n 1 | sort -u | uniq > tld-not-cn.tmp
 # clash
-cat tld-not-cn.tmp | awk -F "[ '+.]+" '{printf "%s\n", $3}'| sed "s/|/'/g" | xargs -n 1 | sort -u | uniq | perl -ne '/([-_a-zA-Z0-9]+(\.[-_a-zA-Z0-9]+)*)/ && print "DOMAIN-SUFFIX,+.$1\n"' | sed "s/|/'/g" > gwf_tld.list
+cat tld-not-cn.tmp | perl -ne '/([-_a-zA-Z0-9]+(\.[-_a-zA-Z0-9]+)*)/ && print "DOMAIN-SUFFIX,+.$1\n"' | sed "s/|/'/g" > gwf_tld.list
 echo "payload:" > gwf_tld.yaml
-cat tld-not-cn.tmp | awk -F "[ '+.]+" '{printf "%s\n", $3}'| sed "s/|/'/g" | xargs -n 1 | sort -u | uniq | perl -ne '/([-_a-zA-Z0-9]+(\.[-_a-zA-Z0-9]+)*)/ && print "  - DOMAIN-SUFFIX,+.$1\n"' | sed "s/|/'/g" >> gwf_tld.yaml
+cat tld-not-cn.tmp | perl -ne '/([-_a-zA-Z0-9]+(\.[-_a-zA-Z0-9]+)*)/ && print "  - DOMAIN-SUFFIX,+.$1\n"' | sed "s/|/'/g" >> gwf_tld.yaml
 # smartdns
-cat tld-not-cn.tmp | awk -F "[ '+.]+" '{printf "%s\n", $3}'| sed "s/|/'/g" | xargs -n 1 | sort -u | uniq | perl -ne '/([-_a-zA-Z0-9]+(\.[-_a-zA-Z0-9]+)*)/ && print "nameserver /.$1/gwf\n"' | sed "s/|/'/g" > smartdns_gfw_tld_domain.conf
+cat tld-not-cn.tmp | perl -ne '/([-_a-zA-Z0-9]+(\.[-_a-zA-Z0-9]+)*)/ && print "nameserver /.$1/gwf\n"' | sed "s/|/'/g" > smartdns_gfw_tld_domain.conf
 
 # MMDB库
 curl -s -m 3 --retry-delay 3 --retry 3 -k -4 --header 'cache-control: no-cache' --url 'https://raw.githubusercontent.com/alecthw/mmdb_china_ip_list/release/Country.mmdb' > Country.mmdb
