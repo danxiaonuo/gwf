@@ -32,11 +32,15 @@ cat direct-list.tmp | grep -Ev "^(regexp|keyword|full):" | perl -ne '/^(domain:|
 cat direct.tmp | xargs -n 1 | sort -u | uniq | sed "s/|/'/g" > direct.txt
 
 # clash
-cat direct.txt | perl -ne '/([-_a-zA-Z0-9]+(\.[-_a-zA-Z0-9]+)*)/ && print "DOMAIN-SUFFIX,+.$1\n"' | sed "s/|/'/g" > direct_xiaonuo.list
-echo "payload:" > direct_xiaonuo.yaml
-cat direct.txt | perl -ne '/([-_a-zA-Z0-9]+(\.[-_a-zA-Z0-9]+)*)/ && print "  - DOMAIN-SUFFIX,+.$1\n"' | sed "s/|/'/g" >> direct_xiaonuo.yaml
+mkdir -p clash/RuleSet
+cat clash/RuleSet/XiaoNuoDirect.list.tmp > clash/RuleSet/XiaoNuoDirect.list
+cat direct.txt | perl -ne '/([-_a-zA-Z0-9]+(\.[-_a-zA-Z0-9]+)*)/ && print "DOMAIN-SUFFIX,+.$1\n"' | sed "s/|/'/g" >> clash/RuleSet/XiaoNuoDirect.list
+cat clash/RuleSet/XiaoNuoDirect.yaml.tmp > clash/RuleSet/XiaoNuoDirect.yaml
+cat direct.txt | perl -ne '/([-_a-zA-Z0-9]+(\.[-_a-zA-Z0-9]+)*)/ && print "  - DOMAIN-SUFFIX,+.$1\n"' | sed "s/|/'/g" >> clash/RuleSet/XiaoNuoDirect.yaml
+
 # smartdns
-cat direct.txt | perl -ne '/([-_a-zA-Z0-9]+(\.[-_a-zA-Z0-9]+)*)/ && print "nameserver /.$1/xiaonuo\n"' | sed "s/|/'/g" > smartdns_xiaonuo_domain.conf
+mkdir -p smartdns
+cat direct.txt | perl -ne '/([-_a-zA-Z0-9]+(\.[-_a-zA-Z0-9]+)*)/ && print "nameserver /.$1/xiaonuo\n"' | sed "s/|/'/g" > smartdns/smartdns_xiaonuo_domain.conf
 
 # 代理域名
 # proxy_xiaonuo
