@@ -7,18 +7,18 @@ cat ip/china_ipv6.txt >> ip/china_all.txt
 
 # clash 规则
 mkdir -p clash
-cat ip/china_ipv4.txt | perl -ne '/(.+\/\d+)/ && print "IP-CIDR,$1,no-resolve\n"' | sed "s/|/'/g" > clash/china_ipv4.list
-cat ip/china_ipv6.txt | perl -ne '/(.+\/\d+)/ && print "IP-CIDR6,$1,no-resolve\n"' | sed "s/|/'/g" > clash/china_ipv6.list
-cat clash/china_ipv4.list > clash/china_all.list
-cat clash/china_ipv6.list >> clash/china_all.list
+cat ip/china_ipv4.txt | perl -ne '/(.+\/\d+)/ && print "IP-CIDR,$1,no-resolve\n"' | sed "s/|/'/g" > clash/RuleSet/china_ipv4.list
+cat ip/china_ipv6.txt | perl -ne '/(.+\/\d+)/ && print "IP-CIDR6,$1,no-resolve\n"' | sed "s/|/'/g" > clash/RuleSet/china_ipv6.list
+cat clash/RuleSet/china_ipv4.list > clash/RuleSet/china_all.list
+cat clash/RuleSet/china_ipv6.list >> clash/RuleSet/china_all.list
 
-cat ip/china_ipv4.txt | perl -ne '/(.+\/\d+)/ && print "  - IP-CIDR,$1,no-resolve\n"' | sed "s/|/'/g" > clash/china_ipv4.yaml
-cat ip/china_ipv6.txt | perl -ne '/(.+\/\d+)/ && print "  - IP-CIDR6,$1,no-resolve\n"' | sed "s/|/'/g" > clash/china_ipv6.yaml
-cat clash/china_ipv4.yaml > clash/china_all.yaml
-cat clash/china_ipv6.yaml >> clash/china_all.yaml
-sed -i '1 i\payload:' clash/china_all.yaml
-sed -i '1 i\payload:' clash/china_ipv4.yaml
-sed -i '1 i\payload:' clash/china_ipv6.yaml
+cat ip/china_ipv4.txt | perl -ne '/(.+\/\d+)/ && print "  - IP-CIDR,$1,no-resolve\n"' | sed "s/|/'/g" > clash/RuleSet/china_ipv4.yaml
+cat ip/china_ipv6.txt | perl -ne '/(.+\/\d+)/ && print "  - IP-CIDR6,$1,no-resolve\n"' | sed "s/|/'/g" > clash/RuleSet/china_ipv6.yaml
+cat clash/RuleSet/china_ipv4.yaml > clash/RuleSet/china_all.yaml
+cat clash/RuleSet/china_ipv6.yaml >> clash/RuleSet/china_all.yaml
+sed -i '1 i\payload:' clash/RuleSet/china_all.yaml
+sed -i '1 i\payload:' clash/RuleSet/china_ipv4.yaml
+sed -i '1 i\payload:' clash/RuleSet/china_ipv6.yaml
 
 # 直连域名
 # direct_xiaonuo
