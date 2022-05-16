@@ -1,16 +1,24 @@
 # IP库
-curl -s -m 3 --retry-delay 3 --retry 3 -k -4 --header 'cache-control: no-cache' --url 'https://ispip.clang.cn/all_cn.txt' > china_ipv4.txt
-curl -s -m 3 --retry-delay 3 --retry 3 -k -4 --header 'cache-control: no-cache' --url 'https://ispip.clang.cn/all_cn_ipv6.txt' > china_ipv6.txt
+mkdir -p ip
+curl -s -m 3 --retry-delay 3 --retry 3 -k -4 --header 'cache-control: no-cache' --url 'https://ispip.clang.cn/all_cn.txt' > ip/china_ipv4.txt
+curl -s -m 3 --retry-delay 3 --retry 3 -k -4 --header 'cache-control: no-cache' --url 'https://ispip.clang.cn/all_cn_ipv6.txt' > ip/china_ipv6.txt
+cat ip/china_ipv4.txt > ip/china_all.txt
+cat ip/china_ipv6.txt >> ip/china_all.txt
 
-cat china_ipv4.txt | perl -ne '/(.+\/\d+)/ && print "IP-CIDR,$1,no-resolve\n"' | sed "s/|/'/g" > china_ipv4.list
-cat china_ipv6.txt | perl -ne '/(.+\/\d+)/ && print "IP-CIDR6,$1,no-resolve\n"' | sed "s/|/'/g" > china_ipv6.list
+# clash 规则
+mkdir -p clash
+cat ip/china_ipv4.txt | perl -ne '/(.+\/\d+)/ && print "IP-CIDR,$1,no-resolve\n"' | sed "s/|/'/g" > clash/china_ipv4.list
+cat ip/china_ipv6.txt | perl -ne '/(.+\/\d+)/ && print "IP-CIDR6,$1,no-resolve\n"' | sed "s/|/'/g" > clash/china_ipv6.list
+cat clash/china_ipv4.list > clash/china_all.list
+cat clash/china_ipv6.list >> clash/china_all.list
 
-# clash
-echo "payload:" >  china_ipv4.yaml
-cat china_ipv4.txt | perl -ne '/(.+\/\d+)/ && print "  - IP-CIDR,$1,no-resolve\n"' | sed "s/|/'/g" >> china_ipv4.yaml
-echo "payload:" >  china_ipv6.yaml
-cat china_ipv6.txt | perl -ne '/(.+\/\d+)/ && print "  - IP-CIDR6,$1,no-resolve\n"' | sed "s/|/'/g" >> china_ipv6.yaml
-
+cat ip/china_ipv4.txt | perl -ne '/(.+\/\d+)/ && print "  - IP-CIDR,$1,no-resolve\n"' | sed "s/|/'/g" > clash/china_ipv4.yaml
+cat ip/china_ipv6.txt | perl -ne '/(.+\/\d+)/ && print "  - IP-CIDR6,$1,no-resolve\n"' | sed "s/|/'/g" > clash/china_ipv6.yaml
+cat clash/china_ipv4.yaml > clash/china_all.yaml
+cat clash/china_ipv6.yaml >> clash/china_all.yaml
+sed -i '1 i\payload:' clash/china_all.yaml
+sed -i '1 i\payload:' clash/china_ipv4.yaml
+sed -i '1 i\payload:' clash/china_ipv6.yaml
 
 # 直连域名
 # direct_xiaonuo
