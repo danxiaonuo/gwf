@@ -8961,7 +8961,6 @@ IP-CIDR6,2400:cdc0::/32,no-resolve
 IP-CIDR6,2400:ce00::/32,no-resolve
 IP-CIDR6,2400:ce40::/32,no-resolve
 IP-CIDR6,2400:cf40::/32,no-resolve
-IP-CIDR6,2400:cf80::/32,no-resolve
 IP-CIDR6,2400:cfc0::/32,no-resolve
 IP-CIDR6,2400:d0c0::/32,no-resolve
 IP-CIDR6,2400:d100::/32,no-resolve
