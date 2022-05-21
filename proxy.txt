@@ -4261,7 +4261,6 @@ archive.org
 archive.ph
 archive.st
 archive.today
-archive.vn
 archiveofourown.com
 archiveofourown.me
 archiveofourown.net
@@ -6072,7 +6071,6 @@ blogspot.cv
 blogspot.cz
 blogspot.de
 blogspot.dk
-blogspot.es
 blogspot.fi
 blogspot.fr
 blogspot.gr
@@ -11727,7 +11725,6 @@ evilangel.com
 evilbs.com
 evise.com
 evolutionguide.blogspot.co.nz
-evozi.com
 evpn.me
 evropaelire.org
 evsc.org.au
@@ -14296,7 +14293,6 @@ google.bt
 google.by
 google.ca
 google.cat
-google.cc
 google.cd
 google.cf
 google.cg
@@ -14354,12 +14350,10 @@ google.com.gh
 google.com.gi
 google.com.gt
 google.com.hk
-google.com.iq
 google.com.jm
 google.com.kh
 google.com.kw
 google.com.lb
-google.com.lc
 google.com.libproxy.mit.edu
 google.com.ly
 google.com.mm
@@ -14386,7 +14380,6 @@ google.com.sg
 google.com.sl
 google.com.sv
 google.com.tj
-google.com.tn
 google.com.tr
 google.com.tw
 google.com.ua
@@ -14410,7 +14403,6 @@ google.fm
 google.fr
 google.ga
 google.ge
-google.gf
 google.gg
 google.gl
 google.gm
@@ -14425,7 +14417,6 @@ google.hu
 google.ie
 google.im
 google.in
-google.io
 google.iq
 google.is
 google.it
@@ -14493,7 +14484,6 @@ google.tse.moe
 google.tt
 google.tw
 google.ua
-google.uk
 google.us
 google.ventures
 google.vg
@@ -19414,7 +19404,6 @@ maikou.com
 mail-archive.com
 mail-attachment.googleusercontent.com
 mail.cod.edu
-mail.com
 mail.cyberpower.com
 mail.dynit.it
 mail.embraco.com
@@ -19839,7 +19828,6 @@ megworld.co.uk
 mehide.org
 meibath.com
 meilizhongguo.biz
-meirifuli.org
 meirixiaochao.com
 meltdownintibet.com
 meltoday.com
@@ -21105,7 +21093,6 @@ n2.flnet.org
 n24.de
 n2646.com
 n33285.com
-n3ro.live
 n3ro.lol
 n3ro.net
 n3ro.wtf
@@ -23217,7 +23204,6 @@ pewinternet.org
 pewreligion.org
 pewresearch.org
 pewsocialtrends.org
-pexcn.me
 pezblanco.cl
 pf
 pf.anonplus.org
@@ -24751,7 +24737,6 @@ registerhulu.com
 registeridm.com
 registry.google
 rehabforum.org
-reimu.net
 reindeervpn.com
 reisrelaas.nl
 rejectccp.com
@@ -29864,7 +29849,6 @@ viu.com
 viu.tv
 viva
 vivahentai4u.net
-vivaldi.net
 vivatube.com
 vivianchan.com
 viviparana.com

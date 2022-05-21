@@ -4549,7 +4549,6 @@ DOMAIN-SUFFIX,+.archive.org
 DOMAIN-SUFFIX,+.archive.ph
 DOMAIN-SUFFIX,+.archive.st
 DOMAIN-SUFFIX,+.archive.today
-DOMAIN-SUFFIX,+.archive.vn
 DOMAIN-SUFFIX,+.archiveofourown.com
 DOMAIN-SUFFIX,+.archiveofourown.me
 DOMAIN-SUFFIX,+.archiveofourown.net
@@ -6360,7 +6359,6 @@ DOMAIN-SUFFIX,+.blogspot.cv
 DOMAIN-SUFFIX,+.blogspot.cz
 DOMAIN-SUFFIX,+.blogspot.de
 DOMAIN-SUFFIX,+.blogspot.dk
-DOMAIN-SUFFIX,+.blogspot.es
 DOMAIN-SUFFIX,+.blogspot.fi
 DOMAIN-SUFFIX,+.blogspot.fr
 DOMAIN-SUFFIX,+.blogspot.gr
@@ -12015,7 +12013,6 @@ DOMAIN-SUFFIX,+.evilangel.com
 DOMAIN-SUFFIX,+.evilbs.com
 DOMAIN-SUFFIX,+.evise.com
 DOMAIN-SUFFIX,+.evolutionguide.blogspot.co.nz
-DOMAIN-SUFFIX,+.evozi.com
 DOMAIN-SUFFIX,+.evpn.me
 DOMAIN-SUFFIX,+.evropaelire.org
 DOMAIN-SUFFIX,+.evsc.org.au
@@ -14584,7 +14581,6 @@ DOMAIN-SUFFIX,+.google.bt
 DOMAIN-SUFFIX,+.google.by
 DOMAIN-SUFFIX,+.google.ca
 DOMAIN-SUFFIX,+.google.cat
-DOMAIN-SUFFIX,+.google.cc
 DOMAIN-SUFFIX,+.google.cd
 DOMAIN-SUFFIX,+.google.cf
 DOMAIN-SUFFIX,+.google.cg
@@ -14642,12 +14638,10 @@ DOMAIN-SUFFIX,+.google.com.gh
 DOMAIN-SUFFIX,+.google.com.gi
 DOMAIN-SUFFIX,+.google.com.gt
 DOMAIN-SUFFIX,+.google.com.hk
-DOMAIN-SUFFIX,+.google.com.iq
 DOMAIN-SUFFIX,+.google.com.jm
 DOMAIN-SUFFIX,+.google.com.kh
 DOMAIN-SUFFIX,+.google.com.kw
 DOMAIN-SUFFIX,+.google.com.lb
-DOMAIN-SUFFIX,+.google.com.lc
 DOMAIN-SUFFIX,+.google.com.libproxy.mit.edu
 DOMAIN-SUFFIX,+.google.com.ly
 DOMAIN-SUFFIX,+.google.com.mm
@@ -14674,7 +14668,6 @@ DOMAIN-SUFFIX,+.google.com.sg
 DOMAIN-SUFFIX,+.google.com.sl
 DOMAIN-SUFFIX,+.google.com.sv
 DOMAIN-SUFFIX,+.google.com.tj
-DOMAIN-SUFFIX,+.google.com.tn
 DOMAIN-SUFFIX,+.google.com.tr
 DOMAIN-SUFFIX,+.google.com.tw
 DOMAIN-SUFFIX,+.google.com.ua
@@ -14698,7 +14691,6 @@ DOMAIN-SUFFIX,+.google.fm
 DOMAIN-SUFFIX,+.google.fr
 DOMAIN-SUFFIX,+.google.ga
 DOMAIN-SUFFIX,+.google.ge
-DOMAIN-SUFFIX,+.google.gf
 DOMAIN-SUFFIX,+.google.gg
 DOMAIN-SUFFIX,+.google.gl
 DOMAIN-SUFFIX,+.google.gm
@@ -14713,7 +14705,6 @@ DOMAIN-SUFFIX,+.google.hu
 DOMAIN-SUFFIX,+.google.ie
 DOMAIN-SUFFIX,+.google.im
 DOMAIN-SUFFIX,+.google.in
-DOMAIN-SUFFIX,+.google.io
 DOMAIN-SUFFIX,+.google.iq
 DOMAIN-SUFFIX,+.google.is
 DOMAIN-SUFFIX,+.google.it
@@ -14781,7 +14772,6 @@ DOMAIN-SUFFIX,+.google.tse.moe
 DOMAIN-SUFFIX,+.google.tt
 DOMAIN-SUFFIX,+.google.tw
 DOMAIN-SUFFIX,+.google.ua
-DOMAIN-SUFFIX,+.google.uk
 DOMAIN-SUFFIX,+.google.us
 DOMAIN-SUFFIX,+.google.ventures
 DOMAIN-SUFFIX,+.google.vg
@@ -19702,7 +19692,6 @@ DOMAIN-SUFFIX,+.maikou.com
 DOMAIN-SUFFIX,+.mail-archive.com
 DOMAIN-SUFFIX,+.mail-attachment.googleusercontent.com
 DOMAIN-SUFFIX,+.mail.cod.edu
-DOMAIN-SUFFIX,+.mail.com
 DOMAIN-SUFFIX,+.mail.cyberpower.com
 DOMAIN-SUFFIX,+.mail.dynit.it
 DOMAIN-SUFFIX,+.mail.embraco.com
@@ -20127,7 +20116,6 @@ DOMAIN-SUFFIX,+.megworld.co.uk
 DOMAIN-SUFFIX,+.mehide.org
 DOMAIN-SUFFIX,+.meibath.com
 DOMAIN-SUFFIX,+.meilizhongguo.biz
-DOMAIN-SUFFIX,+.meirifuli.org
 DOMAIN-SUFFIX,+.meirixiaochao.com
 DOMAIN-SUFFIX,+.meltdownintibet.com
 DOMAIN-SUFFIX,+.meltoday.com
@@ -21393,7 +21381,6 @@ DOMAIN-SUFFIX,+.n2.flnet.org
 DOMAIN-SUFFIX,+.n24.de
 DOMAIN-SUFFIX,+.n2646.com
 DOMAIN-SUFFIX,+.n33285.com
-DOMAIN-SUFFIX,+.n3ro.live
 DOMAIN-SUFFIX,+.n3ro.lol
 DOMAIN-SUFFIX,+.n3ro.net
 DOMAIN-SUFFIX,+.n3ro.wtf
@@ -23505,7 +23492,6 @@ DOMAIN-SUFFIX,+.pewinternet.org
 DOMAIN-SUFFIX,+.pewreligion.org
 DOMAIN-SUFFIX,+.pewresearch.org
 DOMAIN-SUFFIX,+.pewsocialtrends.org
-DOMAIN-SUFFIX,+.pexcn.me
 DOMAIN-SUFFIX,+.pezblanco.cl
 DOMAIN-SUFFIX,+.pf
 DOMAIN-SUFFIX,+.pf.anonplus.org
@@ -25039,7 +25025,6 @@ DOMAIN-SUFFIX,+.registerhulu.com
 DOMAIN-SUFFIX,+.registeridm.com
 DOMAIN-SUFFIX,+.registry.google
 DOMAIN-SUFFIX,+.rehabforum.org
-DOMAIN-SUFFIX,+.reimu.net
 DOMAIN-SUFFIX,+.reindeervpn.com
 DOMAIN-SUFFIX,+.reisrelaas.nl
 DOMAIN-SUFFIX,+.rejectccp.com
@@ -30152,7 +30137,6 @@ DOMAIN-SUFFIX,+.viu.com
 DOMAIN-SUFFIX,+.viu.tv
 DOMAIN-SUFFIX,+.viva
 DOMAIN-SUFFIX,+.vivahentai4u.net
-DOMAIN-SUFFIX,+.vivaldi.net
 DOMAIN-SUFFIX,+.vivatube.com
 DOMAIN-SUFFIX,+.vivianchan.com
 DOMAIN-SUFFIX,+.viviparana.com

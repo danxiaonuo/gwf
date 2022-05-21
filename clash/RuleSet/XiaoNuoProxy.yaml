@@ -4550,7 +4550,6 @@ payload:
   - DOMAIN-SUFFIX,+.archive.ph
   - DOMAIN-SUFFIX,+.archive.st
   - DOMAIN-SUFFIX,+.archive.today
-  - DOMAIN-SUFFIX,+.archive.vn
   - DOMAIN-SUFFIX,+.archiveofourown.com
   - DOMAIN-SUFFIX,+.archiveofourown.me
   - DOMAIN-SUFFIX,+.archiveofourown.net
@@ -6361,7 +6360,6 @@ payload:
   - DOMAIN-SUFFIX,+.blogspot.cz
   - DOMAIN-SUFFIX,+.blogspot.de
   - DOMAIN-SUFFIX,+.blogspot.dk
-  - DOMAIN-SUFFIX,+.blogspot.es
   - DOMAIN-SUFFIX,+.blogspot.fi
   - DOMAIN-SUFFIX,+.blogspot.fr
   - DOMAIN-SUFFIX,+.blogspot.gr
@@ -12016,7 +12014,6 @@ payload:
   - DOMAIN-SUFFIX,+.evilbs.com
   - DOMAIN-SUFFIX,+.evise.com
   - DOMAIN-SUFFIX,+.evolutionguide.blogspot.co.nz
-  - DOMAIN-SUFFIX,+.evozi.com
   - DOMAIN-SUFFIX,+.evpn.me
   - DOMAIN-SUFFIX,+.evropaelire.org
   - DOMAIN-SUFFIX,+.evsc.org.au
@@ -14585,7 +14582,6 @@ payload:
   - DOMAIN-SUFFIX,+.google.by
   - DOMAIN-SUFFIX,+.google.ca
   - DOMAIN-SUFFIX,+.google.cat
-  - DOMAIN-SUFFIX,+.google.cc
   - DOMAIN-SUFFIX,+.google.cd
   - DOMAIN-SUFFIX,+.google.cf
   - DOMAIN-SUFFIX,+.google.cg
@@ -14643,12 +14639,10 @@ payload:
   - DOMAIN-SUFFIX,+.google.com.gi
   - DOMAIN-SUFFIX,+.google.com.gt
   - DOMAIN-SUFFIX,+.google.com.hk
-  - DOMAIN-SUFFIX,+.google.com.iq
   - DOMAIN-SUFFIX,+.google.com.jm
   - DOMAIN-SUFFIX,+.google.com.kh
   - DOMAIN-SUFFIX,+.google.com.kw
   - DOMAIN-SUFFIX,+.google.com.lb
-  - DOMAIN-SUFFIX,+.google.com.lc
   - DOMAIN-SUFFIX,+.google.com.libproxy.mit.edu
   - DOMAIN-SUFFIX,+.google.com.ly
   - DOMAIN-SUFFIX,+.google.com.mm
@@ -14675,7 +14669,6 @@ payload:
   - DOMAIN-SUFFIX,+.google.com.sl
   - DOMAIN-SUFFIX,+.google.com.sv
   - DOMAIN-SUFFIX,+.google.com.tj
-  - DOMAIN-SUFFIX,+.google.com.tn
   - DOMAIN-SUFFIX,+.google.com.tr
   - DOMAIN-SUFFIX,+.google.com.tw
   - DOMAIN-SUFFIX,+.google.com.ua
@@ -14699,7 +14692,6 @@ payload:
   - DOMAIN-SUFFIX,+.google.fr
   - DOMAIN-SUFFIX,+.google.ga
   - DOMAIN-SUFFIX,+.google.ge
-  - DOMAIN-SUFFIX,+.google.gf
   - DOMAIN-SUFFIX,+.google.gg
   - DOMAIN-SUFFIX,+.google.gl
   - DOMAIN-SUFFIX,+.google.gm
@@ -14714,7 +14706,6 @@ payload:
   - DOMAIN-SUFFIX,+.google.ie
   - DOMAIN-SUFFIX,+.google.im
   - DOMAIN-SUFFIX,+.google.in
-  - DOMAIN-SUFFIX,+.google.io
   - DOMAIN-SUFFIX,+.google.iq
   - DOMAIN-SUFFIX,+.google.is
   - DOMAIN-SUFFIX,+.google.it
@@ -14782,7 +14773,6 @@ payload:
   - DOMAIN-SUFFIX,+.google.tt
   - DOMAIN-SUFFIX,+.google.tw
   - DOMAIN-SUFFIX,+.google.ua
-  - DOMAIN-SUFFIX,+.google.uk
   - DOMAIN-SUFFIX,+.google.us
   - DOMAIN-SUFFIX,+.google.ventures
   - DOMAIN-SUFFIX,+.google.vg
@@ -19703,7 +19693,6 @@ payload:
   - DOMAIN-SUFFIX,+.mail-archive.com
   - DOMAIN-SUFFIX,+.mail-attachment.googleusercontent.com
   - DOMAIN-SUFFIX,+.mail.cod.edu
-  - DOMAIN-SUFFIX,+.mail.com
   - DOMAIN-SUFFIX,+.mail.cyberpower.com
   - DOMAIN-SUFFIX,+.mail.dynit.it
   - DOMAIN-SUFFIX,+.mail.embraco.com
@@ -20128,7 +20117,6 @@ payload:
   - DOMAIN-SUFFIX,+.mehide.org
   - DOMAIN-SUFFIX,+.meibath.com
   - DOMAIN-SUFFIX,+.meilizhongguo.biz
-  - DOMAIN-SUFFIX,+.meirifuli.org
   - DOMAIN-SUFFIX,+.meirixiaochao.com
   - DOMAIN-SUFFIX,+.meltdownintibet.com
   - DOMAIN-SUFFIX,+.meltoday.com
@@ -21394,7 +21382,6 @@ payload:
   - DOMAIN-SUFFIX,+.n24.de
   - DOMAIN-SUFFIX,+.n2646.com
   - DOMAIN-SUFFIX,+.n33285.com
-  - DOMAIN-SUFFIX,+.n3ro.live
   - DOMAIN-SUFFIX,+.n3ro.lol
   - DOMAIN-SUFFIX,+.n3ro.net
   - DOMAIN-SUFFIX,+.n3ro.wtf
@@ -23506,7 +23493,6 @@ payload:
   - DOMAIN-SUFFIX,+.pewreligion.org
   - DOMAIN-SUFFIX,+.pewresearch.org
   - DOMAIN-SUFFIX,+.pewsocialtrends.org
-  - DOMAIN-SUFFIX,+.pexcn.me
   - DOMAIN-SUFFIX,+.pezblanco.cl
   - DOMAIN-SUFFIX,+.pf
   - DOMAIN-SUFFIX,+.pf.anonplus.org
@@ -25040,7 +25026,6 @@ payload:
   - DOMAIN-SUFFIX,+.registeridm.com
   - DOMAIN-SUFFIX,+.registry.google
   - DOMAIN-SUFFIX,+.rehabforum.org
-  - DOMAIN-SUFFIX,+.reimu.net
   - DOMAIN-SUFFIX,+.reindeervpn.com
   - DOMAIN-SUFFIX,+.reisrelaas.nl
   - DOMAIN-SUFFIX,+.rejectccp.com
@@ -30153,7 +30138,6 @@ payload:
   - DOMAIN-SUFFIX,+.viu.tv
   - DOMAIN-SUFFIX,+.viva
   - DOMAIN-SUFFIX,+.vivahentai4u.net
-  - DOMAIN-SUFFIX,+.vivaldi.net
   - DOMAIN-SUFFIX,+.vivatube.com
   - DOMAIN-SUFFIX,+.vivianchan.com
   - DOMAIN-SUFFIX,+.viviparana.com
