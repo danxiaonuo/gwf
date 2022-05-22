@@ -6070,6 +6070,7 @@ payload:
   - DOMAIN-SUFFIX,+.bitballoon.com
   - DOMAIN-SUFFIX,+.bitbank.cc
   - DOMAIN-SUFFIX,+.bitbay.net
+  - DOMAIN-SUFFIX,+.bitbucket.io
   - DOMAIN-SUFFIX,+.bitbucket.org
   - DOMAIN-SUFFIX,+.bitc.bme.emory.edu
   - DOMAIN-SUFFIX,+.bitchmomporn.com
@@ -7892,6 +7893,7 @@ payload:
   - DOMAIN-SUFFIX,+.cencoastbmw.com
   - DOMAIN-SUFFIX,+.cenews.eu
   - DOMAIN-SUFFIX,+.cenkei.com
+  - DOMAIN-SUFFIX,+.censorship.ai
   - DOMAIN-SUFFIX,+.centauro.com.br
   - DOMAIN-SUFFIX,+.centavoip.com.ar
   - DOMAIN-SUFFIX,+.centerforhumanreprod.com
@@ -17631,6 +17633,7 @@ payload:
   - DOMAIN-SUFFIX,+.javhdfree.net
   - DOMAIN-SUFFIX,+.javhdonline.com
   - DOMAIN-SUFFIX,+.javhdporn.com
+  - DOMAIN-SUFFIX,+.javhdporn.net
   - DOMAIN-SUFFIX,+.javher.com
   - DOMAIN-SUFFIX,+.javhihi.com
   - DOMAIN-SUFFIX,+.javhip.com
@@ -17916,6 +17919,7 @@ payload:
   - DOMAIN-SUFFIX,+.jonward.com
   - DOMAIN-SUFFIX,+.joox.com
   - DOMAIN-SUFFIX,+.jorn.net
+  - DOMAIN-SUFFIX,+.jornaldacidadeonline.com.br
   - DOMAIN-SUFFIX,+.jos.com
   - DOMAIN-SUFFIX,+.joshinweb.jp
   - DOMAIN-SUFFIX,+.joshuarue.com
@@ -20117,7 +20121,8 @@ payload:
   - DOMAIN-SUFFIX,+.mehide.org
   - DOMAIN-SUFFIX,+.meibath.com
   - DOMAIN-SUFFIX,+.meilizhongguo.biz
-  - DOMAIN-SUFFIX,+.meirixiaochao.com
+  - DOMAIN-SUFFIX,+.meizhong.blog
+  - DOMAIN-SUFFIX,+.meizhong.report
   - DOMAIN-SUFFIX,+.meltdownintibet.com
   - DOMAIN-SUFFIX,+.meltoday.com
   - DOMAIN-SUFFIX,+.member.cff888.com
@@ -20202,6 +20207,7 @@ payload:
   - DOMAIN-SUFFIX,+.meteorshowersonline.com
   - DOMAIN-SUFFIX,+.methdad.com
   - DOMAIN-SUFFIX,+.metlife
+  - DOMAIN-SUFFIX,+.metro.taipei
   - DOMAIN-SUFFIX,+.metrohk.com.hk
   - DOMAIN-SUFFIX,+.metrolife.ca
   - DOMAIN-SUFFIX,+.metropolitana.tokyo
@@ -21611,6 +21617,7 @@ payload:
   - DOMAIN-SUFFIX,+.netme.cc
   - DOMAIN-SUFFIX,+.netmums.com
   - DOMAIN-SUFFIX,+.netpornsex.com
+  - DOMAIN-SUFFIX,+.netsarang.com
   - DOMAIN-SUFFIX,+.netsee.co
   - DOMAIN-SUFFIX,+.netsjoes.com.br
   - DOMAIN-SUFFIX,+.netsneak.com
@@ -26628,6 +26635,7 @@ payload:
   - DOMAIN-SUFFIX,+.sokamonline.com
   - DOMAIN-SUFFIX,+.sokmil.com
   - DOMAIN-SUFFIX,+.sola.idv.tw
+  - DOMAIN-SUFFIX,+.solana.com
   - DOMAIN-SUFFIX,+.solarcity.com
   - DOMAIN-SUFFIX,+.solarsystem.nasa.gov
   - DOMAIN-SUFFIX,+.soldier.ga
@@ -29572,6 +29580,7 @@ payload:
   - DOMAIN-SUFFIX,+.usb3.gq
   - DOMAIN-SUFFIX,+.uscellular.com
   - DOMAIN-SUFFIX,+.uscirf.gov
+  - DOMAIN-SUFFIX,+.uscnpm.org
   - DOMAIN-SUFFIX,+.uscti.org
   - DOMAIN-SUFFIX,+.usdehua.com
   - DOMAIN-SUFFIX,+.useplannr.com
@@ -34516,7 +34525,6 @@ payload:
   - DOMAIN-SUFFIX,+.www.metasploit.com
   - DOMAIN-SUFFIX,+.www.metcn.com
   - DOMAIN-SUFFIX,+.www.meteo.fr
-  - DOMAIN-SUFFIX,+.www.metro.taipei
   - DOMAIN-SUFFIX,+.www.metropolismag.com
   - DOMAIN-SUFFIX,+.www.mf8.com.cn
   - DOMAIN-SUFFIX,+.www.mgm8091.com
