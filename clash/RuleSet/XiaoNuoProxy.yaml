@@ -5785,7 +5785,6 @@ payload:
   - DOMAIN-SUFFIX,+.benchprep.org
   - DOMAIN-SUFFIX,+.benchworkforce.com.au
   - DOMAIN-SUFFIX,+.benditabreja.com.br
-  - DOMAIN-SUFFIX,+.benghuai.com
   - DOMAIN-SUFFIX,+.benjibot.xyz
   - DOMAIN-SUFFIX,+.benliton.com
   - DOMAIN-SUFFIX,+.bennyp.net
@@ -5914,7 +5913,6 @@ payload:
   - DOMAIN-SUFFIX,+.bgsystem.1680210.com
   - DOMAIN-SUFFIX,+.bgvpn.com
   - DOMAIN-SUFFIX,+.bh
-  - DOMAIN-SUFFIX,+.bh3.com
   - DOMAIN-SUFFIX,+.bhaktivedantacollege.com
   - DOMAIN-SUFFIX,+.bharti
   - DOMAIN-SUFFIX,+.bhkta.org
@@ -20363,13 +20361,7 @@ payload:
   - DOMAIN-SUFFIX,+.midnightfever.com
   - DOMAIN-SUFFIX,+.miguelsuarez.cl
   - DOMAIN-SUFFIX,+.mih
-  - DOMAIN-SUFFIX,+.mihayo.com
-  - DOMAIN-SUFFIX,+.mihayou.com
   - DOMAIN-SUFFIX,+.mihk.hk
-  - DOMAIN-SUFFIX,+.mihoyo.com
-  - DOMAIN-SUFFIX,+.mihoyocg.com
-  - DOMAIN-SUFFIX,+.mihoyogift.com
-  - DOMAIN-SUFFIX,+.mihoyomall.com
   - DOMAIN-SUFFIX,+.mihr.com
   - DOMAIN-SUFFIX,+.mihua.org
   - DOMAIN-SUFFIX,+.mii
@@ -20605,7 +20597,6 @@ payload:
   - DOMAIN-SUFFIX,+.mixturecloud.com
   - DOMAIN-SUFFIX,+.mixvintagesex.com
   - DOMAIN-SUFFIX,+.mixx.com
-  - DOMAIN-SUFFIX,+.miyoushe.com
   - DOMAIN-SUFFIX,+.mizado.com
   - DOMAIN-SUFFIX,+.mizzmona.com
   - DOMAIN-SUFFIX,+.mjfuentes.com
@@ -24260,6 +24251,7 @@ payload:
   - DOMAIN-SUFFIX,+.prostudiobeatscybersale.com
   - DOMAIN-SUFFIX,+.proteinalactea.com
   - DOMAIN-SUFFIX,+.protempproducts.com
+  - DOMAIN-SUFFIX,+.proton.me
   - DOMAIN-SUFFIX,+.protonmail.ch
   - DOMAIN-SUFFIX,+.protonmail.com
   - DOMAIN-SUFFIX,+.protonstatus.com
@@ -28094,7 +28086,6 @@ payload:
   - DOMAIN-SUFFIX,+.themilfmovies.com
   - DOMAIN-SUFFIX,+.themillions.com
   - DOMAIN-SUFFIX,+.themimosagal.com
-  - DOMAIN-SUFFIX,+.themisweeps.com
   - DOMAIN-SUFFIX,+.themostimportantnews.com
   - DOMAIN-SUFFIX,+.themoviedb.org
   - DOMAIN-SUFFIX,+.thenanfang.com
@@ -37556,7 +37547,6 @@ payload:
   - DOMAIN-SUFFIX,+.yu33.net
   - DOMAIN-SUFFIX,+.yuan.idv.tw
   - DOMAIN-SUFFIX,+.yuanming.net
-  - DOMAIN-SUFFIX,+.yuanshen.com
   - DOMAIN-SUFFIX,+.yuanzhengtang.org
   - DOMAIN-SUFFIX,+.yuanzone.no-ip.net
   - DOMAIN-SUFFIX,+.yubew.com
