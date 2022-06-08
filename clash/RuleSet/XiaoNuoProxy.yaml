@@ -12,6 +12,10 @@ payload:
   - DOMAIN-SUFFIX,zabbix.com
   - DOMAIN-SUFFIX,netsarang.com
   - DOMAIN-SUFFIX,jetbrains.com
+  - DOMAIN-SUFFIX,zdassets.com
+  - DOMAIN-SUFFIX,zendesk.com
+  - DOMAIN-SUFFIX,typography.com
+  - DOMAIN-SUFFIX,unpkg.com
   
   # 混合
   # Apple
