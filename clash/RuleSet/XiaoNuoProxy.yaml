@@ -15742,6 +15742,7 @@ payload:
   - DOMAIN-SUFFIX,+.himalayan-foundation.org
   - DOMAIN-SUFFIX,+.himalayanconsensus.org
   - DOMAIN-SUFFIX,+.himalayanglacier.com
+  - DOMAIN-SUFFIX,+.himalayawashingtondc.org
   - DOMAIN-SUFFIX,+.himemix.com
   - DOMAIN-SUFFIX,+.himemix.net
   - DOMAIN-SUFFIX,+.hindawi.com
@@ -21854,7 +21855,6 @@ payload:
   - DOMAIN-SUFFIX,+.news1024.com
   - DOMAIN-SUFFIX,+.news1130.com
   - DOMAIN-SUFFIX,+.news24.com
-  - DOMAIN-SUFFIX,+.news3.rexcha.com
   - DOMAIN-SUFFIX,+.newsamerica.com
   - DOMAIN-SUFFIX,+.newsancai.com
   - DOMAIN-SUFFIX,+.newsblur.com
@@ -25275,6 +25275,7 @@ payload:
   - DOMAIN-SUFFIX,+.reward.ggcarry888.com
   - DOMAIN-SUFFIX,+.rewrite-anime.tv
   - DOMAIN-SUFFIX,+.rex9559.com
+  - DOMAIN-SUFFIX,+.rexcha.com
   - DOMAIN-SUFFIX,+.rexroth
   - DOMAIN-SUFFIX,+.reyval.com.mx
   - DOMAIN-SUFFIX,+.reyval.mx
