@@ -17,6 +17,7 @@ payload:
   - DOMAIN-SUFFIX,typography.com
   - DOMAIN-SUFFIX,unpkg.com
   - DOMAIN-SUFFIX,oraclecloud.com
+  - DOMAIN-SUFFIX,v2ex.com
   
   # 混合
   # Apple
