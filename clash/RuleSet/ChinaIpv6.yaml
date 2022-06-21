@@ -725,7 +725,6 @@ payload:
   - IP-CIDR6,2402:b080::/32,no-resolve
   - IP-CIDR6,2402:b200::/32,no-resolve
   - IP-CIDR6,2402:b380::/32,no-resolve
-  - IP-CIDR6,2402:b3c0::/32,no-resolve
   - IP-CIDR6,2402:b440::/32,no-resolve
   - IP-CIDR6,2402:b6c0::/32,no-resolve
   - IP-CIDR6,2402:b880::/32,no-resolve
