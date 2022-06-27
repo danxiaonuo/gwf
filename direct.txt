@@ -12509,7 +12509,6 @@ bytemastatic.com
 byteoc.com
 byteorg.com
 byteorge.com
-byteoversea.com
 bytescm.com
 bytesfield.com
 bytesmanager.com
@@ -21160,7 +21159,6 @@ elvhome.com
 elvshi.com
 elvxing.net
 elxk.com
-emacs-china.org
 emadao.com
 emaileds.com
 emailflame.com
@@ -40582,7 +40580,6 @@ mupceet.com
 murdermysterypa.com
 murl.tv
 muryi.net
-muscdn.com
 muse-ui.org
 muselab-tech.com
 mushafa.net
@@ -40591,7 +40588,6 @@ mushroomchina.com
 music.apple.com
 music163.com
 music4x.com
-musical.ly
 musicchina-expo.com
 musicdu.com
 musiceol.com
@@ -52677,14 +52673,10 @@ tijianbao.com
 tijianka.cc
 tijianshangmen.com
 tijianzhuanjia.com
-tik-tokapi.com
 tikane.com
 tikersport.com
 tikimg.cc
 tiklink.cc
-tiktok.com
-tiktokcdn.com
-tiktokv.com
 tikuol.com
 tillcn.com
 tillglance.com
