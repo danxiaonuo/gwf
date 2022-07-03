@@ -8981,6 +8981,7 @@ payload:
   - DOMAIN-SUFFIX,+.cors-anywhere.herokuapp.com
   - DOMAIN-SUFFIX,+.cortanaanalytics.com
   - DOMAIN-SUFFIX,+.cortanaskills.com
+  - DOMAIN-SUFFIX,+.cortexrpg.com
   - DOMAIN-SUFFIX,+.corumcollege.com
   - DOMAIN-SUFFIX,+.cos-moe.com
   - DOMAIN-SUFFIX,+.cosersuki.net
