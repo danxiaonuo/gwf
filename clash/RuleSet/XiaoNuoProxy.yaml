@@ -778,6 +778,7 @@ payload:
   - DOMAIN-SUFFIX,+.1688.com.au
   - DOMAIN-SUFFIX,+.1688000008.com
   - DOMAIN-SUFFIX,+.168801.net
+  - DOMAIN-SUFFIX,+.16885858.com
   - DOMAIN-SUFFIX,+.1688620.com
   - DOMAIN-SUFFIX,+.168bet9.com
   - DOMAIN-SUFFIX,+.168member.1680380.com
@@ -2768,6 +2769,7 @@ payload:
   - DOMAIN-SUFFIX,+.91cqmm.com
   - DOMAIN-SUFFIX,+.91cy.app
   - DOMAIN-SUFFIX,+.91dizhi.com
+  - DOMAIN-SUFFIX,+.91gay.me
   - DOMAIN-SUFFIX,+.91pic.net
   - DOMAIN-SUFFIX,+.91porn.com
   - DOMAIN-SUFFIX,+.91porn.w3p.la
@@ -3058,10 +3060,8 @@ payload:
   - DOMAIN-SUFFIX,+.a-e-t.org
   - DOMAIN-SUFFIX,+.a-hentai.tv
   - DOMAIN-SUFFIX,+.a-normal-day.com
-  - DOMAIN-SUFFIX,+.a.91gay.me
   - DOMAIN-SUFFIX,+.a.bnaz.org
   - DOMAIN-SUFFIX,+.a.idm.host
-  - DOMAIN-SUFFIX,+.a.kslive.tv
   - DOMAIN-SUFFIX,+.a.leohearts.com
   - DOMAIN-SUFFIX,+.a.mb2.host
   - DOMAIN-SUFFIX,+.a.pomf.se
@@ -3459,6 +3459,7 @@ payload:
   - DOMAIN-SUFFIX,+.aff.ptw8.com
   - DOMAIN-SUFFIX,+.aff365sal.com
   - DOMAIN-SUFFIX,+.affcny.lbbet.com
+  - DOMAIN-SUFFIX,+.affect3dstore.com
   - DOMAIN-SUFFIX,+.affiliate.pncle8.com
   - DOMAIN-SUFFIX,+.affiliate.w88win.com
   - DOMAIN-SUFFIX,+.affiliates.abab16.com
@@ -10113,6 +10114,7 @@ payload:
   - DOMAIN-SUFFIX,+.dd935.net
   - DOMAIN-SUFFIX,+.dd9871.com
   - DOMAIN-SUFFIX,+.ddc.com.tw
+  - DOMAIN-SUFFIX,+.ddd-smart.net
   - DOMAIN-SUFFIX,+.ddd.po888.net
   - DOMAIN-SUFFIX,+.ddd304w8960jc.cloudfront.net
   - DOMAIN-SUFFIX,+.ddd626.net
@@ -10896,6 +10898,7 @@ payload:
   - DOMAIN-SUFFIX,+.doujin-moe.us
   - DOMAIN-SUFFIX,+.doujinantena.com
   - DOMAIN-SUFFIX,+.doujincafe.com
+  - DOMAIN-SUFFIX,+.doujinnomori.com
   - DOMAIN-SUFFIX,+.doujins.com
   - DOMAIN-SUFFIX,+.doust.net.au
   - DOMAIN-SUFFIX,+.douwriteright.com
@@ -18626,6 +18629,7 @@ payload:
   - DOMAIN-SUFFIX,+.ksforfree.ml
   - DOMAIN-SUFFIX,+.kshownow.net
   - DOMAIN-SUFFIX,+.ksks.4irc.com
+  - DOMAIN-SUFFIX,+.kslive.tv
   - DOMAIN-SUFFIX,+.ksmeow.moe
   - DOMAIN-SUFFIX,+.ksmxpj.com
   - DOMAIN-SUFFIX,+.ksnews.com.tw
@@ -25550,6 +25554,7 @@ payload:
   - DOMAIN-SUFFIX,+.rukor.org
   - DOMAIN-SUFFIX,+.rule-34.net
   - DOMAIN-SUFFIX,+.rule34.xxx
+  - DOMAIN-SUFFIX,+.rule34video.com
   - DOMAIN-SUFFIX,+.ruleporn.com
   - DOMAIN-SUFFIX,+.rumah123.com
   - DOMAIN-SUFFIX,+.rumahsabiq.com
@@ -37058,6 +37063,7 @@ payload:
   - DOMAIN-SUFFIX,+.xn--9pr62r24a.com
   - DOMAIN-SUFFIX,+.xn--9trs65b.com
   - DOMAIN-SUFFIX,+.xn--b4w605ferd
+  - DOMAIN-SUFFIX,+.xn--cck4d8b3009a.com
   - DOMAIN-SUFFIX,+.xn--cckwcxetd
   - DOMAIN-SUFFIX,+.xn--cg4bki
   - DOMAIN-SUFFIX,+.xn--czq75pvv1aj5c.org
@@ -37102,6 +37108,7 @@ payload:
   - DOMAIN-SUFFIX,+.xn--q41am8x.com
   - DOMAIN-SUFFIX,+.xn--qcka1pmc
   - DOMAIN-SUFFIX,+.xn--qoq462m.com
+  - DOMAIN-SUFFIX,+.xn--r8jwklh769h2mc880dk1o431a.com
   - DOMAIN-SUFFIX,+.xn--rdt-0na.no
   - DOMAIN-SUFFIX,+.xn--rs8h.tk
   - DOMAIN-SUFFIX,+.xn--ruq8a011kt6y.xn--hxt814e
