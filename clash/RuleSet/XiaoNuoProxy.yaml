@@ -17794,6 +17794,7 @@ payload:
   - DOMAIN-SUFFIX,+.javtag.com
   - DOMAIN-SUFFIX,+.javtag.net
   - DOMAIN-SUFFIX,+.javtasty.com
+  - DOMAIN-SUFFIX,+.javtorrent.me
   - DOMAIN-SUFFIX,+.javtorrent.re
   - DOMAIN-SUFFIX,+.javtube.com
   - DOMAIN-SUFFIX,+.javvan.cc
