@@ -8926,6 +8926,7 @@ payload:
   - IP-CIDR6,2400:9020::/32,no-resolve
   - IP-CIDR6,2400:9040::/32,no-resolve
   - IP-CIDR6,2400:9340::/32,no-resolve
+  - IP-CIDR6,2400:93e0::/32,no-resolve
   - IP-CIDR6,2400:9580::/32,no-resolve
   - IP-CIDR6,2400:95c0::/32,no-resolve
   - IP-CIDR6,2400:9600::/32,no-resolve
