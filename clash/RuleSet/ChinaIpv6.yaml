@@ -39,6 +39,7 @@ payload:
   - IP-CIDR6,2001:df0:b180::/48,no-resolve
   - IP-CIDR6,2001:df0:bf80::/48,no-resolve
   - IP-CIDR6,2001:df0:d880::/48,no-resolve
+  - IP-CIDR6,2001:df0:f8c0::/48,no-resolve
   - IP-CIDR6,2001:df1:c80::/48,no-resolve
   - IP-CIDR6,2001:df1:4580::/48,no-resolve
   - IP-CIDR6,2001:df1:5280::/48,no-resolve
@@ -292,6 +293,7 @@ payload:
   - IP-CIDR6,2400:9040::/32,no-resolve
   - IP-CIDR6,2400:9340::/32,no-resolve
   - IP-CIDR6,2400:93e0::/32,no-resolve
+  - IP-CIDR6,2400:9520::/32,no-resolve
   - IP-CIDR6,2400:9580::/32,no-resolve
   - IP-CIDR6,2400:95c0::/32,no-resolve
   - IP-CIDR6,2400:9600::/32,no-resolve
