@@ -10681,6 +10681,7 @@ payload:
   - DOMAIN-SUFFIX,+.dmm.uk.to
   - DOMAIN-SUFFIX,+.dmmapis.com
   - DOMAIN-SUFFIX,+.dmmbus.com
+  - DOMAIN-SUFFIX,+.dmmrex.com
   - DOMAIN-SUFFIX,+.dmyoutube.com
   - DOMAIN-SUFFIX,+.dn206h8eqs6g8.cloudfront.net
   - DOMAIN-SUFFIX,+.dn4ukv29o9crq.cloudfront.net
