@@ -2747,6 +2747,7 @@ payload:
   - DOMAIN-SUFFIX,+.8dice168.com
   - DOMAIN-SUFFIX,+.8dy.me
   - DOMAIN-SUFFIX,+.8fig.net
+  - DOMAIN-SUFFIX,+.8kcosplay.com
   - DOMAIN-SUFFIX,+.8lzu.iqi.asu.su
   - DOMAIN-SUFFIX,+.8mei.vip
   - DOMAIN-SUFFIX,+.8muses.com
@@ -24430,6 +24431,7 @@ payload:
   - DOMAIN-SUFFIX,+.playboy.com
   - DOMAIN-SUFFIX,+.playboyplus.com
   - DOMAIN-SUFFIX,+.playbydurex.com
+  - DOMAIN-SUFFIX,+.playcover.io
   - DOMAIN-SUFFIX,+.player.fm
   - DOMAIN-SUFFIX,+.player.spotify.com
   - DOMAIN-SUFFIX,+.playerjs.io
@@ -30647,6 +30649,7 @@ payload:
   - DOMAIN-SUFFIX,+.uwpcommunitytoolkit.com
   - DOMAIN-SUFFIX,+.uxdesign.cc
   - DOMAIN-SUFFIX,+.uxdict.io
+  - DOMAIN-SUFFIX,+.uxxxporn.com
   - DOMAIN-SUFFIX,+.uy
   - DOMAIN-SUFFIX,+.uy500.com
   - DOMAIN-SUFFIX,+.uybbb.com
