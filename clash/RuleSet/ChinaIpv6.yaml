@@ -586,7 +586,6 @@ payload:
   - IP-CIDR6,2402:1000::/32,no-resolve
   - IP-CIDR6,2402:1440::/32,no-resolve
   - IP-CIDR6,2402:14c0::/32,no-resolve
-  - IP-CIDR6,2402:1540::/32,no-resolve
   - IP-CIDR6,2402:1600::/32,no-resolve
   - IP-CIDR6,2402:1740::/32,no-resolve
   - IP-CIDR6,2402:19c0::/32,no-resolve
