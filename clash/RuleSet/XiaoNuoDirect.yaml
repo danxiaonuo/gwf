@@ -1078,7 +1078,6 @@ payload:
   - DOMAIN-SUFFIX,+.1066888.com
   - DOMAIN-SUFFIX,+.1073.com
   - DOMAIN-SUFFIX,+.107788.com
-  - DOMAIN-SUFFIX,+.1078899.com
   - DOMAIN-SUFFIX,+.1080prmvb.com
   - DOMAIN-SUFFIX,+.108101.xyz
   - DOMAIN-SUFFIX,+.108105.xyz
@@ -2192,7 +2191,6 @@ payload:
   - DOMAIN-SUFFIX,+.1yd.me
   - DOMAIN-SUFFIX,+.1yee.com
   - DOMAIN-SUFFIX,+.1ykh.com
-  - DOMAIN-SUFFIX,+.1yltao.com
   - DOMAIN-SUFFIX,+.1yun.cc
   - DOMAIN-SUFFIX,+.1yyg.com
   - DOMAIN-SUFFIX,+.1zhangdan.com
@@ -6410,7 +6408,6 @@ payload:
   - DOMAIN-SUFFIX,+.84684.net
   - DOMAIN-SUFFIX,+.8477.com
   - DOMAIN-SUFFIX,+.848.com
-  - DOMAIN-SUFFIX,+.8498899.com
   - DOMAIN-SUFFIX,+.849959.com
   - DOMAIN-SUFFIX,+.84dwc.com
   - DOMAIN-SUFFIX,+.84fk.com
@@ -9638,7 +9635,6 @@ payload:
   - DOMAIN-SUFFIX,+.astfc.com
   - DOMAIN-SUFFIX,+.asthis.net
   - DOMAIN-SUFFIX,+.astorpiano.com
-  - DOMAIN-SUFFIX,+.astrocn.org
   - DOMAIN-SUFFIX,+.astron.ac
   - DOMAIN-SUFFIX,+.astropulsion.com
   - DOMAIN-SUFFIX,+.asussmart.com
@@ -13085,6 +13081,7 @@ payload:
   - DOMAIN-SUFFIX,+.cazpw.com
   - DOMAIN-SUFFIX,+.cbca.net
   - DOMAIN-SUFFIX,+.cbcie.com
+  - DOMAIN-SUFFIX,+.cbdcn.com
   - DOMAIN-SUFFIX,+.cbdio.com
   - DOMAIN-SUFFIX,+.cbdjrsh.org
   - DOMAIN-SUFFIX,+.cbe21.com
@@ -14856,6 +14853,7 @@ payload:
   - DOMAIN-SUFFIX,+.chinaqking.com
   - DOMAIN-SUFFIX,+.chinaql.org
   - DOMAIN-SUFFIX,+.chinaqoe.net
+  - DOMAIN-SUFFIX,+.chinaquest.com
   - DOMAIN-SUFFIX,+.chinaquickpcb.com
   - DOMAIN-SUFFIX,+.chinaqw.com
   - DOMAIN-SUFFIX,+.chinarayying.com
@@ -20893,6 +20891,7 @@ payload:
   - DOMAIN-SUFFIX,+.eduglobalchina.com
   - DOMAIN-SUFFIX,+.eduiso.com
   - DOMAIN-SUFFIX,+.edujia.com
+  - DOMAIN-SUFFIX,+.edujianshe.com
   - DOMAIN-SUFFIX,+.edumail.pub
   - DOMAIN-SUFFIX,+.eduour.com
   - DOMAIN-SUFFIX,+.edupm.com
@@ -23139,6 +23138,7 @@ payload:
   - DOMAIN-SUFFIX,+.fqis.xin
   - DOMAIN-SUFFIX,+.fqjob.net
   - DOMAIN-SUFFIX,+.fqnovel.com
+  - DOMAIN-SUFFIX,+.fqnovelstatic.com
   - DOMAIN-SUFFIX,+.fqpai.com
   - DOMAIN-SUFFIX,+.fqsszx.com
   - DOMAIN-SUFFIX,+.fqxs.org
@@ -25090,6 +25090,7 @@ payload:
   - DOMAIN-SUFFIX,+.gstarcad.com
   - DOMAIN-SUFFIX,+.gstdt.com
   - DOMAIN-SUFFIX,+.gstonegames.com
+  - DOMAIN-SUFFIX,+.gsxb.net
   - DOMAIN-SUFFIX,+.gsxcdn.com
   - DOMAIN-SUFFIX,+.gsxservice.com
   - DOMAIN-SUFFIX,+.gsxtj.com
@@ -33811,7 +33812,6 @@ payload:
   - DOMAIN-SUFFIX,+.justalkcloud.com
   - DOMAIN-SUFFIX,+.justbilt.com
   - DOMAIN-SUFFIX,+.justbon.com
-  - DOMAIN-SUFFIX,+.justdo.tv
   - DOMAIN-SUFFIX,+.justdojava.com
   - DOMAIN-SUFFIX,+.justep.com
   - DOMAIN-SUFFIX,+.justering.com
@@ -38527,6 +38527,7 @@ payload:
   - DOMAIN-SUFFIX,+.mamicode.com
   - DOMAIN-SUFFIX,+.mamilist.com
   - DOMAIN-SUFFIX,+.mamioo.com
+  - DOMAIN-SUFFIX,+.mamoe.net
   - DOMAIN-SUFFIX,+.mamsh.org
   - DOMAIN-SUFFIX,+.managershare.com
   - DOMAIN-SUFFIX,+.manben.com
@@ -38955,6 +38956,7 @@ payload:
   - DOMAIN-SUFFIX,+.meet99.com
   - DOMAIN-SUFFIX,+.meetfave.com
   - DOMAIN-SUFFIX,+.meethall.com
+  - DOMAIN-SUFFIX,+.meetingmeet.com
   - DOMAIN-SUFFIX,+.meetlawyer.com
   - DOMAIN-SUFFIX,+.meetsite.com
   - DOMAIN-SUFFIX,+.meetwhale.com
@@ -40531,7 +40533,6 @@ payload:
   - DOMAIN-SUFFIX,+.mux5.com
   - DOMAIN-SUFFIX,+.muxin.fun
   - DOMAIN-SUFFIX,+.muxiulin.com
-  - DOMAIN-SUFFIX,+.muxufang.com
   - DOMAIN-SUFFIX,+.muyangkuaibao.com
   - DOMAIN-SUFFIX,+.muyee.com
   - DOMAIN-SUFFIX,+.muyewx.com
@@ -46367,6 +46368,7 @@ payload:
   - DOMAIN-SUFFIX,+.rf.hk
   - DOMAIN-SUFFIX,+.rf.tm
   - DOMAIN-SUFFIX,+.rfaexpo.com
+  - DOMAIN-SUFFIX,+.rfc2cn.com
   - DOMAIN-SUFFIX,+.rfchina.com
   - DOMAIN-SUFFIX,+.rfchost.com
   - DOMAIN-SUFFIX,+.rfcreader.com
@@ -49394,7 +49396,6 @@ payload:
   - DOMAIN-SUFFIX,+.sjzbwx.com
   - DOMAIN-SUFFIX,+.sjzcmw.com
   - DOMAIN-SUFFIX,+.sjzcsw.com
-  - DOMAIN-SUFFIX,+.sjzdbs.com
   - DOMAIN-SUFFIX,+.sjzhu.com
   - DOMAIN-SUFFIX,+.sjzhushou.com
   - DOMAIN-SUFFIX,+.sjzkz.com
@@ -62203,6 +62204,7 @@ payload:
   - DOMAIN-SUFFIX,+.ynho.com
   - DOMAIN-SUFFIX,+.ynhouse.com
   - DOMAIN-SUFFIX,+.ynhr.com
+  - DOMAIN-SUFFIX,+.ynhzm.com
   - DOMAIN-SUFFIX,+.yni84.com
   - DOMAIN-SUFFIX,+.ynianyongheng.com
   - DOMAIN-SUFFIX,+.ynikon.com
