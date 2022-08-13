@@ -4951,6 +4951,7 @@ payload:
   - DOMAIN-SUFFIX,+.auricularemonsterbeats.com
   - DOMAIN-SUFFIX,+.auricularesbeatsbaratosshop.com
   - DOMAIN-SUFFIX,+.auricularesbeatsmarkt.com
+  - DOMAIN-SUFFIX,+.auroraoss.com
   - DOMAIN-SUFFIX,+.ausbeatsbydrdre.com
   - DOMAIN-SUFFIX,+.ausnz.net
   - DOMAIN-SUFFIX,+.ausnznet.com
@@ -9043,6 +9044,9 @@ payload:
   - DOMAIN-SUFFIX,+.colegialasdeverdad.com
   - DOMAIN-SUFFIX,+.colegialasreales.com
   - DOMAIN-SUFFIX,+.colgate.com
+  - DOMAIN-SUFFIX,+.collabora.com
+  - DOMAIN-SUFFIX,+.collabora.org
+  - DOMAIN-SUFFIX,+.collaboraoffice.com
   - DOMAIN-SUFFIX,+.collaboration.iec.ch
   - DOMAIN-SUFFIX,+.collateralmurder.com
   - DOMAIN-SUFFIX,+.collateralmurder.org
@@ -10995,6 +10999,7 @@ payload:
   - DOMAIN-SUFFIX,+.dnxepj861ggav.cloudfront.net
   - DOMAIN-SUFFIX,+.dnzdol7b8bzms.cloudfront.net
   - DOMAIN-SUFFIX,+.do-essential-oils.com
+  - DOMAIN-SUFFIX,+.do.co
   - DOMAIN-SUFFIX,+.do25.gq
   - DOMAIN-SUFFIX,+.dobbyporn.com
   - DOMAIN-SUFFIX,+.doc-0k-7k-docs.googleusercontent.com
@@ -38803,6 +38808,7 @@ payload:
   - DOMAIN-SUFFIX,+.ying168.com
   - DOMAIN-SUFFIX,+.yingeli.net
   - DOMAIN-SUFFIX,+.yingmang.com
+  - DOMAIN-SUFFIX,+.yingpianqu.com
   - DOMAIN-SUFFIX,+.yingsuoss.com
   - DOMAIN-SUFFIX,+.yinhehyvip.com
   - DOMAIN-SUFFIX,+.yinlei.org
