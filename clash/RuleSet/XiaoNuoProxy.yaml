@@ -13197,6 +13197,7 @@ payload:
   - DOMAIN-SUFFIX,+.fetis.kir.jp
   - DOMAIN-SUFFIX,+.fetish-bb.com
   - DOMAIN-SUFFIX,+.fetishbank.net
+  - DOMAIN-SUFFIX,+.fetishdreamz.com
   - DOMAIN-SUFFIX,+.fetishfishcams.com
   - DOMAIN-SUFFIX,+.fetishpapa.com
   - DOMAIN-SUFFIX,+.fetishpornfilms.com
@@ -23741,6 +23742,7 @@ payload:
   - DOMAIN-SUFFIX,+.openvpn.net
   - DOMAIN-SUFFIX,+.openvpn.org
   - DOMAIN-SUFFIX,+.openvpn.se
+  - DOMAIN-SUFFIX,+.openweathermap.org
   - DOMAIN-SUFFIX,+.openweave.io
   - DOMAIN-SUFFIX,+.openwebster.com
   - DOMAIN-SUFFIX,+.openwrt.org
@@ -30896,6 +30898,7 @@ payload:
   - DOMAIN-SUFFIX,+.unix100.com
   - DOMAIN-SUFFIX,+.unknownproxy.com
   - DOMAIN-SUFFIX,+.unknownspace.org
+  - DOMAIN-SUFFIX,+.unkoscene.com
   - DOMAIN-SUFFIX,+.unlocator.com
   - DOMAIN-SUFFIX,+.unlock-iceland.com
   - DOMAIN-SUFFIX,+.unlocklimitlesslearning.com
