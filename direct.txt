@@ -41865,6 +41865,7 @@ ocsp-lb.apple.com.akadns.net
 ocsp.apple.com
 ocsp.globalsign.com
 ocsp.us.cdnetworks.com
+ocsp2.apple.com
 ocsp2.globalsign.com
 oct-asia.com
 oct-cts.com
@@ -50139,6 +50140,7 @@ stnye.cc
 stock8m.com
 stockhn.com
 stocks-sparkline-lb.apple.com.akadns.net
+stocks-sparkline.apple.com
 stockstar.com
 stockwei.com
 stockxp.com

@@ -42089,6 +42089,7 @@ payload:
   - DOMAIN-SUFFIX,+.ocsp.apple.com
   - DOMAIN-SUFFIX,+.ocsp.globalsign.com
   - DOMAIN-SUFFIX,+.ocsp.us.cdnetworks.com
+  - DOMAIN-SUFFIX,+.ocsp2.apple.com
   - DOMAIN-SUFFIX,+.ocsp2.globalsign.com
   - DOMAIN-SUFFIX,+.oct-asia.com
   - DOMAIN-SUFFIX,+.oct-cts.com
@@ -50363,6 +50364,7 @@ payload:
   - DOMAIN-SUFFIX,+.stock8m.com
   - DOMAIN-SUFFIX,+.stockhn.com
   - DOMAIN-SUFFIX,+.stocks-sparkline-lb.apple.com.akadns.net
+  - DOMAIN-SUFFIX,+.stocks-sparkline.apple.com
   - DOMAIN-SUFFIX,+.stockstar.com
   - DOMAIN-SUFFIX,+.stockwei.com
   - DOMAIN-SUFFIX,+.stockxp.com
