@@ -3232,6 +3232,7 @@ aetna
 aetoscg.com
 aex.com
 af
+af-south-1.myhuaweicloud.com
 af.mil
 afamilycompany
 afantibbs.com
@@ -4031,6 +4032,9 @@ aorus.com
 aosintegrity.com
 aouwe.com
 ap-northeast-1.console.aws.amazon.com
+ap-southeast-1.myhuaweicloud.com
+ap-southeast-2.myhuaweicloud.com
+ap-southeast-3.myhuaweicloud.com
 ap.org
 ap0le.com
 ap2.googleusercontent.com
@@ -12107,6 +12111,7 @@ etwealth.com
 eu
 eu-consumer-empowerment.com
 eu-ssa.org
+eu-west-0.myhuaweicloud.com
 eu-west-1.console.aws.amazon.com
 eu.org
 eu49.com
@@ -14340,6 +14345,7 @@ geinoueroch.com
 gekikame.com
 gelbooru.com
 gelbooru.me
+gelbooru.wjcodes.com
 gemfire.net
 gemfury.com
 gen.lib.rus.ec
@@ -15841,7 +15847,9 @@ hentai2012.com
 hentai247.net
 hentai2read.com
 hentai2w.com
+hentai44.com
 hentai4manga.com
+hentai69.online
 hentaiaction.net
 hentaiathome.net
 hentaibar.com
@@ -16686,6 +16694,8 @@ huarian.com
 huashangnews.com
 huashimedia.site40.net
 huashundg.com
+huaweicloud-dns.net
+huaweicloud-dns.org
 huaxia-news.com
 huaxiabao.org
 huaxin.ph
@@ -18959,6 +18969,7 @@ kompoz2.com
 kompozer.net
 konachan.com
 konachan.net
+konachan.wjcodes.com
 konami
 kone
 kone.com
@@ -19125,6 +19136,8 @@ l-0005.dc-msedge.net
 l-0005.l-msedge.net
 la-conjugaison.fr
 la-forum.org
+la-north-2.myhuaweicloud.com
+la-south-2.myhuaweicloud.com
 la4065.com
 lab.gracecode.com
 lab.skk.moe
@@ -22070,6 +22083,7 @@ n8photos.com
 n9919.com
 na
 na-att-idns.net
+na-mexico-1.myhuaweicloud.com
 na.ddns.name
 na.kalone.net
 naacoalition.org
@@ -22956,6 +22970,7 @@ nsc.gov.tw
 nsdl.co.in
 nsfw.xxx
 nsfwgifs.com
+nsfwmemes.com
 nsimg.net
 nspcc.org.uk
 nstagram.com
@@ -23578,6 +23593,7 @@ ortsbo.com
 orxtv.com
 orz.pp.ru
 orzistic.org
+orzqwq.com
 osaka
 osakamotion.net
 osakihsieh.tw
@@ -26274,6 +26290,7 @@ rts.ch
 rtsinfo.ch
 rtycminnesota.org
 ru
+ru-northwest-2.myhuaweicloud.com
 ruanyifeng.com
 rubias19.com
 rubixfxasia.com
@@ -26414,6 +26431,7 @@ s8forum.com
 s99bet.com
 s99bet.net
 sa
+sa-brazil-1.myhuaweicloud.com
 sa.hao123.com
 saalt.org
 saarland
@@ -26844,6 +26862,7 @@ sendvid.com
 seneporno.com
 sener
 seniorexpress.org
+senpaiheat.com
 sensolnet.com
 sensortower.com
 sensorynetworks.com
@@ -31284,6 +31303,7 @@ vipletou.com
 vipshoes2.com
 vipstudiocali.com
 vipvpn.hu
+viralcum.com
 viralporn.com
 virbuzz.com
 virgin

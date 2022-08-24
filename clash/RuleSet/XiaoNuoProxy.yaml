@@ -3528,6 +3528,7 @@ payload:
   - DOMAIN-SUFFIX,+.aetoscg.com
   - DOMAIN-SUFFIX,+.aex.com
   - DOMAIN-SUFFIX,+.af
+  - DOMAIN-SUFFIX,+.af-south-1.myhuaweicloud.com
   - DOMAIN-SUFFIX,+.af.mil
   - DOMAIN-SUFFIX,+.afamilycompany
   - DOMAIN-SUFFIX,+.afantibbs.com
@@ -4327,6 +4328,9 @@ payload:
   - DOMAIN-SUFFIX,+.aosintegrity.com
   - DOMAIN-SUFFIX,+.aouwe.com
   - DOMAIN-SUFFIX,+.ap-northeast-1.console.aws.amazon.com
+  - DOMAIN-SUFFIX,+.ap-southeast-1.myhuaweicloud.com
+  - DOMAIN-SUFFIX,+.ap-southeast-2.myhuaweicloud.com
+  - DOMAIN-SUFFIX,+.ap-southeast-3.myhuaweicloud.com
   - DOMAIN-SUFFIX,+.ap.org
   - DOMAIN-SUFFIX,+.ap0le.com
   - DOMAIN-SUFFIX,+.ap2.googleusercontent.com
@@ -12403,6 +12407,7 @@ payload:
   - DOMAIN-SUFFIX,+.eu
   - DOMAIN-SUFFIX,+.eu-consumer-empowerment.com
   - DOMAIN-SUFFIX,+.eu-ssa.org
+  - DOMAIN-SUFFIX,+.eu-west-0.myhuaweicloud.com
   - DOMAIN-SUFFIX,+.eu-west-1.console.aws.amazon.com
   - DOMAIN-SUFFIX,+.eu.org
   - DOMAIN-SUFFIX,+.eu49.com
@@ -14636,6 +14641,7 @@ payload:
   - DOMAIN-SUFFIX,+.gekikame.com
   - DOMAIN-SUFFIX,+.gelbooru.com
   - DOMAIN-SUFFIX,+.gelbooru.me
+  - DOMAIN-SUFFIX,+.gelbooru.wjcodes.com
   - DOMAIN-SUFFIX,+.gemfire.net
   - DOMAIN-SUFFIX,+.gemfury.com
   - DOMAIN-SUFFIX,+.gen.lib.rus.ec
@@ -16137,7 +16143,9 @@ payload:
   - DOMAIN-SUFFIX,+.hentai247.net
   - DOMAIN-SUFFIX,+.hentai2read.com
   - DOMAIN-SUFFIX,+.hentai2w.com
+  - DOMAIN-SUFFIX,+.hentai44.com
   - DOMAIN-SUFFIX,+.hentai4manga.com
+  - DOMAIN-SUFFIX,+.hentai69.online
   - DOMAIN-SUFFIX,+.hentaiaction.net
   - DOMAIN-SUFFIX,+.hentaiathome.net
   - DOMAIN-SUFFIX,+.hentaibar.com
@@ -16982,6 +16990,8 @@ payload:
   - DOMAIN-SUFFIX,+.huashangnews.com
   - DOMAIN-SUFFIX,+.huashimedia.site40.net
   - DOMAIN-SUFFIX,+.huashundg.com
+  - DOMAIN-SUFFIX,+.huaweicloud-dns.net
+  - DOMAIN-SUFFIX,+.huaweicloud-dns.org
   - DOMAIN-SUFFIX,+.huaxia-news.com
   - DOMAIN-SUFFIX,+.huaxiabao.org
   - DOMAIN-SUFFIX,+.huaxin.ph
@@ -19255,6 +19265,7 @@ payload:
   - DOMAIN-SUFFIX,+.kompozer.net
   - DOMAIN-SUFFIX,+.konachan.com
   - DOMAIN-SUFFIX,+.konachan.net
+  - DOMAIN-SUFFIX,+.konachan.wjcodes.com
   - DOMAIN-SUFFIX,+.konami
   - DOMAIN-SUFFIX,+.kone
   - DOMAIN-SUFFIX,+.kone.com
@@ -19421,6 +19432,8 @@ payload:
   - DOMAIN-SUFFIX,+.l-0005.l-msedge.net
   - DOMAIN-SUFFIX,+.la-conjugaison.fr
   - DOMAIN-SUFFIX,+.la-forum.org
+  - DOMAIN-SUFFIX,+.la-north-2.myhuaweicloud.com
+  - DOMAIN-SUFFIX,+.la-south-2.myhuaweicloud.com
   - DOMAIN-SUFFIX,+.la4065.com
   - DOMAIN-SUFFIX,+.lab.gracecode.com
   - DOMAIN-SUFFIX,+.lab.skk.moe
@@ -22366,6 +22379,7 @@ payload:
   - DOMAIN-SUFFIX,+.n9919.com
   - DOMAIN-SUFFIX,+.na
   - DOMAIN-SUFFIX,+.na-att-idns.net
+  - DOMAIN-SUFFIX,+.na-mexico-1.myhuaweicloud.com
   - DOMAIN-SUFFIX,+.na.ddns.name
   - DOMAIN-SUFFIX,+.na.kalone.net
   - DOMAIN-SUFFIX,+.naacoalition.org
@@ -23252,6 +23266,7 @@ payload:
   - DOMAIN-SUFFIX,+.nsdl.co.in
   - DOMAIN-SUFFIX,+.nsfw.xxx
   - DOMAIN-SUFFIX,+.nsfwgifs.com
+  - DOMAIN-SUFFIX,+.nsfwmemes.com
   - DOMAIN-SUFFIX,+.nsimg.net
   - DOMAIN-SUFFIX,+.nspcc.org.uk
   - DOMAIN-SUFFIX,+.nstagram.com
@@ -23874,6 +23889,7 @@ payload:
   - DOMAIN-SUFFIX,+.orxtv.com
   - DOMAIN-SUFFIX,+.orz.pp.ru
   - DOMAIN-SUFFIX,+.orzistic.org
+  - DOMAIN-SUFFIX,+.orzqwq.com
   - DOMAIN-SUFFIX,+.osaka
   - DOMAIN-SUFFIX,+.osakamotion.net
   - DOMAIN-SUFFIX,+.osakihsieh.tw
@@ -26570,6 +26586,7 @@ payload:
   - DOMAIN-SUFFIX,+.rtsinfo.ch
   - DOMAIN-SUFFIX,+.rtycminnesota.org
   - DOMAIN-SUFFIX,+.ru
+  - DOMAIN-SUFFIX,+.ru-northwest-2.myhuaweicloud.com
   - DOMAIN-SUFFIX,+.ruanyifeng.com
   - DOMAIN-SUFFIX,+.rubias19.com
   - DOMAIN-SUFFIX,+.rubixfxasia.com
@@ -26710,6 +26727,7 @@ payload:
   - DOMAIN-SUFFIX,+.s99bet.com
   - DOMAIN-SUFFIX,+.s99bet.net
   - DOMAIN-SUFFIX,+.sa
+  - DOMAIN-SUFFIX,+.sa-brazil-1.myhuaweicloud.com
   - DOMAIN-SUFFIX,+.sa.hao123.com
   - DOMAIN-SUFFIX,+.saalt.org
   - DOMAIN-SUFFIX,+.saarland
@@ -27140,6 +27158,7 @@ payload:
   - DOMAIN-SUFFIX,+.seneporno.com
   - DOMAIN-SUFFIX,+.sener
   - DOMAIN-SUFFIX,+.seniorexpress.org
+  - DOMAIN-SUFFIX,+.senpaiheat.com
   - DOMAIN-SUFFIX,+.sensolnet.com
   - DOMAIN-SUFFIX,+.sensortower.com
   - DOMAIN-SUFFIX,+.sensorynetworks.com
@@ -31580,6 +31599,7 @@ payload:
   - DOMAIN-SUFFIX,+.vipshoes2.com
   - DOMAIN-SUFFIX,+.vipstudiocali.com
   - DOMAIN-SUFFIX,+.vipvpn.hu
+  - DOMAIN-SUFFIX,+.viralcum.com
   - DOMAIN-SUFFIX,+.viralporn.com
   - DOMAIN-SUFFIX,+.virbuzz.com
   - DOMAIN-SUFFIX,+.virgin
