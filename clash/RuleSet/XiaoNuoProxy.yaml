@@ -25846,6 +25846,7 @@ payload:
   - DOMAIN-SUFFIX,+.qporno.xxx
   - DOMAIN-SUFFIX,+.qprize.com
   - DOMAIN-SUFFIX,+.qq.co.za
+  - DOMAIN-SUFFIX,+.qq.design
   - DOMAIN-SUFFIX,+.qq2018.com
   - DOMAIN-SUFFIX,+.qq31666.com
   - DOMAIN-SUFFIX,+.qq404.cf
@@ -29343,6 +29344,8 @@ payload:
   - DOMAIN-SUFFIX,+.tenacy.home.kg
   - DOMAIN-SUFFIX,+.tenacy.link
   - DOMAIN-SUFFIX,+.tenbyfotolia.com
+  - DOMAIN-SUFFIX,+.tencent.co.id
+  - DOMAIN-SUFFIX,+.tencent.design
   - DOMAIN-SUFFIX,+.tenderfield.com.au
   - DOMAIN-SUFFIX,+.tengbo9885.com
   - DOMAIN-SUFFIX,+.tenor.com
