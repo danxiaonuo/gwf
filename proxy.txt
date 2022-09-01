@@ -18415,8 +18415,12 @@ jm
 jm607.com
 jma.go.jp
 jmara.net
+jmcomic.me
 jmcomic.mobi
+jmcomic.moe
 jmcomic.xyz
+jmcomic1.city
+jmcomic1.me
 jmcomic1.mobi
 jmlr.org
 jmp
@@ -23507,6 +23511,7 @@ openleaks.org
 openlibrary.org
 openloadfreetv.me
 openmaps.org
+openmidas.com
 openmine.cl
 openproxy.co.uk
 openresty.org
@@ -25558,6 +25563,7 @@ qq888.ag
 qqav.tv
 qqc.co
 qqdwc.com
+qqgamedesign.com
 qqi.com.tw
 qqjj18.com
 qqjlb001.app
@@ -28527,6 +28533,7 @@ superadultgames.com
 superair.tw
 superbookcity.com
 superbrownbear.com
+supercell.com
 superchina.xyz
 superearsenjoy.com
 superfastdatanet.com
@@ -32208,6 +32215,7 @@ weekmag.info
 weetok.com
 wefightcensorship.org
 wefong.com
+wegamedeveloper.com
 wego.here.com
 weiboleak.com
 weiboscope.jmsc.hku.hk

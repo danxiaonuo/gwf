@@ -18711,8 +18711,12 @@ payload:
   - DOMAIN-SUFFIX,+.jm607.com
   - DOMAIN-SUFFIX,+.jma.go.jp
   - DOMAIN-SUFFIX,+.jmara.net
+  - DOMAIN-SUFFIX,+.jmcomic.me
   - DOMAIN-SUFFIX,+.jmcomic.mobi
+  - DOMAIN-SUFFIX,+.jmcomic.moe
   - DOMAIN-SUFFIX,+.jmcomic.xyz
+  - DOMAIN-SUFFIX,+.jmcomic1.city
+  - DOMAIN-SUFFIX,+.jmcomic1.me
   - DOMAIN-SUFFIX,+.jmcomic1.mobi
   - DOMAIN-SUFFIX,+.jmlr.org
   - DOMAIN-SUFFIX,+.jmp
@@ -23803,6 +23807,7 @@ payload:
   - DOMAIN-SUFFIX,+.openlibrary.org
   - DOMAIN-SUFFIX,+.openloadfreetv.me
   - DOMAIN-SUFFIX,+.openmaps.org
+  - DOMAIN-SUFFIX,+.openmidas.com
   - DOMAIN-SUFFIX,+.openmine.cl
   - DOMAIN-SUFFIX,+.openproxy.co.uk
   - DOMAIN-SUFFIX,+.openresty.org
@@ -25854,6 +25859,7 @@ payload:
   - DOMAIN-SUFFIX,+.qqav.tv
   - DOMAIN-SUFFIX,+.qqc.co
   - DOMAIN-SUFFIX,+.qqdwc.com
+  - DOMAIN-SUFFIX,+.qqgamedesign.com
   - DOMAIN-SUFFIX,+.qqi.com.tw
   - DOMAIN-SUFFIX,+.qqjj18.com
   - DOMAIN-SUFFIX,+.qqjlb001.app
@@ -28823,6 +28829,7 @@ payload:
   - DOMAIN-SUFFIX,+.superair.tw
   - DOMAIN-SUFFIX,+.superbookcity.com
   - DOMAIN-SUFFIX,+.superbrownbear.com
+  - DOMAIN-SUFFIX,+.supercell.com
   - DOMAIN-SUFFIX,+.superchina.xyz
   - DOMAIN-SUFFIX,+.superearsenjoy.com
   - DOMAIN-SUFFIX,+.superfastdatanet.com
@@ -32504,6 +32511,7 @@ payload:
   - DOMAIN-SUFFIX,+.weetok.com
   - DOMAIN-SUFFIX,+.wefightcensorship.org
   - DOMAIN-SUFFIX,+.wefong.com
+  - DOMAIN-SUFFIX,+.wegamedeveloper.com
   - DOMAIN-SUFFIX,+.wego.here.com
   - DOMAIN-SUFFIX,+.weiboleak.com
   - DOMAIN-SUFFIX,+.weiboscope.jmsc.hku.hk
