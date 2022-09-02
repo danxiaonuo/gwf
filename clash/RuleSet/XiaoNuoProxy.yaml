@@ -4327,10 +4327,17 @@ payload:
   - DOMAIN-SUFFIX,+.aorus.com
   - DOMAIN-SUFFIX,+.aosintegrity.com
   - DOMAIN-SUFFIX,+.aouwe.com
+  - DOMAIN-SUFFIX,+.ap-bangkok.myqcloud.com
+  - DOMAIN-SUFFIX,+.ap-hongkong.myqcloud.com
+  - DOMAIN-SUFFIX,+.ap-jakarta.myqcloud.com
+  - DOMAIN-SUFFIX,+.ap-mumbai.myqcloud.com
   - DOMAIN-SUFFIX,+.ap-northeast-1.console.aws.amazon.com
+  - DOMAIN-SUFFIX,+.ap-seoul.myqcloud.com
+  - DOMAIN-SUFFIX,+.ap-singapore.myqcloud.com
   - DOMAIN-SUFFIX,+.ap-southeast-1.myhuaweicloud.com
   - DOMAIN-SUFFIX,+.ap-southeast-2.myhuaweicloud.com
   - DOMAIN-SUFFIX,+.ap-southeast-3.myhuaweicloud.com
+  - DOMAIN-SUFFIX,+.ap-tokyo.myqcloud.com
   - DOMAIN-SUFFIX,+.ap.org
   - DOMAIN-SUFFIX,+.ap0le.com
   - DOMAIN-SUFFIX,+.ap2.googleusercontent.com
@@ -7663,6 +7670,7 @@ payload:
   - DOMAIN-SUFFIX,+.ca
   - DOMAIN-SUFFIX,+.ca-desktop-premium.zenmateuser.com
   - DOMAIN-SUFFIX,+.ca.etitrans.com
+  - DOMAIN-SUFFIX,+.ca.file.myqcloud.com
   - DOMAIN-SUFFIX,+.ca.ms.justdied.com
   - DOMAIN-SUFFIX,+.ca.newfreevpn.com
   - DOMAIN-SUFFIX,+.ca.news.yahoo.com
@@ -9263,7 +9271,10 @@ payload:
   - DOMAIN-SUFFIX,+.cortexrpg.com
   - DOMAIN-SUFFIX,+.corumcollege.com
   - DOMAIN-SUFFIX,+.cos-moe.com
+  - DOMAIN-SUFFIX,+.cosca.myqcloud.com
   - DOMAIN-SUFFIX,+.cosersuki.net
+  - DOMAIN-SUFFIX,+.cosger.myqcloud.com
+  - DOMAIN-SUFFIX,+.coshk.myqcloud.com
   - DOMAIN-SUFFIX,+.cosmic.monar.ch
   - DOMAIN-SUFFIX,+.cosmosdb.info
   - DOMAIN-SUFFIX,+.cosmosdb.net
@@ -9271,6 +9282,7 @@ payload:
   - DOMAIN-SUFFIX,+.cosplaybutts.com
   - DOMAIN-SUFFIX,+.cosplayjav.pl
   - DOMAIN-SUFFIX,+.cosplayporntube.com
+  - DOMAIN-SUFFIX,+.cossgp.myqcloud.com
   - DOMAIN-SUFFIX,+.costco-static.com
   - DOMAIN-SUFFIX,+.costco.com
   - DOMAIN-SUFFIX,+.costcobusinessdelivery.com
@@ -12412,6 +12424,8 @@ payload:
   - DOMAIN-SUFFIX,+.etwealth.com
   - DOMAIN-SUFFIX,+.eu
   - DOMAIN-SUFFIX,+.eu-consumer-empowerment.com
+  - DOMAIN-SUFFIX,+.eu-frankfurt.myqcloud.com
+  - DOMAIN-SUFFIX,+.eu-moscow.myqcloud.com
   - DOMAIN-SUFFIX,+.eu-ssa.org
   - DOMAIN-SUFFIX,+.eu-west-0.myhuaweicloud.com
   - DOMAIN-SUFFIX,+.eu-west-1.console.aws.amazon.com
@@ -14682,6 +14696,7 @@ payload:
   - DOMAIN-SUFFIX,+.geph.io
   - DOMAIN-SUFFIX,+.geppeivpn.asia
   - DOMAIN-SUFFIX,+.gequ888.com
+  - DOMAIN-SUFFIX,+.ger.file.myqcloud.com
   - DOMAIN-SUFFIX,+.geraldoatlarge.com
   - DOMAIN-SUFFIX,+.gerefoundation.org
   - DOMAIN-SUFFIX,+.german-proxy.de
@@ -16458,6 +16473,7 @@ payload:
   - DOMAIN-SUFFIX,+.hk.32-b.it
   - DOMAIN-SUFFIX,+.hk.c.cloudss.pw
   - DOMAIN-SUFFIX,+.hk.dictionary.yahoo.com
+  - DOMAIN-SUFFIX,+.hk.file.myqcloud.com
   - DOMAIN-SUFFIX,+.hk.finance.yahoo.com
   - DOMAIN-SUFFIX,+.hk.frienddy.com
   - DOMAIN-SUFFIX,+.hk.futu5.com
@@ -22402,8 +22418,11 @@ payload:
   - DOMAIN-SUFFIX,+.n8photos.com
   - DOMAIN-SUFFIX,+.n9919.com
   - DOMAIN-SUFFIX,+.na
+  - DOMAIN-SUFFIX,+.na-ashburn.myqcloud.com
   - DOMAIN-SUFFIX,+.na-att-idns.net
   - DOMAIN-SUFFIX,+.na-mexico-1.myhuaweicloud.com
+  - DOMAIN-SUFFIX,+.na-siliconvalley.myqcloud.com
+  - DOMAIN-SUFFIX,+.na-toronto.myqcloud.com
   - DOMAIN-SUFFIX,+.na.ddns.name
   - DOMAIN-SUFFIX,+.na.kalone.net
   - DOMAIN-SUFFIX,+.naacoalition.org
@@ -26762,6 +26781,7 @@ payload:
   - DOMAIN-SUFFIX,+.s99bet.net
   - DOMAIN-SUFFIX,+.sa
   - DOMAIN-SUFFIX,+.sa-brazil-1.myhuaweicloud.com
+  - DOMAIN-SUFFIX,+.sa-saopaulo.myqcloud.com
   - DOMAIN-SUFFIX,+.sa.hao123.com
   - DOMAIN-SUFFIX,+.saalt.org
   - DOMAIN-SUFFIX,+.saarland
@@ -27409,6 +27429,7 @@ payload:
   - DOMAIN-SUFFIX,+.sg9097.com
   - DOMAIN-SUFFIX,+.sgforums.com
   - DOMAIN-SUFFIX,+.sgod.ga
+  - DOMAIN-SUFFIX,+.sgp.file.myqcloud.com
   - DOMAIN-SUFFIX,+.sgp1.fun
   - DOMAIN-SUFFIX,+.sgtsourcing.box.com
   - DOMAIN-SUFFIX,+.sh-xuxingda.com

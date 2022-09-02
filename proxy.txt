@@ -4031,10 +4031,17 @@ aopshc.com
 aorus.com
 aosintegrity.com
 aouwe.com
+ap-bangkok.myqcloud.com
+ap-hongkong.myqcloud.com
+ap-jakarta.myqcloud.com
+ap-mumbai.myqcloud.com
 ap-northeast-1.console.aws.amazon.com
+ap-seoul.myqcloud.com
+ap-singapore.myqcloud.com
 ap-southeast-1.myhuaweicloud.com
 ap-southeast-2.myhuaweicloud.com
 ap-southeast-3.myhuaweicloud.com
+ap-tokyo.myqcloud.com
 ap.org
 ap0le.com
 ap2.googleusercontent.com
@@ -7367,6 +7374,7 @@ c9h1ess.com
 ca
 ca-desktop-premium.zenmateuser.com
 ca.etitrans.com
+ca.file.myqcloud.com
 ca.ms.justdied.com
 ca.newfreevpn.com
 ca.news.yahoo.com
@@ -8967,7 +8975,10 @@ cortanaskills.com
 cortexrpg.com
 corumcollege.com
 cos-moe.com
+cosca.myqcloud.com
 cosersuki.net
+cosger.myqcloud.com
+coshk.myqcloud.com
 cosmic.monar.ch
 cosmosdb.info
 cosmosdb.net
@@ -8975,6 +8986,7 @@ cosplay-jav.com
 cosplaybutts.com
 cosplayjav.pl
 cosplayporntube.com
+cossgp.myqcloud.com
 costco-static.com
 costco.com
 costcobusinessdelivery.com
@@ -12116,6 +12128,8 @@ etvonline.hk
 etwealth.com
 eu
 eu-consumer-empowerment.com
+eu-frankfurt.myqcloud.com
+eu-moscow.myqcloud.com
 eu-ssa.org
 eu-west-0.myhuaweicloud.com
 eu-west-1.console.aws.amazon.com
@@ -14386,6 +14400,7 @@ geotrust.com
 geph.io
 geppeivpn.asia
 gequ888.com
+ger.file.myqcloud.com
 geraldoatlarge.com
 gerefoundation.org
 german-proxy.de
@@ -16162,6 +16177,7 @@ hk-pub.com
 hk.32-b.it
 hk.c.cloudss.pw
 hk.dictionary.yahoo.com
+hk.file.myqcloud.com
 hk.finance.yahoo.com
 hk.frienddy.com
 hk.futu5.com
@@ -22106,8 +22122,11 @@ n8fwn9fwe.azurewebsites.net
 n8photos.com
 n9919.com
 na
+na-ashburn.myqcloud.com
 na-att-idns.net
 na-mexico-1.myhuaweicloud.com
+na-siliconvalley.myqcloud.com
+na-toronto.myqcloud.com
 na.ddns.name
 na.kalone.net
 naacoalition.org
@@ -26466,6 +26485,7 @@ s99bet.com
 s99bet.net
 sa
 sa-brazil-1.myhuaweicloud.com
+sa-saopaulo.myqcloud.com
 sa.hao123.com
 saalt.org
 saarland
@@ -27113,6 +27133,7 @@ sg9095.com
 sg9097.com
 sgforums.com
 sgod.ga
+sgp.file.myqcloud.com
 sgp1.fun
 sgtsourcing.box.com
 sh-xuxingda.com
