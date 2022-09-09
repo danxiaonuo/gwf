@@ -8959,6 +8959,7 @@ IP-CIDR6,2400:a980::/32,no-resolve
 IP-CIDR6,2400:a981::/32,no-resolve
 IP-CIDR6,2400:a982::/31,no-resolve
 IP-CIDR6,2400:a984::/30,no-resolve
+IP-CIDR6,2400:a9a0::/32,no-resolve
 IP-CIDR6,2400:abc0::/32,no-resolve
 IP-CIDR6,2400:ae00::/32,no-resolve
 IP-CIDR6,2400:b200::/32,no-resolve
