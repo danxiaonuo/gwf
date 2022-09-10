@@ -9001,6 +9001,7 @@ app-123.com
 app-echo.com
 app-router.com
 app-sage.com
+app-site-association.cdn-apple.com
 app-web-seo-aso.com
 app-zh.com
 app001.com
@@ -16993,6 +16994,7 @@ cssxt.com
 cssyq.com
 cssyzxx.com
 cstat.apple.com
+cstat.cdn-apple.com
 cstccloud.org
 cstcloud.net
 cstcq.com

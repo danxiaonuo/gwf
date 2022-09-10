@@ -9224,6 +9224,7 @@ DOMAIN-SUFFIX,+.app-123.com
 DOMAIN-SUFFIX,+.app-echo.com
 DOMAIN-SUFFIX,+.app-router.com
 DOMAIN-SUFFIX,+.app-sage.com
+DOMAIN-SUFFIX,+.app-site-association.cdn-apple.com
 DOMAIN-SUFFIX,+.app-web-seo-aso.com
 DOMAIN-SUFFIX,+.app-zh.com
 DOMAIN-SUFFIX,+.app001.com
@@ -17216,6 +17217,7 @@ DOMAIN-SUFFIX,+.cssxt.com
 DOMAIN-SUFFIX,+.cssyq.com
 DOMAIN-SUFFIX,+.cssyzxx.com
 DOMAIN-SUFFIX,+.cstat.apple.com
+DOMAIN-SUFFIX,+.cstat.cdn-apple.com
 DOMAIN-SUFFIX,+.cstccloud.org
 DOMAIN-SUFFIX,+.cstcloud.net
 DOMAIN-SUFFIX,+.cstcq.com
