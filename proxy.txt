@@ -1437,6 +1437,7 @@
 4club.com
 4dq.com
 4ebaytraders.com
+4everland.io
 4everproxy.com
 4freemam.myfw.us
 4freeproxy.com
@@ -4836,6 +4837,7 @@ awabo.com
 awayoutgame.com
 awc7.com
 aweencore.com
+awempire.com
 awetv.com
 awflapp.top
 awk.so
@@ -6148,6 +6150,7 @@ blm898.com
 blmdc7.com
 blockbuster
 blockbuster.com
+blockcast.it
 blockcn.com
 blockedbyhk.com
 blockedinchina.net
@@ -7358,6 +7361,7 @@ c3285.app
 c3344.com
 c3j.fun
 c4288.com
+c4rex.co
 c4story.com
 c4v6d7v3.stackpathcdn.com
 c5.etowns.net
@@ -7934,6 +7938,7 @@ certificate.revocationcheck.com
 cervetoria.pt
 cevin.me
 cex.io
+cf-ipfs.com
 cf.gs
 cf5.herokuapp.com
 cf7.com
@@ -9115,6 +9120,7 @@ crsna-2015.tk
 crucial.com
 cruisecritic.com
 crunchyroll.com
+crustwebsites.net
 crv2000.com
 cryptocat.com
 cryptocert.org
@@ -10789,6 +10795,8 @@ doceapower.com
 docker.com
 docker.io
 dockerizer.com
+docleradn.com
+doclercdn.com
 docomo
 docs-examples.firebaseio.com
 docs.com
@@ -14188,6 +14196,7 @@ gatecoin.com
 gateway.dev
 gateway.jb88app.com
 gateway.jbo25.com
+gateway.pinata.cloud
 gateway.tlc801.com
 gatewayus.com
 gather.com
@@ -17666,8 +17675,15 @@ ipchanging.com
 ipconceal.com
 ipdisguiser.com
 ipfire.org
+ipfs-gateway.cloud
+ipfs.anonymize.com
+ipfs.eternum.io
+ipfs.eth.aragon.network
+ipfs.fleek.co
 ipfs.infura.io
 ipfs.io
+ipfs.lain.la
+ipfs.runfission.com
 ipfs.smartsignature.io
 ipge.com
 ipgphotonics.box.com
@@ -17720,6 +17736,7 @@ ipjetable.net
 ipjlvpn.com
 ipleadership.org
 iplogger.org
+ipns.co
 ipo-90.maaii.com
 ipobar.com
 ipod.ch
@@ -18484,6 +18501,7 @@ jonward.com
 joox.com
 jorn.net
 jornaldacidadeonline.com.br
+jorropo.net
 jos.com
 joshinweb.jp
 joshuarue.com
@@ -19608,6 +19626,7 @@ liboggirls.net
 library.pressdisplay.com
 library.usc.cuhk.edu.hk
 librarylovefest.com
+libredd.it
 libreswan.org
 librox.co.za
 libsolutions.app
@@ -19617,7 +19636,6 @@ licdn.com
 license.uat.widevine.com
 licensebuttons.net
 liceosantaclara.cl
-lidecheng.com
 lidl
 liecut.net
 life-global.org
@@ -19871,6 +19889,7 @@ logme.in
 logos.com.hk
 logular.com
 loholidayhk.com
+lokinet.org
 lol-europe.com
 lolclub.org
 lolespor.com
@@ -20858,6 +20877,7 @@ mesu-cdn.apple.com.akadns.net
 mesu-china.apple.com.akadns.net
 met-art.com
 met-nude.com
+meta.com
 metacafe.com
 metacloud.com
 metacpan.org
@@ -22563,6 +22583,7 @@ nfoxo.com
 nfsc.global
 nfscdict.com
 nfsworld.com
+nftstorage.link
 ng
 nga.mil
 ngan.ml
@@ -23590,6 +23611,7 @@ oracleinfinity.io
 orange
 orangemail.okstate.edu
 oranges.idv.tw
+oranum.com
 orbitera.com
 orchid.com
 order.hbonow.com
@@ -28454,6 +28476,7 @@ submityourflicks.com
 submityourtapes.com
 subscene.com
 subscribetomyadventure.firebaseio.com
+substack.com
 successfn.com
 successwithteams.com
 suche.gmx.net
@@ -31213,6 +31236,7 @@ vhxqa3.com
 vhxqa4.com
 vhxqa6.com
 vi
+via0.com
 viacbs.com
 viacom.com
 viacomcbs.com
