@@ -8856,6 +8856,7 @@ payload:
   - DOMAIN-SUFFIX,+.cloudflareresolve.com
   - DOMAIN-SUFFIX,+.cloudflaressl.com
   - DOMAIN-SUFFIX,+.cloudflarestatus.com
+  - DOMAIN-SUFFIX,+.cloudflarestorage.com
   - DOMAIN-SUFFIX,+.cloudflarestream.com
   - DOMAIN-SUFFIX,+.cloudflaretest.com
   - DOMAIN-SUFFIX,+.cloudflarewarp.com
@@ -26390,6 +26391,7 @@ payload:
   - DOMAIN-SUFFIX,+.renzhecloud.com
   - DOMAIN-SUFFIX,+.repo.akii.art
   - DOMAIN-SUFFIX,+.repo.brucezhang.cf
+  - DOMAIN-SUFFIX,+.repo.new
   - DOMAIN-SUFFIX,+.report4you.com.au
   - DOMAIN-SUFFIX,+.repostone.home.blog
   - DOMAIN-SUFFIX,+.repsneakermall.com
@@ -28510,6 +28512,7 @@ payload:
   - DOMAIN-SUFFIX,+.starcraft.com
   - DOMAIN-SUFFIX,+.starcraft2.com
   - DOMAIN-SUFFIX,+.starfares.com
+  - DOMAIN-SUFFIX,+.starfieldtech.com
   - DOMAIN-SUFFIX,+.starfishfx.com
   - DOMAIN-SUFFIX,+.starfox.com
   - DOMAIN-SUFFIX,+.starhub
