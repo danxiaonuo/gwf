@@ -8616,6 +8616,7 @@ cmi.vpncompany.com
 cmp.hku.hk
 cmpaas.com
 cmrepairs.com.au
+cms-twdigitalassets.com
 cms.09230927.webnode.tw
 cms.gov
 cms.korea.net
@@ -8803,6 +8804,7 @@ coinex.com
 coinf.com.mx
 coingecko.com
 coingi.com
+coinglass.com
 coinmarketcap.com
 coinonecore.com
 coinonecorp.com
@@ -9126,6 +9128,7 @@ crv2000.com
 cryptocat.com
 cryptocert.org
 cryptocoinsnews.com
+cryptocompare.com
 cryptocurrencytalk.com
 cryptomeans.co
 cryptorarium.com
@@ -10188,6 +10191,7 @@ deaobni15v34x.cloudfront.net
 dearelder.com
 deasians.com
 deathbychina.com
+debank.com
 debate.org
 debian.org
 debug.com
@@ -17415,6 +17419,7 @@ infotop.jp
 infowars.com
 infowarsmedia.com
 infrapedia.com
+infura.io
 infy
 ingads.com
 ingarden.pt
@@ -22088,6 +22093,7 @@ mythicentertainment.com
 mythicentertainment.net
 mythicgames.com
 mytizi.com
+mytokenapi.com
 mytubeweb.com
 mytving.com
 mytvsuper.com
@@ -30053,6 +30059,7 @@ trueamateurs.com
 trueanal.com
 truebuddha-md.org
 truedepth3d.com
+truefi.io
 trulyergonomic.com
 trust-provider.com
 trust.zone
@@ -30455,8 +30462,10 @@ twitter.fr
 twitter.jp
 twitter.org
 twitter4j.org
+twittercommunity.com
 twittercounter.com
 twitterfeed.com
+twitterflightschool.com
 twittergadget.com
 twitterinc.com
 twitterkr.com
@@ -30757,6 +30766,7 @@ unification.org.tw
 uninhibitedcomix.com
 unionelectric.ca
 unirule.cloud
+uniswap.org
 unite4tibet.org
 unitedsocialpress.com
 unitefortibet.org

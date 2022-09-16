@@ -8912,6 +8912,7 @@ DOMAIN-SUFFIX,+.cmi.vpncompany.com
 DOMAIN-SUFFIX,+.cmp.hku.hk
 DOMAIN-SUFFIX,+.cmpaas.com
 DOMAIN-SUFFIX,+.cmrepairs.com.au
+DOMAIN-SUFFIX,+.cms-twdigitalassets.com
 DOMAIN-SUFFIX,+.cms.09230927.webnode.tw
 DOMAIN-SUFFIX,+.cms.gov
 DOMAIN-SUFFIX,+.cms.korea.net
@@ -9099,6 +9100,7 @@ DOMAIN-SUFFIX,+.coinex.com
 DOMAIN-SUFFIX,+.coinf.com.mx
 DOMAIN-SUFFIX,+.coingecko.com
 DOMAIN-SUFFIX,+.coingi.com
+DOMAIN-SUFFIX,+.coinglass.com
 DOMAIN-SUFFIX,+.coinmarketcap.com
 DOMAIN-SUFFIX,+.coinonecore.com
 DOMAIN-SUFFIX,+.coinonecorp.com
@@ -9422,6 +9424,7 @@ DOMAIN-SUFFIX,+.crv2000.com
 DOMAIN-SUFFIX,+.cryptocat.com
 DOMAIN-SUFFIX,+.cryptocert.org
 DOMAIN-SUFFIX,+.cryptocoinsnews.com
+DOMAIN-SUFFIX,+.cryptocompare.com
 DOMAIN-SUFFIX,+.cryptocurrencytalk.com
 DOMAIN-SUFFIX,+.cryptomeans.co
 DOMAIN-SUFFIX,+.cryptorarium.com
@@ -10484,6 +10487,7 @@ DOMAIN-SUFFIX,+.deaobni15v34x.cloudfront.net
 DOMAIN-SUFFIX,+.dearelder.com
 DOMAIN-SUFFIX,+.deasians.com
 DOMAIN-SUFFIX,+.deathbychina.com
+DOMAIN-SUFFIX,+.debank.com
 DOMAIN-SUFFIX,+.debate.org
 DOMAIN-SUFFIX,+.debian.org
 DOMAIN-SUFFIX,+.debug.com
@@ -17711,6 +17715,7 @@ DOMAIN-SUFFIX,+.infotop.jp
 DOMAIN-SUFFIX,+.infowars.com
 DOMAIN-SUFFIX,+.infowarsmedia.com
 DOMAIN-SUFFIX,+.infrapedia.com
+DOMAIN-SUFFIX,+.infura.io
 DOMAIN-SUFFIX,+.infy
 DOMAIN-SUFFIX,+.ingads.com
 DOMAIN-SUFFIX,+.ingarden.pt
@@ -22384,6 +22389,7 @@ DOMAIN-SUFFIX,+.mythicentertainment.com
 DOMAIN-SUFFIX,+.mythicentertainment.net
 DOMAIN-SUFFIX,+.mythicgames.com
 DOMAIN-SUFFIX,+.mytizi.com
+DOMAIN-SUFFIX,+.mytokenapi.com
 DOMAIN-SUFFIX,+.mytubeweb.com
 DOMAIN-SUFFIX,+.mytving.com
 DOMAIN-SUFFIX,+.mytvsuper.com
@@ -30349,6 +30355,7 @@ DOMAIN-SUFFIX,+.trueamateurs.com
 DOMAIN-SUFFIX,+.trueanal.com
 DOMAIN-SUFFIX,+.truebuddha-md.org
 DOMAIN-SUFFIX,+.truedepth3d.com
+DOMAIN-SUFFIX,+.truefi.io
 DOMAIN-SUFFIX,+.trulyergonomic.com
 DOMAIN-SUFFIX,+.trust-provider.com
 DOMAIN-SUFFIX,+.trust.zone
@@ -30751,8 +30758,10 @@ DOMAIN-SUFFIX,+.twitter.fr
 DOMAIN-SUFFIX,+.twitter.jp
 DOMAIN-SUFFIX,+.twitter.org
 DOMAIN-SUFFIX,+.twitter4j.org
+DOMAIN-SUFFIX,+.twittercommunity.com
 DOMAIN-SUFFIX,+.twittercounter.com
 DOMAIN-SUFFIX,+.twitterfeed.com
+DOMAIN-SUFFIX,+.twitterflightschool.com
 DOMAIN-SUFFIX,+.twittergadget.com
 DOMAIN-SUFFIX,+.twitterinc.com
 DOMAIN-SUFFIX,+.twitterkr.com
@@ -31053,6 +31062,7 @@ DOMAIN-SUFFIX,+.unification.org.tw
 DOMAIN-SUFFIX,+.uninhibitedcomix.com
 DOMAIN-SUFFIX,+.unionelectric.ca
 DOMAIN-SUFFIX,+.unirule.cloud
+DOMAIN-SUFFIX,+.uniswap.org
 DOMAIN-SUFFIX,+.unite4tibet.org
 DOMAIN-SUFFIX,+.unitedsocialpress.com
 DOMAIN-SUFFIX,+.unitefortibet.org
