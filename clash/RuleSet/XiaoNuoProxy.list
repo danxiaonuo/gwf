@@ -8129,6 +8129,7 @@ DOMAIN-SUFFIX,+.cdef.org
 DOMAIN-SUFFIX,+.cdig.info
 DOMAIN-SUFFIX,+.cdjp.org
 DOMAIN-SUFFIX,+.cdkworkshop.com
+DOMAIN-SUFFIX,+.cdmatech.com
 DOMAIN-SUFFIX,+.cdmr.rpz.su
 DOMAIN-SUFFIX,+.cdn-apple.com
 DOMAIN-SUFFIX,+.cdn-cvprhkn01m01.streaming.mediaservices.windows.net
@@ -10412,6 +10413,7 @@ DOMAIN-SUFFIX,+.dc9977.com
 DOMAIN-SUFFIX,+.dcard.cc
 DOMAIN-SUFFIX,+.dcard.hk
 DOMAIN-SUFFIX,+.dcard.io
+DOMAIN-SUFFIX,+.dcard.link
 DOMAIN-SUFFIX,+.dcard.tw
 DOMAIN-SUFFIX,+.dcdbjkjn.fzgyh.com
 DOMAIN-SUFFIX,+.dchome.net
@@ -22675,7 +22677,9 @@ DOMAIN-SUFFIX,+.netflixdnstest8.com
 DOMAIN-SUFFIX,+.netflixdnstest9.com
 DOMAIN-SUFFIX,+.netflixinvestor.com
 DOMAIN-SUFFIX,+.netflixtechblog.com
+DOMAIN-SUFFIX,+.netlify.app
 DOMAIN-SUFFIX,+.netlify.com
+DOMAIN-SUFFIX,+.netlifystatus.com
 DOMAIN-SUFFIX,+.netmap.su
 DOMAIN-SUFFIX,+.netme.cc
 DOMAIN-SUFFIX,+.netmums.com
