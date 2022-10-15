@@ -36,7 +36,7 @@ jobs:
     
     # 检出各个代码模块
     - name: 检出各个代码模块
-      uses: actions/checkout@v2
+      uses: actions/checkout@v3
     
     # 自动更新IP库
     - name: 自动更新GWF库
