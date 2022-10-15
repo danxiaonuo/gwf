@@ -29,6 +29,7 @@ jobs:
   gwf:
     # 选择虚拟环境
     runs-on: ubuntu-latest
+    # if: github.event.repository.owner.id == github.event.sender.id || ! github.event.sender.id
     
     # 运行步骤
     steps:
