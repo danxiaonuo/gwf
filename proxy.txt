@@ -2552,7 +2552,6 @@
 91porny.com
 91px.cc
 91qk41rf.com
-91rb.net
 91se.fun
 91sesex.xyz
 91sp.v3p.co
@@ -3017,6 +3016,9 @@ accountkit.com
 accountpaypal.com
 accountpaypal.net
 accountpaypal.org
+accounts.googlers.com
+accounts.xn--9trs65b.com
+accounts.xn--ggle-55da.com
 accuweather.com
 acebooik.com
 acebook.com
@@ -3217,6 +3219,7 @@ adultgamestop.com
 adultgamingroom.com
 adultgeek.net
 adulti01.com
+adultinfojpn.com
 adultism.com
 adultkeep.net
 adultmagazinespdf.com
@@ -3372,6 +3375,7 @@ ai-kan.net
 ai-wen.net
 ai.binwang.me
 ai.google
+ai.ytimg.com
 ai780.com
 aiaa.org
 aibaobei.me
@@ -3755,6 +3759,7 @@ amazonlumberyard.wang
 amazonpay.com
 amazonprimevideos.com
 amazonsdi.com
+amazonses.com
 amazonstudiosguilds.com
 amazontrust.com
 amazonvideo.cc
@@ -4428,6 +4433,7 @@ apps.box.com
 apps.education2020.com
 apps.evozi.com
 apps.mohawkcollege.ca
+apps5.oingo.com
 appshopper.com
 appsocks.net
 appsonebay.net
@@ -4814,6 +4820,7 @@ av99.biz
 av99.tv
 av991.sex888.cc
 avaaz.org
+avail.googleflights.net
 avatarify.ai
 avatars.githubusercontent.com
 avaxhm.com
@@ -4822,6 +4829,7 @@ avbebe.com
 avbody.tv
 avbuy.cc
 avbuy.com.tw
+avcar.vip
 avcens.xyz
 avcity.tv
 avcolle.ml
@@ -4974,6 +4982,8 @@ aznude.com
 azproxies.com
 azubu.tv
 azure
+azure-devices-int.net
+azure-devices.net
 azure-dns.com
 azure-dns.info
 azure-dns.net
@@ -5147,6 +5157,7 @@ badoo.com
 badsexygirl.com
 badteenspunished.com
 badvirtue.com
+baeb.com
 bag-glasses1.com
 bagbackpack.com
 bahamut.com.tw
@@ -6031,6 +6042,7 @@ bigtopsites.com
 biguz.net
 biitii.com
 bijakids.com
+bijukujo.club
 bikaa.xyz
 bikac.xyz
 bikaios.xyz
@@ -6859,6 +6871,7 @@ boobpedia.com
 boobsrealm.com
 boobstagram.com
 boodigo.com
+boodigogo.com
 book.bfnn.org
 book.com.tw
 book.zi5.me
@@ -6909,6 +6922,7 @@ borderlandindustry.ml
 borderlands-books.com
 borderlessprepaid.com
 borgenmagazine.com
+borgmon.adz.google.com
 boringart.lt
 boringcompany.com
 borquezyburr.cl
@@ -6923,6 +6937,7 @@ boston
 bostonangelclub.com
 bostonherald.com
 bostontibet.org
+boswp.com
 bot.nu
 botanwang.com
 botframework.com
@@ -7591,6 +7606,7 @@ cabet931.com
 cableav.tv
 cablegatesearch.net
 cabletvdirectv.com
+cache-management-prod.google.com
 cache.pack.google.com
 cache.wdcdn.net
 cachedview.com
@@ -8628,6 +8644,7 @@ clapaftis.com
 clarionproject.org
 clarivate.com
 claro.com.co
+clasporno.org
 class.ruten.com.tw
 classicalguitarblog.net
 classicnike.com
@@ -8651,7 +8668,9 @@ clgperformance.com
 click-url.com
 clickindex.com
 clickprompt.com
+clickserve.cc-dt.com
 clickserve.dartsearch.net
+clickserver.googleads.com
 clicksgear.com
 clicksia.com
 client.meethue.com
@@ -8848,6 +8867,7 @@ cn.uncyclopedia.wikia.com
 cn.uptodown.com
 cn.venetianmacau.com
 cn.voa.mobi
+cn.widevine.com
 cn.yahoo.com
 cn1069.org
 cn1lib.org
@@ -8862,6 +8882,7 @@ cn6.eu
 cna.com.tw
 cnabc.com
 cnadmin.crosspoint.fit
+cnappinstall.googleadapis.com
 cnbaike.org
 cnbbnews.wordpress.com
 cnbc.com
@@ -9001,6 +9022,7 @@ com.google
 comcast
 comdns.xyz
 comdotgame.com
+comeav.com
 comefromchina.com
 comersalv.com.br
 cometotheduckside.com
@@ -9083,6 +9105,7 @@ contactossexoecuador.com
 containersonaws.com
 contem.bz
 contenko.com
+content.googleadapis.com
 content.wuala.com
 contentful.com
 contest.com
@@ -9135,6 +9158,7 @@ coresoft.ro
 corona-tracing.org
 coronavirusnow.com
 corp.google.com
+corp.googleapis.com
 corporatecashpassport.com
 corriere.it
 cors-anywhere.herokuapp.com
@@ -9221,6 +9245,7 @@ crackle.com
 craighamilton.biz
 craigslist.org
 crashlytics.com
+crashlyticsreports-pa.googleapis.com
 crates.io
 crazedtechs.com
 crazylivecams.com
@@ -10552,6 +10577,8 @@ dfn.org
 dfp6ofk9ssz35.cloudfront.net
 dfpt88.com
 dfw.ejdj12.com
+dg-meta.video.google.com
+dgaqp.com
 dgg.gg
 dgreencommunications.com
 dgwav.com
@@ -10603,6 +10630,7 @@ diggingtunnels.com
 digi-ateljee.be
 digibet.com
 digicert-cn.com
+digicert-validation.com
 digicert.com
 digikey
 digiland.tw
@@ -10800,6 +10828,9 @@ disqusservice.com
 dissentmagazine.org
 dist.netpas.net
 distressler.com
+distribution.qatp1.net
+distribution.qcpp1.net
+distribution.qpdp1.net
 dit-inc.us
 div17.com
 divgearcmrfs2.cloudfront.net
@@ -11165,6 +11196,11 @@ download.camfrogcdn.com
 download.cnet.com
 download.com
 download.ithome.com.tw
+download.mlcc.google.com
+download.qatp1.net
+download.qcpp1.net
+download.qpdp1.net
+download.tensorflow.google.com
 download.windowsupdate.nsatc.net
 downloadall.asia
 downloadapkfree.com
@@ -12015,6 +12051,7 @@ emerson
 emersonbrookforest.org
 emgog.com
 emilylau.org.hk
+emmapplecodevice.googleapis.com
 emo-vere.ch
 emofid.com
 emojipedia.org
@@ -12197,9 +12234,11 @@ ero-comic-hunter.net
 ero-kawa.com
 ero-labs.com
 ero-labs.net
+ero-ma-nia.com
 ero-manga-platinum.net
 ero-mangalife.com
 ero-video.net
+eroan.xyz
 erocool.net
 erocurves.com
 erodaizensyu.com
@@ -12373,6 +12412,7 @@ europepmc.org
 europornstar.com
 europroxy.eu
 eurorgb.com
+eurosexscene.com
 eurovision
 eus
 evaelfie.com
@@ -12472,6 +12512,7 @@ extreme-fetish.org
 extremepornfilms.com
 extremetube.com
 exx.com
+exxxtrasmall.com
 exxxtrasmall1.com
 exxxtv.com
 eye.flnet.org
@@ -12946,6 +12987,7 @@ fantv.hk
 fanwen.5article.com
 fanyue.info
 fap-xxx.com
+fap18.net
 fap666.com
 fap69.com
 fapality.com
@@ -13488,7 +13530,10 @@ fonolia.com
 fontawesome.com
 fontbook.com
 fontexplorerx.com
+fontfiles.googleadapis.com
+fontfiles.googleapis.com
 fonts.com
+fonts.googleadapis.com
 fonts.googleapis.com
 fonts.gstatic.com
 fonts.net
@@ -14311,6 +14356,7 @@ g.page
 g.starmoe.xyz
 g.twimg.com
 g.zmirrordemo.com
+g0.gstatic.com
 g00gle.pw
 g0v.social
 g1.gstatic.com
@@ -14320,6 +14366,7 @@ g2.gstatic.com
 g2.twimg.com
 g211202.comuf.com
 g2646.com
+g3.gstatic.com
 g4ilo.com
 g4w.me
 g6hentai.com
@@ -14580,6 +14627,7 @@ gclubs.com
 gcmasia.com
 gcolle.net
 gcpnews.com
+gcpnode.com
 gcpug.jp
 gcr.io
 gcrtires.com
@@ -15116,6 +15164,7 @@ gongmeng.info
 gongminliliang.com
 gongshang888.com
 gongwt.com
+gongyichuangyi.net
 gonike.com
 gonzo-movies.com
 gonzoxxxmovies.com
@@ -15421,6 +15470,7 @@ googleoptimize.com
 googlepagecreator.com
 googlephotos.com
 googleplay.com
+googleplex.com
 googleplus.com
 googlescholar.com
 googlescholar.comUSA
@@ -15435,6 +15485,7 @@ googletagmanager.com
 googletagservices-cn.com
 googletagservices.com
 googletraveladservices-cn.com
+googletraveladservices.com
 googleusercontent.com
 googlevads-cn.com
 googleventures.com
@@ -15472,6 +15523,7 @@ gotdns.ch
 gotgayporn.com
 gotgeeks.com
 gothdporn.com
+goto.google.com
 gotporn.com
 gotquestions.com
 gotraffic.net
@@ -15607,6 +15659,7 @@ gsp4-cn.ls.apple.com.edgekey.net
 gsp4-cn.ls.apple.com.edgekey.net.globalredir.akadns.net
 gspe19-cn.ls-apple.com.akadns.net
 gsrc.io
+gstatic-cn.com
 gstatic.com
 gstaticadssl.l.google.com
 gstf.org
@@ -15912,6 +15965,7 @@ haoli777.com
 haori888.com
 haoshichina.com
 hapi.ettoday.net
+haplorrhini.com
 happy-porn.com
 happy-science.jp
 happy-vpn.com
@@ -17785,6 +17839,7 @@ inpho.ie
 inquirer.net
 inredware.com.ar
 insecam.org
+inside.com.tw
 insidefilms.com
 insideinternetsecurity.com
 insidemacintosh.com
@@ -18104,6 +18159,7 @@ ipv4.yunfei.cf
 ipvanish.com
 ipvm.com
 iq
+iq.com
 iqlink1.us
 iqlinkus.com
 iqlinkus.net
@@ -18315,6 +18371,7 @@ ivyseeds.com
 iw8j.cc
 iwancai.com
 iwank.tv
+iwantavnow.com
 iwantclips.com
 iwantporn.net
 iwaponline.com
@@ -18442,6 +18499,7 @@ jav-subtitles.com
 jav-vr.net
 jav.com
 jav.dog
+jav.gallery
 jav.guru
 jav.land
 jav.place
@@ -18451,11 +18509,14 @@ jav168.cc
 jav18.cc
 jav18.xyz
 jav19.com
+jav24.com
 jav2be.com
 jav321.com
+jav4you.org
 jav68.me
 jav68.tv
 jav777.cc
+jav9999.com
 java
 java.com
 java.net
@@ -18474,6 +18535,7 @@ javbus22.com
 javcc.cc
 javcc.com
 javcdn.cc
+javcl.com
 javcn.net
 javconnect.com
 javday.tv
@@ -18547,6 +18609,7 @@ javplatform.com
 javporn.tech
 javporn.ws
 javprice.com
+javprime.net
 javpub.me
 javpush.com
 javqd.com
@@ -18580,6 +18643,7 @@ jawapos.com
 jaycybird.com
 jayrusso.com
 jaysinsbuttblog.com
+jayspov.net
 jb.wojb.org
 jb195.com
 jb25522.app
@@ -18692,6 +18756,7 @@ jiaoyou8.com
 jiayoulu.com
 jiayuan.uk
 jibemobile.com
+jichangtj.com
 jiduvpn.com
 jie.idv.tw
 jiehua.cz
@@ -18866,6 +18931,7 @@ journalofdemocracy.org
 jove.com
 joyandkin.hk
 joyclub.de
+joyhentai.com
 joyid-f154b.firebaseio.com
 joylovedolls.com
 joymii.com
@@ -18879,6 +18945,7 @@ jp.hao123.com
 jp.moc.gov.tw
 jp.vpnvip.com
 jp01-28.ssv4.net
+jpavcom.com
 jpboy1069.net
 jpg4.biz
 jpg4.info
@@ -19295,6 +19362,7 @@ kinkbook.com
 kinkcult.com
 kinkidt.i-cweb.net
 kinklive.com
+kinkyfamily.com
 kinmen.org.tw
 kinmen.travel
 kinokuniya.com
@@ -19508,6 +19576,7 @@ kulichan.com
 kullorki.it.cx
 kultpavillonblog.blogspot.cz
 kum.com
+kumo.com
 kumparan.com
 kun.im
 kundun1069.com
@@ -19828,6 +19897,7 @@ leisurepro.com
 leizhiyuan.github.io
 lejdd.fr
 lematin.ch
+lemoncams.com
 lemonde.fr
 lemonparty.com
 lenarcissique.com
@@ -19877,6 +19947,8 @@ let97.com
 let98.net
 letelegramme.com
 letemps.ch
+lethalhardcore.com
+lethalhardcorevr.com
 lethean.io
 letitia.com
 letmejerk.com
@@ -19918,6 +19990,7 @@ letou995.com
 letou996.com
 letou999.net
 letscorp.net
+letsdoeit.com
 letsencrypt.com
 letsencrypt.org
 letsfuckme.net
@@ -20494,6 +20567,7 @@ lvrj.com
 lvv2.com
 lwy6888.com
 lxofoxl.com
+lxxlxx.com
 ly
 lyc111.com
 lyfhk.net
@@ -20840,6 +20914,8 @@ man
 managed-pki.ch
 managedmeetingrooms.com
 managedpki.com
+management-azure-devices-int.net
+management-azure-devices.net
 manager-magazin.de
 manarat.com
 manausclass.com.br
@@ -21877,6 +21953,9 @@ moneywithfacebook.com
 mongodb.com
 mongodb.org
 monitorchina.org
+monitoring.qatp1.net
+monitoring.qcpp1.net
+monitoring.qpdp1.net
 monitrix.net
 monkeywerks.net
 mono-project.com
@@ -22031,6 +22110,7 @@ mowrygrimson.com
 mox.moe
 moxaftp.box.com
 moxing.mobi
+moxing.news
 moyuv5.com
 mozaic
 mozhua.net
@@ -22143,6 +22223,7 @@ msguancha.com
 msha.gov
 msinnovationchallenge.com
 msn.com
+msn.net
 msnapk.com
 msnbc.com
 msnewskids.com
@@ -22322,6 +22403,7 @@ myav123.com
 myavfun.com
 myavok.com
 myavsuper.com
+mybabehotz.com
 mybbs.us
 mybeatsbydrestudio.com
 mybeatsbydreuk.com
@@ -22428,6 +22510,7 @@ myhousedyn.com
 myhpsupport.com
 myhulu.com
 myicloud.net
+myip.la
 myiphide.com
 myipod.net
 mykomica.org
@@ -24788,6 +24871,7 @@ perfectshemales.com
 perfectvpn.net
 perfekt.us
 perfektegirls.com
+performanceparameters.googleapis.com
 perfspot.com
 periodicgames.com
 periscope.tv
@@ -25090,6 +25174,7 @@ plantsvszombies2.com
 plasson.com.ar
 platinumlinks.org
 play-asia.com
+play.1ucrs.com
 play.afreecatv.com
 play.baleship2.xyz
 play.bst218.com
@@ -25330,6 +25415,7 @@ porner.tv
 pornerbros.com
 pornexpress.net
 pornfacebook.com
+pornfactory.info
 pornfidelity.com
 pornfind.org
 pornfinder.biz
@@ -25483,6 +25569,7 @@ pornper.com
 pornpics.com
 pornpotato.com
 pornpranks.com
+pornpros.com
 pornprosnetwork.com
 pornproxy.app
 pornpussy.com
@@ -25731,7 +25818,10 @@ pro.tribeofnoise.com
 pro989.zcai11.com
 probit.com
 procopytips.com
+prod-controlbe.floonet.goog
+prod-databe.floonet.goog
 prod-support.apple-support.akadns.net
+prod.databe.floonet.goog
 prodrive-japan.com
 products.copangroup.com
 profreeporno.com
@@ -26070,6 +26160,9 @@ q564.com
 q66.compucase.com
 q989q989.com
 qa.shop.bigbigchannel.com.hk
+qagpublic.qatp1.net
+qagpublic.qcpp1.net
+qagpublic.qpdp1.net
 qanote.com
 qar.heeact.edu.tw
 qatarescortsvip.com
@@ -26085,6 +26178,9 @@ qdownloader.net
 qdqd.com
 qf4cf.x.incapdns.net
 qg666.com
+qgadmin.qatp1.net
+qgadmin.qcpp1.net
+qgadmin.qpdp1.net
 qgirl.com.tw
 qhigh.com
 qhj-isat.com
@@ -26096,6 +26192,7 @@ qiangyou.org
 qidian.ca
 qienkuen.org
 qieyz.com
+qinav.com
 qingpeng.org
 qingqing.freebbs.tw
 qingse.one
@@ -26148,6 +26245,7 @@ qpl.9960.com
 qpoe.com
 qporno.com
 qprize.com
+qpx.googleflights.net
 qq.co.za
 qq.design
 qq2018.com
@@ -26198,6 +26296,12 @@ qualcommretail.com
 qualcommventures.com
 quality-electronics.com
 qualphone.com
+qualysapi.qatp1.net
+qualysapi.qcpp1.net
+qualysapi.qpdp1.net
+qualysguard.qatp1.net
+qualysguard.qcpp1.net
+qualysguard.qpdp1.net
 quanben-xiaoshuo.com
 quanben.io
 quannengshen.org
@@ -26571,7 +26675,19 @@ redimec.com.ar
 redir.fd.f-secure.com
 redir.xing.com
 redirect.networkbench.com
+redirector.bdn.dev
+redirector.c.chat.google.com
+redirector.c.docs.google.com
+redirector.c.drive.google.com
+redirector.c.mail.google.com
+redirector.c.pack.google.com
+redirector.c.play.google.com
+redirector.c.youtubeeducation.com
+redirector.gcpcdn.gvt1.com
 redirector.gvt1.com
+redirector.offline-maps.gvt1.com
+redirector.snap.gvt1.com
+redirector.xn--ngstr-lra8j.com
 redis.io
 redislabs.com
 redken
@@ -27010,6 +27126,7 @@ s-cashonmobile.com
 s-cute.com
 s-dragon.org
 s-microsoft.com
+s-msft.com
 s-msn.com
 s-nbcnews.com
 s-usc1c-nss-207.firebaseio.com
@@ -27293,7 +27410,11 @@ scalatube.com
 scaleflex.com
 scamadviser.com
 scandalplanet.com
+scanservice1.qatp1.net
+scanservice1.qcpp1.net
+scanservice1.qpdp1.net
 scasino.com
+scat-enema.com
 scat-japan.com
 scat-shop.net
 scatfap.com
@@ -27301,6 +27422,7 @@ scatfinder.com
 scathd.com
 scatkings.com
 scatnetwork.com
+scatolo-guromania.com
 scatshop.com
 scatsite.com
 scatvids.club
@@ -27562,6 +27684,7 @@ serverzone.net78.net
 serveuser.com
 serveusers.com
 service.kvbgc.com
+service.urchin.com
 service001.net84.net
 services-apple.net
 services-exchange.com
@@ -27580,6 +27703,7 @@ sethwklein.net
 setiantang.com
 setn.com
 setnews.net
+settings.xn--9trs65b.com
 settour-tldr-app.firebaseio.com
 settv.com.tw
 setupvpn.com
@@ -28537,6 +28661,7 @@ spankbang.com
 spankbang.name
 spankbang1.com
 spankingtube.com
+spankmonster.com
 spankred3d.com
 spankwire.com
 sparham.org.uk
@@ -28797,7 +28922,11 @@ staffhub.ms
 stagadish.com
 stage.18luck.tech
 stage64.hk
+staging-controlbe.floonet.goog
+staging-databe.floonet.goog
+staging-regioninfo-pa.googleapis.com
 staging.cryptographyengineering.com
+staging.databe.floonet.goog
 staging.spacious.hk
 standard-molecules.webnode.tw
 standardglove.com
@@ -29230,10 +29359,12 @@ superuser.com
 supervigor.com
 supervpn.net
 superzooi.com
+supjav.com
 suppig.net
 supplybestjerseys.com
 supplyrussia.com
 support-china.apple-support.akadns.net
+support.1ucrs.com
 support.appsflyer.com
 support.humblebundle.com
 support.pubu.tw
@@ -29442,6 +29573,7 @@ tabooporns.com
 tabtter.jp
 tabustudios.co
 tabxzp.com
+tac.googleapis.com
 tacamateurs.com
 tacc.cwb.gov.tw
 tacem.org
@@ -29519,6 +29651,7 @@ tandberg-china.com
 tandberg.com
 tandfonline.com
 tandtfamily.org
+tanflix.com
 tangalan.ga
 tangben.com
 tangents.us
@@ -29776,10 +29909,12 @@ teslazta.net
 test-idc-3.fjla37itnf5dpsen.com
 test-ipv6.com
 test-wiki-01.site88.net
+test.bugs-qa.chromium.org
 test.cloudfunctions.net
 test.domain888.pw
 test.firebaseio.com
 test.freepac.pw
+test.gbugs-qa.chromium.org
 test.hao999.ml
 test.nadeo.com
 testapi.xinbet.net
@@ -30634,13 +30769,11 @@ transformers
 translate.goog
 translate.google
 translate.google.co.il
-translate.googleapis.com
 translate.googleusercontent.com
 translate.yandex.ru
 translatetheweb.com
 translatewiki.net
 translatewiki.org
-translation.googleapis.com
 translations
 transmissionzero.co.uk
 transparency.org
@@ -30924,6 +31057,7 @@ turnnewsapp.com
 turntable.fm
 tusfiles.net
 tushiou.blogspot.jp
+tushy.com
 tushycash.com
 tuta.io
 tutanota.com
@@ -31483,8 +31617,11 @@ uocn.groupsite.com
 uocn.org
 uoherald.com
 uol
+up.corp.goog
+up.gcp.googlers.com
 up.live
 upcoming.yahoo.com
+update.crashlytics.com
 update.googleapis.com
 updates-http.cdn-apple.com.akadns.net
 updates.tdesktop.com
@@ -31803,6 +31940,7 @@ vct.news
 vctimes.com.au
 vcup.in
 vcupmars.com
+vdoav.com
 vds.rightster.com
 ve
 vector.im
@@ -31970,6 +32108,7 @@ video.pbs.org
 video.twimg.com
 video.xgfemdom.com
 video.yahoo.com
+video01.org
 videobam.com
 videobreakdown.com
 videochampion.com
@@ -32850,6 +32989,7 @@ we.minecraftnoob.com
 we22.ga
 wealth.com.tw
 wealth4allteam.com
+wear.googleapis.com
 wearechange.org
 weareebay.com
 wearehairy.com
@@ -35076,6 +35216,7 @@ www.depoon.com
 www.derbytournaments.com
 www.designandpeople.org
 www.designpassion.co.th
+www.destinationurl.com
 www.deuceofclubs.com
 www.developerwisdom.com
 www.devopsish.com
@@ -35721,6 +35862,7 @@ www.google.ma
 www.google.mv
 www.google.nl
 www.google.vu
+www.googleadapis.com
 www.googlechinablog.com
 www.googlechinawebmaster.com
 www.googlehelper.net
@@ -37184,6 +37326,7 @@ www.pursuestar.com
 www.pussy.org
 www.pussybob.com
 www.pxaa.com
+www.pxcc.com
 www.python.com.tw
 www.q89168.com
 www.qabook.com
@@ -39355,6 +39498,7 @@ xxxvideoszoo.com
 xxxvidso.com
 xxxvirtualworld.com
 xxxvogue.net
+xxxwow.net
 xxxx.com.au
 xxxxvideo.uno
 xxxy.biz
