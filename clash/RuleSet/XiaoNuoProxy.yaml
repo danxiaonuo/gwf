@@ -7277,6 +7277,8 @@ payload:
   - DOMAIN-SUFFIX,+.boylabs.net
   - DOMAIN-SUFFIX,+.boylove.cc
   - DOMAIN-SUFFIX,+.boylove.com
+  - DOMAIN-SUFFIX,+.boylove.live
+  - DOMAIN-SUFFIX,+.boylove1.cc
   - DOMAIN-SUFFIX,+.boyloves.cc
   - DOMAIN-SUFFIX,+.boypost.com
   - DOMAIN-SUFFIX,+.boysfood.com
@@ -7808,6 +7810,7 @@ payload:
   - DOMAIN-SUFFIX,+.c3j.fun
   - DOMAIN-SUFFIX,+.c4288.com
   - DOMAIN-SUFFIX,+.c4rex.co
+  - DOMAIN-SUFFIX,+.c4slive.com
   - DOMAIN-SUFFIX,+.c4story.com
   - DOMAIN-SUFFIX,+.c4v6d7v3.stackpathcdn.com
   - DOMAIN-SUFFIX,+.c5.etowns.net
@@ -12396,6 +12399,7 @@ payload:
   - DOMAIN-SUFFIX,+.endlessmatches.com
   - DOMAIN-SUFFIX,+.endorganpillaging.org
   - DOMAIN-SUFFIX,+.endpoint915698.azureedge.net
+  - DOMAIN-SUFFIX,+.enemarotica.com
   - DOMAIN-SUFFIX,+.enemyterritory.org
   - DOMAIN-SUFFIX,+.energyml.org
   - DOMAIN-SUFFIX,+.enewstree.com
@@ -17159,6 +17163,9 @@ payload:
   - DOMAIN-SUFFIX,+.hotsexydolls.com
   - DOMAIN-SUFFIX,+.hotshame.com
   - DOMAIN-SUFFIX,+.hotspotshield.com
+  - DOMAIN-SUFFIX,+.hotstar-cdn.net
+  - DOMAIN-SUFFIX,+.hotstar.com
+  - DOMAIN-SUFFIX,+.hotstarext.com
   - DOMAIN-SUFFIX,+.hotstunners.com
   - DOMAIN-SUFFIX,+.hotteenfreecam.com
   - DOMAIN-SUFFIX,+.hottestfilms.com
@@ -17849,8 +17856,25 @@ payload:
   - DOMAIN-SUFFIX,+.ijavhd.com
   - DOMAIN-SUFFIX,+.ijays.com
   - DOMAIN-SUFFIX,+.ikano
+  - DOMAIN-SUFFIX,+.ikea.be
+  - DOMAIN-SUFFIX,+.ikea.ch
+  - DOMAIN-SUFFIX,+.ikea.co.id
   - DOMAIN-SUFFIX,+.ikea.com
+  - DOMAIN-SUFFIX,+.ikea.com.do
+  - DOMAIN-SUFFIX,+.ikea.com.lv
+  - DOMAIN-SUFFIX,+.ikea.com.pr
+  - DOMAIN-SUFFIX,+.ikea.com.pt
+  - DOMAIN-SUFFIX,+.ikea.do
+  - DOMAIN-SUFFIX,+.ikea.ee
+  - DOMAIN-SUFFIX,+.ikea.hr
+  - DOMAIN-SUFFIX,+.ikea.is
+  - DOMAIN-SUFFIX,+.ikea.it
+  - DOMAIN-SUFFIX,+.ikea.lv
   - DOMAIN-SUFFIX,+.ikea.net
+  - DOMAIN-SUFFIX,+.ikea.pr
+  - DOMAIN-SUFFIX,+.ikea.pt
+  - DOMAIN-SUFFIX,+.ikea.qa
+  - DOMAIN-SUFFIX,+.ikea.rs
   - DOMAIN-SUFFIX,+.ikforums.com
   - DOMAIN-SUFFIX,+.ikidol.com
   - DOMAIN-SUFFIX,+.ikids.com
@@ -19166,6 +19190,7 @@ payload:
   - DOMAIN-SUFFIX,+.jmcomic1.city
   - DOMAIN-SUFFIX,+.jmcomic1.me
   - DOMAIN-SUFFIX,+.jmcomic1.mobi
+  - DOMAIN-SUFFIX,+.jmcomic2.moe
   - DOMAIN-SUFFIX,+.jmlr.org
   - DOMAIN-SUFFIX,+.jmp
   - DOMAIN-SUFFIX,+.jmscult.com
@@ -22545,6 +22570,7 @@ payload:
   - DOMAIN-SUFFIX,+.mt2.google.cn
   - DOMAIN-SUFFIX,+.mt3.google.cn
   - DOMAIN-SUFFIX,+.mtanos.com
+  - DOMAIN-SUFFIX,+.mtao.fun
   - DOMAIN-SUFFIX,+.mthruf.com
   - DOMAIN-SUFFIX,+.mtkgo.com
   - DOMAIN-SUFFIX,+.mtn
@@ -22648,6 +22674,7 @@ payload:
   - DOMAIN-SUFFIX,+.mxs.pchome.com.tw
   - DOMAIN-SUFFIX,+.mxs26.com
   - DOMAIN-SUFFIX,+.my
+  - DOMAIN-SUFFIX,+.my-enema.com
   - DOMAIN-SUFFIX,+.my-formosa.com
   - DOMAIN-SUFFIX,+.my-free-mp3s.com
   - DOMAIN-SUFFIX,+.my-magazine.me
@@ -22790,6 +22817,7 @@ payload:
   - DOMAIN-SUFFIX,+.myftp.org
   - DOMAIN-SUFFIX,+.myfun.com
   - DOMAIN-SUFFIX,+.mygalgame.com
+  - DOMAIN-SUFFIX,+.mygaysites.com
   - DOMAIN-SUFFIX,+.mygod.firebaseio.com
   - DOMAIN-SUFFIX,+.mygod.tk
   - DOMAIN-SUFFIX,+.myhas.gq
@@ -29397,6 +29425,7 @@ payload:
   - DOMAIN-SUFFIX,+.stocks-sparkline-lb.apple.com.akadns.net
   - DOMAIN-SUFFIX,+.stoican.eu
   - DOMAIN-SUFFIX,+.stomp.com.sg
+  - DOMAIN-SUFFIX,+.stonefoxproductions.com
   - DOMAIN-SUFFIX,+.stonesriver.org
   - DOMAIN-SUFFIX,+.stop-block.com
   - DOMAIN-SUFFIX,+.stoporganharvesting.org
@@ -32426,6 +32455,7 @@ payload:
   - DOMAIN-SUFFIX,+.videopediaworld.com
   - DOMAIN-SUFFIX,+.videopress.com
   - DOMAIN-SUFFIX,+.videos.com
+  - DOMAIN-SUFFIX,+.videos4sale.com
   - DOMAIN-SUFFIX,+.videos6.com
   - DOMAIN-SUFFIX,+.videosamadoresreais.com
   - DOMAIN-SUFFIX,+.videosdemadurasx.com
@@ -39687,6 +39717,7 @@ payload:
   - DOMAIN-SUFFIX,+.xxbay.com
   - DOMAIN-SUFFIX,+.xxbb9.com
   - DOMAIN-SUFFIX,+.xxbbx.com
+  - DOMAIN-SUFFIX,+.xxbook.cc
   - DOMAIN-SUFFIX,+.xxbrits.com
   - DOMAIN-SUFFIX,+.xxeronetxx.info
   - DOMAIN-SUFFIX,+.xxfoxh.com
