@@ -11,18 +11,18 @@ name: 自动更新GWF库
 # 设置触发条件
 on:
   # 手动触发工作流
-  workflow_dispatch:
-    inputs:
-      build:
-        description: 'build gwf'
-        required: true
-        default: 'build gwf'
+  #workflow_dispatch:
+  #  inputs:
+  #    build:
+  #      description: 'build gwf'
+  #      required: true
+  #      default: 'build gwf'
   # 定时触发编译(每天早5点)
   schedule:
-     - cron: '*/3 * * * *'
+     - cron: '*/1 * * * *'
   # 点☆Star触发开始编译
-  watch:  
-     types: [started]
+  #watch:  
+  #   types: [started]
    
 # 任务集
 jobs:
