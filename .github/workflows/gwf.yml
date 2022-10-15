@@ -12,8 +12,14 @@ name: 自动更新GWF库
 on:
   # 手动触发工作流
   workflow_dispatch:
+    inputs:
+      build:
+        description: 'build gwf'
+        required: true
+        default: 'build gwf'
   # 定时触发编译(每天早5点)
   schedule:
+     #- cron: '/3 * * * *'
      - cron: '0 */3 * * *'
   # 点☆Star触发开始编译
   watch:  
@@ -24,7 +30,7 @@ jobs:
   gwf:
     # 选择虚拟环境
     runs-on: ubuntu-latest
-    if: github.event.repository.owner.id == github.event.sender.id
+    if: github.event.repository.owner.id == github.event.sender.id || ! github.event.sender.id
     
     # 运行步骤
     steps:
