@@ -9033,6 +9033,7 @@ payload:
   - DOMAIN-SUFFIX,+.cloudflareclient.com
   - DOMAIN-SUFFIX,+.cloudflareinsights.com
   - DOMAIN-SUFFIX,+.cloudflareok.com
+  - DOMAIN-SUFFIX,+.cloudflarepreview.com
   - DOMAIN-SUFFIX,+.cloudflareresolve.com
   - DOMAIN-SUFFIX,+.cloudflaressl.com
   - DOMAIN-SUFFIX,+.cloudflarestatus.com
