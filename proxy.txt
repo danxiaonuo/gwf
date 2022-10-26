@@ -8892,6 +8892,8 @@ cnbaike.org
 cnbbnews.wordpress.com
 cnbc.com
 cnbcfm.com
+cnbeta.com
+cnbetacdn.com
 cncrivals.com
 cnd.org
 cndownload.gzroute53.com
@@ -23886,6 +23888,7 @@ ohssr.me
 ohyeah1080.com
 oikos.com.tw
 oiktv.com
+oiobbs.com
 oizoblog.com
 ojbkss.win
 ok.hopto.org
