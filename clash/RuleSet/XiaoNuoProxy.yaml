@@ -5241,6 +5241,7 @@ payload:
   - DOMAIN-SUFFIX,+.awssecworkshops.com
   - DOMAIN-SUFFIX,+.awsstatic.com
   - DOMAIN-SUFFIX,+.awsthinkbox.com
+  - DOMAIN-SUFFIX,+.awstrack.me
   - DOMAIN-SUFFIX,+.awstrust.com
   - DOMAIN-SUFFIX,+.ax
   - DOMAIN-SUFFIX,+.axa
