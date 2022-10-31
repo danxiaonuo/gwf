@@ -31318,6 +31318,7 @@ twitonmsn.com
 twitpic.com
 twitstat.com
 twittbot.net
+twitter.biz
 twitter.com
 twitter.fr
 twitter.jp
@@ -31355,7 +31356,9 @@ twtr2src.ogaoga.org
 twtrdns.net
 twtrland.com
 twttr.com
+twttr.net
 twurl.nl
+twvid.com
 twyac.org
 twylah.com
 tx.me
