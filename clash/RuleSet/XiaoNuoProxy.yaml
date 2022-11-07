@@ -12575,6 +12575,7 @@ payload:
   - DOMAIN-SUFFIX,+.ero-kawa.com
   - DOMAIN-SUFFIX,+.ero-labs.com
   - DOMAIN-SUFFIX,+.ero-labs.net
+  - DOMAIN-SUFFIX,+.ero-labs.online
   - DOMAIN-SUFFIX,+.ero-ma-nia.com
   - DOMAIN-SUFFIX,+.ero-manga-platinum.net
   - DOMAIN-SUFFIX,+.ero-mangalife.com
@@ -33106,6 +33107,8 @@ payload:
   - DOMAIN-SUFFIX,+.vsassets.io
   - DOMAIN-SUFFIX,+.vsb.edsby.com
   - DOMAIN-SUFFIX,+.vsco.com
+  - DOMAIN-SUFFIX,+.vscode-cdn.net
+  - DOMAIN-SUFFIX,+.vscode-unpkg.net
   - DOMAIN-SUFFIX,+.vscode.dev
   - DOMAIN-SUFFIX,+.vsezoo.com
   - DOMAIN-SUFFIX,+.vsh.org
