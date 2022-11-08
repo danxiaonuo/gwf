@@ -16678,6 +16678,7 @@ payload:
   - DOMAIN-SUFFIX,+.hetzner.cloud
   - DOMAIN-SUFFIX,+.hetzner.com
   - DOMAIN-SUFFIX,+.heungkongdiscuss.com
+  - DOMAIN-SUFFIX,+.hex.pm
   - DOMAIN-SUFFIX,+.hex.win
   - DOMAIN-SUFFIX,+.hexieshe.com
   - DOMAIN-SUFFIX,+.hexieshe.xyz
