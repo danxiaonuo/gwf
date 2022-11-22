@@ -8976,6 +8976,7 @@ cod86.com
 cod98.com
 code.org
 code1984.com
+codeberg.org
 codeboxapp.com
 codeburst.io
 codecademy.com
@@ -16388,6 +16389,7 @@ hetzner.com
 heungkongdiscuss.com
 hex.pm
 hex.win
+hexdocs.pm
 hexieshe.com
 hexieshe.xyz
 hexxeh.net

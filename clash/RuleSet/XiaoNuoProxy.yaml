@@ -9274,6 +9274,7 @@ payload:
   - DOMAIN-SUFFIX,+.cod98.com
   - DOMAIN-SUFFIX,+.code.org
   - DOMAIN-SUFFIX,+.code1984.com
+  - DOMAIN-SUFFIX,+.codeberg.org
   - DOMAIN-SUFFIX,+.codeboxapp.com
   - DOMAIN-SUFFIX,+.codeburst.io
   - DOMAIN-SUFFIX,+.codecademy.com
@@ -16686,6 +16687,7 @@ payload:
   - DOMAIN-SUFFIX,+.heungkongdiscuss.com
   - DOMAIN-SUFFIX,+.hex.pm
   - DOMAIN-SUFFIX,+.hex.win
+  - DOMAIN-SUFFIX,+.hexdocs.pm
   - DOMAIN-SUFFIX,+.hexieshe.com
   - DOMAIN-SUFFIX,+.hexieshe.xyz
   - DOMAIN-SUFFIX,+.hexxeh.net
