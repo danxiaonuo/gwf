@@ -2971,6 +2971,7 @@ abcn.ws
 abeatsbydrdre.com
 abebooks.com
 abem.org
+abema-tv.com
 abema.io
 abema.tv
 abematv.akamaized.net
@@ -13545,7 +13546,6 @@ fluimec.com.br
 flushingcn.com
 flutter.dev
 flutterapp.com
-flydiv.com
 flyercenter.com
 flyflv.com
 flyingcloudproductions.com
@@ -20396,6 +20396,7 @@ llss.me
 lm.1731788.com
 lm.iloli.ml
 lmb.betway118.com
+lmmbtc.com
 lmt.jbo8.com
 ln.sync.com
 lncn.org
@@ -21527,6 +21528,7 @@ miamiherald.com
 miaminewtimes.com
 mianfen888.com
 miaoin.me
+miaomwu.com
 miaopaidao.firebaseio.com
 miaoss.cat
 miaoss.com
@@ -28145,6 +28147,7 @@ shesfreaky.com
 sheshaft.com
 sheyehealth.com
 shia
+shianyuanfang.com
 shiatv.net
 shibo10bo.com
 shicheng.org
@@ -29011,6 +29014,7 @@ sss112.net
 sss16.net
 sss36.net
 sss988.com
+sssins.com
 sssutas.com.au
 sstatic.net
 ssteam.me
@@ -31979,6 +31983,7 @@ v2dn.com
 v2ex.com
 v2fly.org
 v2no.com
+v2ph.com
 v2ray.com
 v2ray.cool
 v2raycn.com
@@ -40136,6 +40141,7 @@ youtufab.cc
 youversion.com
 youwin.com
 youwould.com.au
+youwuss.com
 youx.xxx
 youxu.info
 youyoutube.com
@@ -40413,6 +40419,7 @@ zh68.lima-city.de
 zh888.lima-city.de
 zh9.lima-city.de
 zh99.net
+zhaimankan.com
 zhainanjidi.xyz
 zhainanjidid.top
 zhanbin.net
@@ -40564,6 +40571,7 @@ zr99999.com
 zsh.org
 zspeeder.me
 zsrhao.com
+zteman.net
 ztunnel.com
 zuckerberg.com
 zuckerberg.net
