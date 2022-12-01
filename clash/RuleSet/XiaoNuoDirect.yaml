@@ -42568,6 +42568,7 @@ payload:
   - DOMAIN-SUFFIX,+.oswdj.com
   - DOMAIN-SUFFIX,+.oswhy.com
   - DOMAIN-SUFFIX,+.osx.cx
+  - DOMAIN-SUFFIX,+.osxapps.itunes.g.aaplimg.com
   - DOMAIN-SUFFIX,+.osyunwei.com
   - DOMAIN-SUFFIX,+.otcgd.com
   - DOMAIN-SUFFIX,+.otcms.com
@@ -50800,6 +50801,7 @@ payload:
   - DOMAIN-SUFFIX,+.sw996.com
   - DOMAIN-SUFFIX,+.swaeab.com
   - DOMAIN-SUFFIX,+.swakopuranium.com
+  - DOMAIN-SUFFIX,+.swallow-apple-com.v.aaplimg.com
   - DOMAIN-SUFFIX,+.swallow.apple.com
   - DOMAIN-SUFFIX,+.swang8.com
   - DOMAIN-SUFFIX,+.swap.wang
