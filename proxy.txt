@@ -3252,6 +3252,7 @@ advancediddetection.com
 advanhost.con.hk
 advanscene.com
 adventist.org
+adventofcode.com
 adventuresbydisney.com
 advertfan.com
 advertisercommunity.com
@@ -24355,6 +24356,7 @@ oss-eu-west-1.aliyuncs.com
 oss-me-east-1.aliyuncs.com
 oss-us-east-1.aliyuncs.com
 oss-us-west-1.aliyuncs.com
+osxapps.itunes.g.aaplimg.com
 otaku13.howbbs.com
 otakuss.com
 otbm.com
@@ -29556,6 +29558,7 @@ svyaznoybank.ru
 swag.live
 swagbucks.com
 swaghub.cc
+swallow-apple-com.v.aaplimg.com
 swapsmut.com
 swarajyamag.com
 swatch
