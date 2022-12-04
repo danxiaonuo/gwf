@@ -55699,6 +55699,7 @@ weareqy.com
 weartrends.com
 weasing.com
 weather-data.apple.com
+weather-data.apple.com.akadns.net
 weatherat.com
 weathercn.com
 weatherdt.com
