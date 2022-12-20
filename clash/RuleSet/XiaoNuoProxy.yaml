@@ -30298,6 +30298,7 @@ payload:
   - DOMAIN-SUFFIX,+.telefonica
   - DOMAIN-SUFFIX,+.telega.one
   - DOMAIN-SUFFIX,+.telegra.ph
+  - DOMAIN-SUFFIX,+.telegram-cdn.org
   - DOMAIN-SUFFIX,+.telegram-porn.com
   - DOMAIN-SUFFIX,+.telegram.dog
   - DOMAIN-SUFFIX,+.telegram.me
