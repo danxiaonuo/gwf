@@ -4822,6 +4822,7 @@ payload:
   - DOMAIN-SUFFIX,+.arexv.com
   - DOMAIN-SUFFIX,+.areyouawesome.net84.net
   - DOMAIN-SUFFIX,+.areyoucreditwise.com
+  - DOMAIN-SUFFIX,+.argotunnel.com
   - DOMAIN-SUFFIX,+.aria.ms
   - DOMAIN-SUFFIX,+.arieltorres.com.ar
   - DOMAIN-SUFFIX,+.arirangmeari.com
@@ -9060,6 +9061,7 @@ payload:
   - DOMAIN-SUFFIX,+.cloudflare.com
   - DOMAIN-SUFFIX,+.cloudflare.net
   - DOMAIN-SUFFIX,+.cloudflare.tv
+  - DOMAIN-SUFFIX,+.cloudflareaccess.com
   - DOMAIN-SUFFIX,+.cloudflareapps.com
   - DOMAIN-SUFFIX,+.cloudflarebolt.com
   - DOMAIN-SUFFIX,+.cloudflareclient.com
