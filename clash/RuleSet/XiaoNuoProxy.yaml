@@ -13445,6 +13445,7 @@ payload:
   - DOMAIN-SUFFIX,+.fb.careers
   - DOMAIN-SUFFIX,+.fb.co
   - DOMAIN-SUFFIX,+.fb.com
+  - DOMAIN-SUFFIX,+.fb.gg
   - DOMAIN-SUFFIX,+.fb.me
   - DOMAIN-SUFFIX,+.fb.watch
   - DOMAIN-SUFFIX,+.fbacebook.com
@@ -13482,6 +13483,7 @@ payload:
   - DOMAIN-SUFFIX,+.fbthirdpartypixel.org
   - DOMAIN-SUFFIX,+.fbu.sharepoint.com
   - DOMAIN-SUFFIX,+.fburl.com
+  - DOMAIN-SUFFIX,+.fbwat.ch
   - DOMAIN-SUFFIX,+.fbworkmail.com
   - DOMAIN-SUFFIX,+.fc.iwant-in.net
   - DOMAIN-SUFFIX,+.fc00.io
