@@ -9085,6 +9085,7 @@ payload:
   - DOMAIN-SUFFIX,+.cloudinary.com
   - DOMAIN-SUFFIX,+.cloudinary.net
   - DOMAIN-SUFFIX,+.cloudinsights.com
+  - DOMAIN-SUFFIX,+.cloudlatex.io
   - DOMAIN-SUFFIX,+.cloudlive.com
   - DOMAIN-SUFFIX,+.cloudlock.com
   - DOMAIN-SUFFIX,+.cloudmosa.com
@@ -33897,6 +33898,7 @@ payload:
   - DOMAIN-SUFFIX,+.wionnews.com
   - DOMAIN-SUFFIX,+.wipower.com
   - DOMAIN-SUFFIX,+.wire.com
+  - DOMAIN-SUFFIX,+.wired.com
   - DOMAIN-SUFFIX,+.wiredbytes.com
   - DOMAIN-SUFFIX,+.wiredpen.com
   - DOMAIN-SUFFIX,+.wireguard.com
