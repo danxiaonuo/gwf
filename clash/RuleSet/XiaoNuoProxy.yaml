@@ -15608,6 +15608,7 @@ payload:
   - DOMAIN-SUFFIX,+.google.cl
   - DOMAIN-SUFFIX,+.google.cm
   - DOMAIN-SUFFIX,+.google.cn
+  - DOMAIN-SUFFIX,+.google.co
   - DOMAIN-SUFFIX,+.google.co.ao
   - DOMAIN-SUFFIX,+.google.co.bw
   - DOMAIN-SUFFIX,+.google.co.ck
@@ -24678,6 +24679,7 @@ payload:
   - DOMAIN-SUFFIX,+.oss-us-east-1.aliyuncs.com
   - DOMAIN-SUFFIX,+.oss-us-west-1.aliyuncs.com
   - DOMAIN-SUFFIX,+.osxapps.itunes.g.aaplimg.com
+  - DOMAIN-SUFFIX,+.otaku-168.com
   - DOMAIN-SUFFIX,+.otaku13.howbbs.com
   - DOMAIN-SUFFIX,+.otakuss.com
   - DOMAIN-SUFFIX,+.otbm.com

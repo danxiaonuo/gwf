@@ -15310,6 +15310,7 @@ google.ci
 google.cl
 google.cm
 google.cn
+google.co
 google.co.ao
 google.co.bw
 google.co.ck
@@ -24380,6 +24381,7 @@ oss-me-east-1.aliyuncs.com
 oss-us-east-1.aliyuncs.com
 oss-us-west-1.aliyuncs.com
 osxapps.itunes.g.aaplimg.com
+otaku-168.com
 otaku13.howbbs.com
 otakuss.com
 otbm.com
