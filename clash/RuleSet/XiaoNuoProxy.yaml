@@ -5573,6 +5573,7 @@ payload:
   - DOMAIN-SUFFIX,+.baixing.me
   - DOMAIN-SUFFIX,+.baixn.xyz
   - DOMAIN-SUFFIX,+.baiyun.net
+  - DOMAIN-SUFFIX,+.baizhi.org
   - DOMAIN-SUFFIX,+.bakaproxy.moe
   - DOMAIN-SUFFIX,+.bakerpr.com.au
   - DOMAIN-SUFFIX,+.bakerssecret.com
@@ -14978,6 +14979,7 @@ payload:
   - DOMAIN-SUFFIX,+.gandi.net
   - DOMAIN-SUFFIX,+.ganetstudio.com
   - DOMAIN-SUFFIX,+.ganges.com
+  - DOMAIN-SUFFIX,+.ganjing.com
   - DOMAIN-SUFFIX,+.ganjingworld.com
   - DOMAIN-SUFFIX,+.gannett-cdn.com
   - DOMAIN-SUFFIX,+.gannett.com
