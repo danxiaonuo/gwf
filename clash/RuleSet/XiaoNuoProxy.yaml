@@ -5698,7 +5698,6 @@ payload:
   - DOMAIN-SUFFIX,+.bb-chat.tv
   - DOMAIN-SUFFIX,+.bb-in.net
   - DOMAIN-SUFFIX,+.bb.com.br
-  - DOMAIN-SUFFIX,+.bb.ttv.com.tw
   - DOMAIN-SUFFIX,+.bb0621.com
   - DOMAIN-SUFFIX,+.bb1818.le166.com
   - DOMAIN-SUFFIX,+.bb22888.com
@@ -5864,6 +5863,7 @@ payload:
   - DOMAIN-SUFFIX,+.bdn.dev
   - DOMAIN-SUFFIX,+.bdsm-mov.net
   - DOMAIN-SUFFIX,+.bdsm.com
+  - DOMAIN-SUFFIX,+.bdsm123.xyz
   - DOMAIN-SUFFIX,+.bdsmboard.org
   - DOMAIN-SUFFIX,+.bdsmbunker.com
   - DOMAIN-SUFFIX,+.bdsmcafe.com
@@ -7274,6 +7274,7 @@ payload:
   - DOMAIN-SUFFIX,+.bondageblog.com
   - DOMAIN-SUFFIX,+.bondagecomixxx.net
   - DOMAIN-SUFFIX,+.bondagesex-xxx.com
+  - DOMAIN-SUFFIX,+.bondagesm.xyz
   - DOMAIN-SUFFIX,+.bonedathome.com
   - DOMAIN-SUFFIX,+.bonfoundation.org
   - DOMAIN-SUFFIX,+.bongacams.com
@@ -7648,6 +7649,7 @@ payload:
   - DOMAIN-SUFFIX,+.bullogs.com
   - DOMAIN-SUFFIX,+.bullvpn.com
   - DOMAIN-SUFFIX,+.bululusexdoll.com
+  - DOMAIN-SUFFIX,+.bumingbai.net
   - DOMAIN-SUFFIX,+.bumpshare.com
   - DOMAIN-SUFFIX,+.bumptop.com
   - DOMAIN-SUFFIX,+.bumptop.net
@@ -8314,6 +8316,7 @@ payload:
   - DOMAIN-SUFFIX,+.cattt.com
   - DOMAIN-SUFFIX,+.caxata.com
   - DOMAIN-SUFFIX,+.cba
+  - DOMAIN-SUFFIX,+.cbart.net
   - DOMAIN-SUFFIX,+.cbc.ca
   - DOMAIN-SUFFIX,+.cbcnews.ca
   - DOMAIN-SUFFIX,+.cbcsystems.co.uk
@@ -11630,6 +11633,7 @@ payload:
   - DOMAIN-SUFFIX,+.doubleclickbygoogle.com
   - DOMAIN-SUFFIX,+.doublehop.me
   - DOMAIN-SUFFIX,+.doublemoney.site
+  - DOMAIN-SUFFIX,+.doublethinklab.org
   - DOMAIN-SUFFIX,+.doubmirror.cf
   - DOMAIN-SUFFIX,+.dougscripts.com
   - DOMAIN-SUFFIX,+.douhokanko.net
@@ -15733,6 +15737,7 @@ payload:
   - DOMAIN-SUFFIX,+.googil.com
   - DOMAIN-SUFFIX,+.googl.com
   - DOMAIN-SUFFIX,+.google
+  - DOMAIN-SUFFIX,+.google-access.net
   - DOMAIN-SUFFIX,+.google-analytics-cn.com
   - DOMAIN-SUFFIX,+.google-analytics.com
   - DOMAIN-SUFFIX,+.google-melange.com
@@ -17401,6 +17406,7 @@ payload:
   - DOMAIN-SUFFIX,+.hotbox.com
   - DOMAIN-SUFFIX,+.hotcandyland.com
   - DOMAIN-SUFFIX,+.hotclaudia.de
+  - DOMAIN-SUFFIX,+.hotcoin.com
   - DOMAIN-SUFFIX,+.hotcuckoldwife.com
   - DOMAIN-SUFFIX,+.hotcumporn.com
   - DOMAIN-SUFFIX,+.hotdh.xyz
@@ -17754,6 +17760,7 @@ payload:
   - DOMAIN-SUFFIX,+.humanharvestmovie.com
   - DOMAIN-SUFFIX,+.humanrightsfoundation.org
   - DOMAIN-SUFFIX,+.humanrightshouse.org
+  - DOMAIN-SUFFIX,+.humanrightspressawards.org
   - DOMAIN-SUFFIX,+.humansofnewyork.com
   - DOMAIN-SUFFIX,+.humblebundle.com
   - DOMAIN-SUFFIX,+.hummingbird.ms
@@ -20792,6 +20799,7 @@ payload:
   - DOMAIN-SUFFIX,+.line-beta.me
   - DOMAIN-SUFFIX,+.line-cdn.net
   - DOMAIN-SUFFIX,+.line-scdn.net
+  - DOMAIN-SUFFIX,+.line.biz
   - DOMAIN-SUFFIX,+.line.me
   - DOMAIN-SUFFIX,+.line.naver.jp
   - DOMAIN-SUFFIX,+.line.vn
@@ -22639,6 +22647,7 @@ payload:
   - DOMAIN-SUFFIX,+.monkeywerks.net
   - DOMAIN-SUFFIX,+.mono-project.com
   - DOMAIN-SUFFIX,+.monocloud.com.au
+  - DOMAIN-SUFFIX,+.monocloud.me
   - DOMAIN-SUFFIX,+.monotype.com
   - DOMAIN-SUFFIX,+.monotypeimaging.com
   - DOMAIN-SUFFIX,+.monova.org
@@ -23661,6 +23670,7 @@ payload:
   - DOMAIN-SUFFIX,+.newlysprung.net
   - DOMAIN-SUFFIX,+.newmediarights.org
   - DOMAIN-SUFFIX,+.newmexico.gov
+  - DOMAIN-SUFFIX,+.newmitbbs.com
   - DOMAIN-SUFFIX,+.newmonst1erbeatsto1re.com
   - DOMAIN-SUFFIX,+.newmonsterbeatsheadphones.com
   - DOMAIN-SUFFIX,+.newmoon.com
@@ -28582,6 +28592,7 @@ payload:
   - DOMAIN-SUFFIX,+.sexkorea.net
   - DOMAIN-SUFFIX,+.sexlikereal.com
   - DOMAIN-SUFFIX,+.sexmadeathome.com
+  - DOMAIN-SUFFIX,+.sexmerci.com
   - DOMAIN-SUFFIX,+.sexmix.net
   - DOMAIN-SUFFIX,+.sexmomsex.com
   - DOMAIN-SUFFIX,+.sexmovies24.com
@@ -31811,6 +31822,7 @@ payload:
   - DOMAIN-SUFFIX,+.ttt26.net
   - DOMAIN-SUFFIX,+.ttt3285.com
   - DOMAIN-SUFFIX,+.tttan.com
+  - DOMAIN-SUFFIX,+.ttv.com.tw
   - DOMAIN-SUFFIX,+.ttvnw.net
   - DOMAIN-SUFFIX,+.tu8964.com
   - DOMAIN-SUFFIX,+.tub99.com
