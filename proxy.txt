@@ -14966,7 +14966,9 @@ get-tune.net
 get.app
 get.dev
 get.how
+get.new
 get.page
+get.rsvp
 getadblock.com
 getastrill.com
 getbitcoin.pw
@@ -16596,6 +16598,7 @@ hexdocs.pm
 hexieshe.com
 hexieshe.xyz
 hexxeh.net
+hey.boo
 heyav.tv
 heydoga.com
 heydouga.com
@@ -23332,6 +23335,7 @@ new-akiba.com
 new-jero.net
 new-proxy.com.de
 new-redtube.com
+new.day
 new.ltshk.net
 new.m19b.com
 new.naked.com
