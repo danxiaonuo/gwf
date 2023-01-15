@@ -13537,6 +13537,8 @@ payload:
   - DOMAIN-SUFFIX,+.cf-china.info
   - DOMAIN-SUFFIX,+.cf-ns.com
   - DOMAIN-SUFFIX,+.cf-ns.net
+  - DOMAIN-SUFFIX,+.cf-ns.site
+  - DOMAIN-SUFFIX,+.cf-ns.tech
   - DOMAIN-SUFFIX,+.cf.com
   - DOMAIN-SUFFIX,+.cf69.com
   - DOMAIN-SUFFIX,+.cf865.com
@@ -13576,6 +13578,8 @@ payload:
   - DOMAIN-SUFFIX,+.cfsino.com
   - DOMAIN-SUFFIX,+.cfsl2017.com
   - DOMAIN-SUFFIX,+.cftea.com
+  - DOMAIN-SUFFIX,+.cftest7.com
+  - DOMAIN-SUFFIX,+.cftest8.com
   - DOMAIN-SUFFIX,+.cftong.com
   - DOMAIN-SUFFIX,+.cfucn.com
   - DOMAIN-SUFFIX,+.cfund108.com
@@ -15497,6 +15501,11 @@ payload:
   - DOMAIN-SUFFIX,+.clouddream.net
   - DOMAIN-SUFFIX,+.cloudflare-cn.com
   - DOMAIN-SUFFIX,+.cloudflare520.com
+  - DOMAIN-SUFFIX,+.cloudflarecn.net
+  - DOMAIN-SUFFIX,+.cloudflareinsights-cn.com
+  - DOMAIN-SUFFIX,+.cloudflareprod.com
+  - DOMAIN-SUFFIX,+.cloudflarestaging.com
+  - DOMAIN-SUFFIX,+.cloudflarestoragegw.com
   - DOMAIN-SUFFIX,+.cloudfoshan.com
   - DOMAIN-SUFFIX,+.cloudfront-cn.net
   - DOMAIN-SUFFIX,+.cloudfuqing.com
