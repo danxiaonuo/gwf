@@ -4,6 +4,7 @@ payload:
   - DOMAIN-KEYWORD,google
   - DOMAIN-KEYWORD,github
   - DOMAIN-KEYWORD,youtube
+  - DOMAIN-KEYWORD,onedrive
   # 域名后缀匹
   - DOMAIN-SUFFIX,google.com
   - DOMAIN-SUFFIX,github.com
@@ -20,6 +21,7 @@ payload:
   - DOMAIN-SUFFIX,v2ex.com
   - DOMAIN-SUFFIX,planetscale.com
   - DOMAIN-SUFFIX,devopy.io
+  - DOMAIN-SUFFIX,live.com
   
   # 混合
   # Apple
