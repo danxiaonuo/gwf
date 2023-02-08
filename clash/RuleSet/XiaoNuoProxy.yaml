@@ -24126,6 +24126,7 @@ payload:
   - DOMAIN-SUFFIX,+.niu.moe
   - DOMAIN-SUFFIX,+.niu95992.com
   - DOMAIN-SUFFIX,+.niubowang.com
+  - DOMAIN-SUFFIX,+.niuc2.com
   - DOMAIN-SUFFIX,+.niusnews.com
   - DOMAIN-SUFFIX,+.niuxuewang.com
   - DOMAIN-SUFFIX,+.nivod.tv
@@ -25367,6 +25368,8 @@ payload:
   - DOMAIN-SUFFIX,+.patentgold.net
   - DOMAIN-SUFFIX,+.patenttruth.org
   - DOMAIN-SUFFIX,+.patreon.com
+  - DOMAIN-SUFFIX,+.patreoncommunity.com
+  - DOMAIN-SUFFIX,+.patreonusercontent.com
   - DOMAIN-SUFFIX,+.patriademarti.com
   - DOMAIN-SUFFIX,+.patrickemaher.com
   - DOMAIN-SUFFIX,+.patrulator.ro
@@ -27335,7 +27338,6 @@ payload:
   - DOMAIN-SUFFIX,+.rauchmeldershop.ch
   - DOMAIN-SUFFIX,+.ravm.tv
   - DOMAIN-SUFFIX,+.raw.githack.com
-  - DOMAIN-SUFFIX,+.raw.githubusercontent.com
   - DOMAIN-SUFFIX,+.rawcdn.githack.com
   - DOMAIN-SUFFIX,+.rawdirect.com
   - DOMAIN-SUFFIX,+.rawgit.com
@@ -29685,6 +29687,7 @@ payload:
   - DOMAIN-SUFFIX,+.springer.com
   - DOMAIN-SUFFIX,+.springerlink.com
   - DOMAIN-SUFFIX,+.springernature.com
+  - DOMAIN-SUFFIX,+.springwood.me
   - DOMAIN-SUFFIX,+.sprinklesapp.com
   - DOMAIN-SUFFIX,+.sprint.com
   - DOMAIN-SUFFIX,+.sprint0.net
@@ -40868,6 +40871,7 @@ payload:
   - DOMAIN-SUFFIX,+.yoshisnewisland.com
   - DOMAIN-SUFFIX,+.yotubesexo.es
   - DOMAIN-SUFFIX,+.you-get.org
+  - DOMAIN-SUFFIX,+.you.com
   - DOMAIN-SUFFIX,+.you2be.wzfou.me
   - DOMAIN-SUFFIX,+.youassporn.com
   - DOMAIN-SUFFIX,+.youav.com
