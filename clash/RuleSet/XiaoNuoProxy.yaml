@@ -25,7 +25,7 @@ payload:
   - DOMAIN-SUFFIX,+.planetscale.com
   - DOMAIN-SUFFIX,+.devopy.io
   - DOMAIN-SUFFIX,+.live.com
-  - DOMAIN-SUFFIX,+.openai.com
+  - DOMAIN-SUFFIX,openai.com
   
   # cloudflare IP地址段
   - IP-CIDR,173.245.48.0/20,no-resolve
