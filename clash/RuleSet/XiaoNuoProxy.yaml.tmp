@@ -6,23 +6,23 @@ payload:
   - DOMAIN-KEYWORD,youtube
   - DOMAIN-KEYWORD,onedrive
   # 域名后缀匹
-  - DOMAIN-SUFFIX,google.com
-  - DOMAIN-SUFFIX,github.com
-  - DOMAIN-SUFFIX,githubusercontent.com
-  - DOMAIN-SUFFIX,youtube.com
-  - DOMAIN-SUFFIX,zabbix.com
-  - DOMAIN-SUFFIX,netsarang.com
-  - DOMAIN-SUFFIX,jetbrains.com
-  - DOMAIN-SUFFIX,zdassets.com
-  - DOMAIN-SUFFIX,zendesk.com
-  - DOMAIN-SUFFIX,typography.com
-  - DOMAIN-SUFFIX,unpkg.com
-  - DOMAIN-SUFFIX,oraclecloud.com
-  - DOMAIN-SUFFIX,v2ex.com
-  - DOMAIN-SUFFIX,planetscale.com
-  - DOMAIN-SUFFIX,devopy.io
-  - DOMAIN-SUFFIX,live.com
-  - DOMAIN-SUFFIX,openai.com
+  - DOMAIN-SUFFIX,+.google.com
+  - DOMAIN-SUFFIX,+.github.com
+  - DOMAIN-SUFFIX,+.githubusercontent.com
+  - DOMAIN-SUFFIX,+.youtube.com
+  - DOMAIN-SUFFIX,+.zabbix.com
+  - DOMAIN-SUFFIX,+.netsarang.com
+  - DOMAIN-SUFFIX,+.jetbrains.com
+  - DOMAIN-SUFFIX,+.zdassets.com
+  - DOMAIN-SUFFIX,+.zendesk.com
+  - DOMAIN-SUFFIX,+.typography.com
+  - DOMAIN-SUFFIX,+.unpkg.com
+  - DOMAIN-SUFFIX,+.oraclecloud.com
+  - DOMAIN-SUFFIX,+.v2ex.com
+  - DOMAIN-SUFFIX,+.planetscale.com
+  - DOMAIN-SUFFIX,+.devopy.io
+  - DOMAIN-SUFFIX,+.live.com
+  - DOMAIN-SUFFIX,+.openai.com
   
   # 混合
   # Apple
@@ -297,5 +297,3 @@ payload:
   - DOMAIN-SUFFIX,line-apps.com
   - DOMAIN-SUFFIX,line-cdn.net
   - DOMAIN-SUFFIX,line-scdn.net
-  
-  
