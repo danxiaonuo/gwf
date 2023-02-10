@@ -55,7 +55,6 @@ payload:
   - DOMAIN-SUFFIX,+.localhost.sec.qq.com
   - DOMAIN-SUFFIX,+.localhost.ptlogin2.qq.com
   - DOMAIN-SUFFIX,+.jsdelivr.net
-  - DOMAIN-SUFFIX,+.cloudflare.com
   - DOMAIN-SUFFIX,+.speedtest.net
 
   # xiaonuo标志
@@ -15487,13 +15486,6 @@ payload:
   - DOMAIN-SUFFIX,+.clouddns.vip
   - DOMAIN-SUFFIX,+.clouddongying.com
   - DOMAIN-SUFFIX,+.clouddream.net
-  - DOMAIN-SUFFIX,+.cloudflare-cn.com
-  - DOMAIN-SUFFIX,+.cloudflare520.com
-  - DOMAIN-SUFFIX,+.cloudflarecn.net
-  - DOMAIN-SUFFIX,+.cloudflareinsights-cn.com
-  - DOMAIN-SUFFIX,+.cloudflareprod.com
-  - DOMAIN-SUFFIX,+.cloudflarestaging.com
-  - DOMAIN-SUFFIX,+.cloudflarestoragegw.com
   - DOMAIN-SUFFIX,+.cloudfoshan.com
   - DOMAIN-SUFFIX,+.cloudfront-cn.net
   - DOMAIN-SUFFIX,+.cloudfuqing.com
