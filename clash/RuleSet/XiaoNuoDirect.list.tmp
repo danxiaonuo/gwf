@@ -139,6 +139,7 @@ DOMAIN-SUFFIX,+.douyinvod.com
 DOMAIN-SUFFIX,+.snssdk.com
 DOMAIN-SUFFIX,+.ip.bjango.com
 DOMAIN-SUFFIX,+.todesk.com
+DOMAIN-SUFFIX,+.ceye.io
 
 # 进程规则
 # 源进程名匹配
