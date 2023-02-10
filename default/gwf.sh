@@ -35,9 +35,9 @@ sed -i '/cloudflare/d' direct.txt
 # clash
 mkdir -p clash/RuleSet
 cat clash/RuleSet/XiaoNuoDirect.list.tmp > clash/RuleSet/XiaoNuoDirect.list
-cat direct.txt | perl -ne '/([-_a-zA-Z0-9]+(\.[-_a-zA-Z0-9]+)*)/ && print "DOMAIN-SUFFIX,+.$1\n"' | sed "s/|/'/g" >> clash/RuleSet/XiaoNuoDirect.list
+cat direct.txt | perl -ne '/([-_a-zA-Z0-9]+(\.[-_a-zA-Z0-9]+)*)/ && print "DOMAIN-SUFFIX,$1\n"' | sed "s/|/'/g" >> clash/RuleSet/XiaoNuoDirect.list
 cat clash/RuleSet/XiaoNuoDirect.yaml.tmp > clash/RuleSet/XiaoNuoDirect.yaml
-cat direct.txt | perl -ne '/([-_a-zA-Z0-9]+(\.[-_a-zA-Z0-9]+)*)/ && print "  - DOMAIN-SUFFIX,+.$1\n"' | sed "s/|/'/g" >> clash/RuleSet/XiaoNuoDirect.yaml
+cat direct.txt | perl -ne '/([-_a-zA-Z0-9]+(\.[-_a-zA-Z0-9]+)*)/ && print "  - DOMAIN-SUFFIX,$1\n"' | sed "s/|/'/g" >> clash/RuleSet/XiaoNuoDirect.yaml
 
 # smartdns
 mkdir -p smartdns
@@ -62,9 +62,9 @@ cat proxy.tmp | xargs -n 1 | sort -u | uniq | sed "s/|/'/g" > proxy.txt
 # clash
 mkdir -p clash/RuleSet
 cat clash/RuleSet/XiaoNuoProxy.list.tmp> clash/RuleSet/XiaoNuoProxy.list
-cat proxy.txt | perl -ne '/([-_a-zA-Z0-9]+(\.[-_a-zA-Z0-9]+)*)/ && print "DOMAIN-SUFFIX,+.$1\n"' | sed "s/|/'/g" >> clash/RuleSet/XiaoNuoProxy.list
+cat proxy.txt | perl -ne '/([-_a-zA-Z0-9]+(\.[-_a-zA-Z0-9]+)*)/ && print "DOMAIN-SUFFIX,$1\n"' | sed "s/|/'/g" >> clash/RuleSet/XiaoNuoProxy.list
 cat clash/RuleSet/XiaoNuoProxy.yaml.tmp > clash/RuleSet/XiaoNuoProxy.yaml
-cat proxy.txt | perl -ne '/([-_a-zA-Z0-9]+(\.[-_a-zA-Z0-9]+)*)/ && print "  - DOMAIN-SUFFIX,+.$1\n"' | sed "s/|/'/g" >> clash/RuleSet/XiaoNuoProxy.yaml
+cat proxy.txt | perl -ne '/([-_a-zA-Z0-9]+(\.[-_a-zA-Z0-9]+)*)/ && print "  - DOMAIN-SUFFIX,$1\n"' | sed "s/|/'/g" >> clash/RuleSet/XiaoNuoProxy.yaml
 
 # 拒绝域名
 # reject
