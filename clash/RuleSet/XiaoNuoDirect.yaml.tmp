@@ -55,7 +55,6 @@ payload:
   - DOMAIN-SUFFIX,+.localhost.sec.qq.com
   - DOMAIN-SUFFIX,+.localhost.ptlogin2.qq.com
   - DOMAIN-SUFFIX,+.jsdelivr.net
-  - DOMAIN-SUFFIX,+.cloudflare.com
   - DOMAIN-SUFFIX,+.speedtest.net
 
   # xiaonuo标志
