@@ -3422,6 +3422,7 @@ ahxxx.club
 ai-kan.net
 ai-wen.net
 ai.binwang.me
+ai.com
 ai.google
 ai.ytimg.com
 ai780.com
@@ -23594,6 +23595,7 @@ nexpart.tv
 next
 next.com
 next11.co.jp
+nextapple.com
 nextbigfuture.com
 nextcomm.com.ar
 nextdigital.com.hk

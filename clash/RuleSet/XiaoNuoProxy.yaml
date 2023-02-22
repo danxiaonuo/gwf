@@ -3751,6 +3751,7 @@ payload:
   - DOMAIN-SUFFIX,ai-kan.net
   - DOMAIN-SUFFIX,ai-wen.net
   - DOMAIN-SUFFIX,ai.binwang.me
+  - DOMAIN-SUFFIX,ai.com
   - DOMAIN-SUFFIX,ai.google
   - DOMAIN-SUFFIX,ai.ytimg.com
   - DOMAIN-SUFFIX,ai780.com
@@ -23923,6 +23924,7 @@ payload:
   - DOMAIN-SUFFIX,next
   - DOMAIN-SUFFIX,next.com
   - DOMAIN-SUFFIX,next11.co.jp
+  - DOMAIN-SUFFIX,nextapple.com
   - DOMAIN-SUFFIX,nextbigfuture.com
   - DOMAIN-SUFFIX,nextcomm.com.ar
   - DOMAIN-SUFFIX,nextdigital.com.hk
