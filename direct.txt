@@ -8661,7 +8661,6 @@ aoapp.com
 aobacore.com
 aobaishi.com
 aobosoft.com
-aoc.com
 aocde.com
 aocdn.com
 aoch.com
@@ -33034,7 +33033,6 @@ julyedu.com
 julysong.com
 jumanhua.com
 jumei.com
-jumeiglobal.com
 jumeinet.com
 jumengren.com
 jumi-cdn.com
@@ -41153,6 +41151,7 @@ ntjob88.com
 ntjoy.com
 ntjrchina.com
 ntjymall.com
+ntlcjd.com
 ntneuro.org
 ntp.felixc.at
 ntpcb.com
@@ -44758,6 +44757,7 @@ qtumist.com
 qtvcd.com
 qtx.com
 qtyd.com
+qtymyy.com
 qu.la
 qu02.com
 qu247.com
