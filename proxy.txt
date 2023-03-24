@@ -10789,6 +10789,7 @@ dev-theguardian.com
 dev.chromium.org
 devcon.org
 developer-advisor.com
+developer.allizom.org
 developerlibrary.com
 developers.box.net
 developria.com

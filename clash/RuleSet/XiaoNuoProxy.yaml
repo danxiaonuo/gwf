@@ -11118,6 +11118,7 @@ payload:
   - DOMAIN-SUFFIX,dev.chromium.org
   - DOMAIN-SUFFIX,devcon.org
   - DOMAIN-SUFFIX,developer-advisor.com
+  - DOMAIN-SUFFIX,developer.allizom.org
   - DOMAIN-SUFFIX,developerlibrary.com
   - DOMAIN-SUFFIX,developers.box.net
   - DOMAIN-SUFFIX,developria.com
