@@ -3302,6 +3302,7 @@ payload:
   - DOMAIN-SUFFIX,aamdotcom-us-central-staging.azurewebsites.net
   - DOMAIN-SUFFIX,aanaan.com
   - DOMAIN-SUFFIX,aapks.com
+  - DOMAIN-SUFFIX,aaplimg.com
   - DOMAIN-SUFFIX,aarberg-bierwanderung.ch
   - DOMAIN-SUFFIX,aaronmix.net
   - DOMAIN-SUFFIX,aaronnieh.com
@@ -4456,6 +4457,7 @@ payload:
   - DOMAIN-SUFFIX,anon-v.com
   - DOMAIN-SUFFIX,anon-v.lol
   - DOMAIN-SUFFIX,anonasurf.com
+  - DOMAIN-SUFFIX,anonfiles.com
   - DOMAIN-SUFFIX,anonproxy.eu
   - DOMAIN-SUFFIX,anonproxy.info
   - DOMAIN-SUFFIX,anontext.com
@@ -4703,7 +4705,6 @@ payload:
   - DOMAIN-SUFFIX,appl.com
   - DOMAIN-SUFFIX,appl4e.com
   - DOMAIN-SUFFIX,appla.com
-  - DOMAIN-SUFFIX,appldnld.g.aaplimg.com
   - DOMAIN-SUFFIX,apple
   - DOMAIN-SUFFIX,apple-cloudkit.com
   - DOMAIN-SUFFIX,apple-darwin.com
@@ -8579,7 +8580,6 @@ payload:
   - DOMAIN-SUFFIX,cdpusa.org
   - DOMAIN-SUFFIX,cdpweb.org
   - DOMAIN-SUFFIX,cdpwu.org
-  - DOMAIN-SUFFIX,cds-cdn.v.aaplimg.com
   - DOMAIN-SUFFIX,cds.apple.com.akadns.net
   - DOMAIN-SUFFIX,cdt1.azurewebsites.net
   - DOMAIN-SUFFIX,cdt3.azurewebsites.net
@@ -11829,7 +11829,6 @@ payload:
   - DOMAIN-SUFFIX,download.camfrogcdn.com
   - DOMAIN-SUFFIX,download.cnet.com
   - DOMAIN-SUFFIX,download.com
-  - DOMAIN-SUFFIX,download.ithome.com.tw
   - DOMAIN-SUFFIX,download.mlcc.google.com
   - DOMAIN-SUFFIX,download.qatp1.net
   - DOMAIN-SUFFIX,download.qcpp1.net
@@ -16481,7 +16480,6 @@ payload:
   - DOMAIN-SUFFIX,gushi.tw
   - DOMAIN-SUFFIX,gutteruncensored.com
   - DOMAIN-SUFFIX,guysnightlife.com
-  - DOMAIN-SUFFIX,guzzoni-apple-com.v.aaplimg.com
   - DOMAIN-SUFFIX,gv.com
   - DOMAIN-SUFFIX,gvardia.com
   - DOMAIN-SUFFIX,gvlib.com
@@ -18048,6 +18046,7 @@ payload:
   - DOMAIN-SUFFIX,hyc1324.xyz
   - DOMAIN-SUFFIX,hycgm1324.shop
   - DOMAIN-SUFFIX,hychot4.xyz
+  - DOMAIN-SUFFIX,hydrogenaud.io
   - DOMAIN-SUFFIX,hyper.co
   - DOMAIN-SUFFIX,hyper.is
   - DOMAIN-SUFFIX,hyperbolea.substack.com
@@ -18890,7 +18889,6 @@ payload:
   - DOMAIN-SUFFIX,iop.org
   - DOMAIN-SUFFIX,ios-icloud.com
   - DOMAIN-SUFFIX,ios.gd.ddns.name
-  - DOMAIN-SUFFIX,iosapps.itunes.g.aaplimg.com
   - DOMAIN-SUFFIX,iosinthecar.com
   - DOMAIN-SUFFIX,iotinactionevents.com
   - DOMAIN-SUFFIX,iownyour.biz
@@ -19166,6 +19164,7 @@ payload:
   - DOMAIN-SUFFIX,iteke.ml
   - DOMAIN-SUFFIX,iteke.tk
   - DOMAIN-SUFFIX,itemdb.com
+  - DOMAIN-SUFFIX,itemfix.com
   - DOMAIN-SUFFIX,itfromtheinside.com
   - DOMAIN-SUFFIX,ithaisex.com
   - DOMAIN-SUFFIX,ithelp.ithome.com.tw
@@ -20758,6 +20757,7 @@ payload:
   - DOMAIN-SUFFIX,lecloud.net
   - DOMAIN-SUFFIX,lecoin.cc
   - DOMAIN-SUFFIX,lede-project.org
+  - DOMAIN-SUFFIX,ledger.com
   - DOMAIN-SUFFIX,ledongzhibo111.com
   - DOMAIN-SUFFIX,ledongzhibo1111.com
   - DOMAIN-SUFFIX,ledongzhibo222.com
@@ -24957,6 +24957,7 @@ payload:
   - DOMAIN-SUFFIX,oldpiratebay.org
   - DOMAIN-SUFFIX,ole777.com
   - DOMAIN-SUFFIX,olehd.com
+  - DOMAIN-SUFFIX,olehdtv.com
   - DOMAIN-SUFFIX,olelive.com
   - DOMAIN-SUFFIX,olevod.com
   - DOMAIN-SUFFIX,olevod.io
@@ -25303,7 +25304,6 @@ payload:
   - DOMAIN-SUFFIX,oss-me-east-1.aliyuncs.com
   - DOMAIN-SUFFIX,oss-us-east-1.aliyuncs.com
   - DOMAIN-SUFFIX,oss-us-west-1.aliyuncs.com
-  - DOMAIN-SUFFIX,osxapps.itunes.g.aaplimg.com
   - DOMAIN-SUFFIX,otaku-168.com
   - DOMAIN-SUFFIX,otaku13.howbbs.com
   - DOMAIN-SUFFIX,otakuss.com
@@ -30689,7 +30689,6 @@ payload:
   - DOMAIN-SUFFIX,swag.live
   - DOMAIN-SUFFIX,swagbucks.com
   - DOMAIN-SUFFIX,swaghub.cc
-  - DOMAIN-SUFFIX,swallow-apple-com.v.aaplimg.com
   - DOMAIN-SUFFIX,swapsmut.com
   - DOMAIN-SUFFIX,swarajyamag.com
   - DOMAIN-SUFFIX,swatch
@@ -30698,7 +30697,6 @@ payload:
   - DOMAIN-SUFFIX,swc5555.com
   - DOMAIN-SUFFIX,swc888.com
   - DOMAIN-SUFFIX,swcatalog-cdn.apple.com.akadns.net
-  - DOMAIN-SUFFIX,swcdn.g.aaplimg.com
   - DOMAIN-SUFFIX,swdevelop.de
   - DOMAIN-SUFFIX,swdist.apple.com.akadns.net
   - DOMAIN-SUFFIX,swebanalytics.acs.org
