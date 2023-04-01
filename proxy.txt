@@ -6735,6 +6735,7 @@ bluelight.link
 bluemix.com
 bluemix.net
 blueseek.com
+bluestacks.com
 bluesurface.bolab.net
 bluffave.com
 bluffavenue.com
@@ -7305,6 +7306,7 @@ britsexcash.com
 brizzly.com
 brkmd.com
 brliilantsdates.com
+broadbandreports.com
 broadbook.com
 broadpressinc.com
 brocaproject.com
@@ -11654,6 +11656,8 @@ dsd008.com
 dsdv001.com
 dsh111.com
 dslady.com
+dslr.net
+dslreports.com
 dsmtp.com
 dsn01.com
 dsn104.co
@@ -19512,6 +19516,7 @@ joyandkin.hk
 joyclub.de
 joyhentai.com
 joyid-f154b.firebaseio.com
+joyjoy.net
 joylovedolls.com
 joymii.com
 joymiihub.com
@@ -21351,6 +21356,7 @@ ma.hao123.com
 ma.twimg.com
 ma1lib.org
 ma8009.com
+maa.plus
 maa1809.com
 maa1815.com
 maasstadbv.com
@@ -25237,6 +25243,7 @@ panasonic.com
 pancake.cdn-apple.com.akadns.net
 pandafan.me
 pandamovies.pw
+pandanet-igs.com
 pandapow.co
 pandapow.com
 pandapow.net
@@ -26041,6 +26048,7 @@ pogledaj.name
 pogo.com
 pogobeta.com
 pohl
+poi.moe
 poikilmavillas.gr
 point2hk.com
 pointandina.pe
@@ -26801,6 +26809,7 @@ proyectoq.cl
 prozz.net
 prpops.com
 prprcloud.com
+prts.plus
 pru
 prudential
 prxch.com
@@ -29033,7 +29042,9 @@ showav.tv
 showbiz.omy.sg
 showhaotu.com
 showtime
+showtime.com
 showtime.jp
+showtimeanytime.com
 showup.tv
 showwe.tw
 showybeauty.com
