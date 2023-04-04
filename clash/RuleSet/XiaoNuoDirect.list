@@ -142,6 +142,27 @@ DOMAIN-SUFFIX,ceye.io
 
 # 进程规则
 # 源进程名匹配
+PROCESS-NAME,login
+PROCESS-NAME,nginx
+PROCESS-NAME,dropbear
+PROCESS-NAME,uwsgi
+PROCESS-NAME,dbus-daemon
+PROCESS-NAME,usbmuxd
+PROCESS-NAME,smbd
+PROCESS-NAME,nmbd
+PROCESS-NAME,ntpd
+PROCESS-NAME,dockerd
+PROCESS-NAME,ttyd
+PROCESS-NAME,containerd
+PROCESS-NAME,dnsmasq
+PROCESS-NAME,ujail
+PROCESS-NAME,netifd
+PROCESS-NAME,logd
+PROCESS-NAME,rpcd
+PROCESS-NAME,askfirst
+PROCESS-NAME,ubusd
+PROCESS-NAME,urngd
+PROCESS-NAME,procd
 PROCESS-NAME,smartdns
 PROCESS-NAME,clash
 PROCESS-NAME,v2ray
@@ -219,8 +240,6 @@ PROCESS-NAME,com.taobao.idlefish
 PROCESS-NAME,com.taobao.trip
 PROCESS-NAME,com.eg.android.AipayGphone
 PROCESS-NAME,com.unionpay
-
-
 DOMAIN-SUFFIX,0-100.com
 DOMAIN-SUFFIX,0-6.com
 DOMAIN-SUFFIX,00.net
