@@ -3032,6 +3032,8 @@ accountpaypal.com
 accountpaypal.net
 accountpaypal.org
 accounts.googlers.com
+accounts.xn--9trs65b.com
+accounts.xn--ggle-55da.com
 accuweather.com
 acebooik.com
 acebook.com
@@ -3193,6 +3195,7 @@ ads-twitter.com
 adsa2.9acz1.com
 adsense.com
 adsense.google.cn
+adservice.google.com
 adshoppeevents.com
 adss.asia
 adult
@@ -3405,6 +3408,7 @@ ai-wen.net
 ai.binwang.me
 ai.com
 ai.google
+ai.ytimg.com
 ai780.com
 aiaa.org
 aig
@@ -5506,6 +5510,10 @@ bdy365.com
 be
 be4.herokuapp.com
 beaconevents.com
+beacons.gcp.gvt2.com
+beacons.gvt2.com
+beacons2.gvt2.com
+beacons3.gvt2.com
 beacons4.gvt2.com
 beansbook.com
 beapinkflamingo.gr
@@ -6896,6 +6904,7 @@ borderlandindustry.ml
 borderlands-books.com
 borderlessprepaid.com
 borgenmagazine.com
+borgmon.adz.google.com
 boringart.lt
 boringcompany.com
 borquezyburr.cl
@@ -7446,6 +7455,8 @@ c-ij.com
 c-span.org
 c-spanvideo.org
 c.3mon.xyz
+c.admob.com
+c.android.clients.google.com
 c.box3.bid
 c.c4.workers.dev
 c.chei.us
@@ -7574,6 +7585,8 @@ cabet931.com
 cableav.xyz
 cablegatesearch.net
 cabletvdirectv.com
+cache-management-prod.google.com
+cache.pack.google.com
 cache.wdcdn.net
 cachedview.com
 cachinese.com
@@ -8202,6 +8215,7 @@ cheathappens.com
 check.agin.cc
 checkerproxy.net
 checkgfw.com
+checkin.gstatic.com
 checkthis.com
 cheezit.com
 chemequations.com
@@ -8630,12 +8644,14 @@ click-url.com
 clickindex.com
 clickprompt.com
 clickserve.cc-dt.com
+clickserve.dartsearch.net
 clickserver.googleads.com
 clicksgear.com
 clicksia.com
 client.meethue.com
 clientflow.apple.com.akadns.net
 clients2.googleusercontent.com
+clientservices.googleapis.com
 climatedatalibrary.cl
 climb.ro
 cling.omy.sg
@@ -8825,6 +8841,7 @@ cn.uncyclopedia.wikia.com
 cn.uptodown.com
 cn.venetianmacau.com
 cn.voa.mobi
+cn.widevine.com
 cn.yahoo.com
 cn1069.org
 cn1lib.org
@@ -9040,6 +9057,7 @@ connectionless.net
 connectionsacademy.com
 connectionseducation.com
 connectionslearning.com
+connectivitycheck.gstatic.com
 connectors
 connectssr.com
 connermcd.com
@@ -9106,6 +9124,8 @@ corepublishingsolutions.com
 coresoft.ro
 corona-tracing.org
 coronavirusnow.com
+corp.google.com
+corp.googleapis.com
 corporatecashpassport.com
 corriere.it
 cors-anywhere.herokuapp.com
@@ -9194,6 +9214,7 @@ crackle.com
 craighamilton.biz
 craigslist.org
 crashlytics.com
+crashlyticsreports-pa.googleapis.com
 crazedtechs.com
 crazy-amateurs.com
 crazylivecams.com
@@ -9233,6 +9254,7 @@ crikey.com.au
 crisisresponse.google
 cristyli.com
 crit-staging.com
+crl.pki.goog
 crmdynint-gcc.com
 crmdynint.com
 crocotube.com
@@ -9368,6 +9390,7 @@ csgfnmdb.com
 csgolounge.com
 csh.ro
 cshive.com
+csi.gstatic.com
 csifund.org
 csis.org
 csmonitor.com
@@ -10536,6 +10559,7 @@ dfn.org
 dfp6ofk9ssz35.cloudfront.net
 dfpt88.com
 dfw.ejdj12.com
+dg-meta.video.google.com
 dgaqp.com
 dgreencommunications.com
 dgwav.com
@@ -10825,6 +10849,8 @@ dl.98123l.com
 dl.box.net
 dl.discordapp.net
 dl.dropboxusercontent.com
+dl.google.com
+dl.l.google.com
 dl1gkkomie22y.cloudfront.net
 dldl01.com
 dldlinks.com
@@ -11172,9 +11198,11 @@ download.bluesprig.com
 download.camfrogcdn.com
 download.cnet.com
 download.com
+download.mlcc.google.com
 download.qatp1.net
 download.qcpp1.net
 download.qpdp1.net
+download.tensorflow.google.com
 download.windowsupdate.nsatc.net
 downloadall.asia
 downloadapkfree.com
@@ -12012,6 +12040,7 @@ emerson
 emersonbrookforest.org
 emgog.com
 emilylau.org.hk
+emmapplecodevice.googleapis.com
 emo-vere.ch
 emofid.com
 emojipedia.org
@@ -13334,6 +13363,7 @@ fir3beast.com
 fire-emblem-heroes.com
 firearmsworld.net
 fireballrs.de
+firebase-settings.crashlytics.com
 firebase.com
 firebaseapp.com
 firebaseio.com
@@ -13500,8 +13530,11 @@ fontawesome.com
 fontbook.com
 fontexplorerx.com
 fontfiles.googleadapis.com
+fontfiles.googleapis.com
 fonts.com
 fonts.googleadapis.com
+fonts.googleapis.com
+fonts.gstatic.com
 fonts.net
 fonts.proxy.ustclug.org
 fontshop.com
@@ -14311,13 +14344,17 @@ g.page
 g.starmoe.xyz
 g.twimg.com
 g.zmirrordemo.com
+g0.gstatic.com
 g00gle.pw
 g0v.social
+g1.gstatic.com
 g1d1goob.xyz
 g2.cctvgeo.akadns.net
+g2.gstatic.com
 g2.twimg.com
 g211202.comuf.com
 g2646.com
+g3.gstatic.com
 g4ilo.com
 g4w.me
 g6hentai.com
@@ -15469,6 +15506,7 @@ gotdns.ch
 gotgayporn.com
 gotgeeks.com
 gothdporn.com
+goto.google.com
 gotporn.com
 gotquestions.com
 gotraffic.net
@@ -15609,6 +15647,7 @@ gsp4-cn.ls.apple.com.edgekey.net.globalredir.akadns.net
 gspe19-cn.ls-apple.com.akadns.net
 gstatic-cn.com
 gstatic.com
+gstaticadssl.l.google.com
 gstf.org
 gsuite.com
 gt
@@ -17618,6 +17657,7 @@ imamat
 imamu.edu.sa
 imanhua.com
 imap.vivaldi.net
+imasdk.googleapis.com
 imaypb.com
 imb.org
 imbell.com
@@ -23776,6 +23816,7 @@ ocsp-certum.com
 ocsp-lb.apple.com.akadns.net
 ocsp-responder.com
 ocsp.int-x3.letsencrypt.org
+ocsp.pki.goog
 october-review.org
 octoteam.com
 octrev.mysrvnet.com
@@ -24438,6 +24479,7 @@ page.freett.com
 page.link
 page2rss.com
 page3.com
+pagead-googlehosted.l.google.com
 pagead2.googleadservices.com
 pagecdn.com
 pages.dev
@@ -24863,6 +24905,7 @@ perfecttitspics.com
 perfectvpn.net
 perfekt.us
 perfektegirls.com
+performanceparameters.googleapis.com
 perfspot.com
 periodicgames.com
 periscope.tv
@@ -25141,6 +25184,7 @@ pjorn.com
 pjpautos.com
 pk
 pk.com
+pki-goog.l.google.com
 pki.goog
 pl
 pl.wiktionary.org
@@ -25153,6 +25197,7 @@ plantsvszombies2.com
 plasson.com.ar
 platinumlinks.org
 play-asia.com
+play.1ucrs.com
 play.afreecatv.com
 play.baleship2.xyz
 play.bst218.com
@@ -25830,7 +25875,10 @@ pro989.zcai11.com
 probit.com
 procopytips.com
 proctoscopeexam.com
+prod-controlbe.floonet.goog
+prod-databe.floonet.goog
 prod-support.apple-support.akadns.net
+prod.databe.floonet.goog
 prodrive-japan.com
 products.copangroup.com
 profreeporno.com
@@ -26681,6 +26729,19 @@ redimec.com.ar
 redir.fd.f-secure.com
 redir.xing.com
 redirect.networkbench.com
+redirector.bdn.dev
+redirector.c.chat.google.com
+redirector.c.docs.google.com
+redirector.c.drive.google.com
+redirector.c.mail.google.com
+redirector.c.pack.google.com
+redirector.c.play.google.com
+redirector.c.youtubeeducation.com
+redirector.gcpcdn.gvt1.com
+redirector.gvt1.com
+redirector.offline-maps.gvt1.com
+redirector.snap.gvt1.com
+redirector.xn--ngstr-lra8j.com
 redislabs.com
 redken
 redkix.com
@@ -26714,6 +26775,7 @@ regfs.cf
 regina-admin.firebaseio.com
 regionalwifi.net
 regiongold.com
+regioninfo-pa.googleapis.com
 register.moex.gov.tw
 registerhulu.com
 registeridm.com
@@ -27201,6 +27263,7 @@ sae.org
 saerock.com
 safe-inet.com
 safebooru.org
+safebrowsing.googleapis.com
 safecart.com
 safechat.com
 safeforwork.net
@@ -27669,6 +27732,7 @@ serverzone.net78.net
 serveuser.com
 serveusers.com
 service.kvbgc.com
+service.urchin.com
 service001.net84.net
 services-apple.net
 services-exchange.com
@@ -27689,6 +27753,7 @@ sethwklein.net
 setiantang.com
 setn.com
 setnews.net
+settings.xn--9trs65b.com
 settour-tldr-app.firebaseio.com
 settv.com.tw
 setupvpn.com
@@ -28876,9 +28941,11 @@ ssglobal.me
 ssh91.com
 sshs.club
 sshs.xyz
+ssl-google-analytics.l.google.com
 ssl-images-amazon.com
 ssl-proxy.my-addr.org
 ssl.com
+ssl.gstatic.com
 ssl.ujiule.com
 ssl.webpack.de
 ssl2.cdngc.net
@@ -28947,7 +29014,11 @@ stadia.dev
 stagadish.com
 stage.18luck.tech
 stage64.hk
+staging-controlbe.floonet.goog
+staging-databe.floonet.goog
+staging-regioninfo-pa.googleapis.com
 staging.cryptographyengineering.com
+staging.databe.floonet.goog
 staging.spacious.hk
 standard-molecules.webnode.tw
 standardglove.com
@@ -29384,6 +29455,7 @@ suppig.net
 supplybestjerseys.com
 supplyrussia.com
 support-china.apple-support.akadns.net
+support.1ucrs.com
 support.appsflyer.com
 support.humblebundle.com
 support.pubu.tw
@@ -29586,6 +29658,7 @@ taboola.com
 tabooporns.com
 tabtter.jp
 tabxzp.com
+tac.googleapis.com
 tacamateurs.com
 tacc.cwb.gov.tw
 tacem.org
@@ -29924,10 +29997,12 @@ teslazta.net
 test-idc-3.fjla37itnf5dpsen.com
 test-ipv6.com
 test-wiki-01.site88.net
+test.bugs-qa.chromium.org
 test.cloudfunctions.net
 test.domain888.pw
 test.firebaseio.com
 test.freepac.pw
+test.gbugs-qa.chromium.org
 test.hao999.ml
 test.nadeo.com
 testapi.xinbet.net
@@ -30598,7 +30673,9 @@ tonyyan.net
 toodoc.com
 tool.ssrshare.xyz
 toolforge.org
+tools.google.com
 tools.keycdn.com
+tools.l.google.com
 tools.wmflabs.org
 toom.kir.jp
 toomadporn.pro
@@ -31644,9 +31721,12 @@ uocn.groupsite.com
 uocn.org
 uoherald.com
 uol
+up.corp.goog
 up.gcp.googlers.com
 up.live
 upcoming.yahoo.com
+update.crashlytics.com
+update.googleapis.com
 updates-http.cdn-apple.com.akadns.net
 updates.tdesktop.com
 updatetube.com
@@ -32948,6 +33028,7 @@ we.minecraftnoob.com
 we22.ga
 wealth.com.tw
 wealth4allteam.com
+wear.googleapis.com
 wearechange.org
 weareebay.com
 wearehairy.com
@@ -33774,7 +33855,9 @@ www-cdn.whatsapp.net
 www-cpk06.com
 www-dc1-n1.sparklabs.com
 www-facebook.com
+www-google-analytics.l.google.com
 www-google-com.firelayers.net
+www-googletagmanager.l.google.com
 www-paypal.info
 www-sms-apple.com
 www-ys688.com
@@ -35861,6 +35944,7 @@ www.green-living.com.tw
 www.greenway.ie
 www.grjsq.biz
 www.grneggs.com
+www.gstatic.com
 www.gtja.com.hk
 www.gtloli.net
 www.guaiguaizhanhao.com
