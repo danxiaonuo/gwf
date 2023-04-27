@@ -22008,7 +22008,9 @@ payload:
   - DOMAIN-SUFFIX,feiren.com
   - DOMAIN-SUFFIX,feisan.net
   - DOMAIN-SUFFIX,feishu-3rd-party-services.com
+  - DOMAIN-SUFFIX,feishu.net
   - DOMAIN-SUFFIX,feishucdn.com
+  - DOMAIN-SUFFIX,feishupkg.com
   - DOMAIN-SUFFIX,feisu.com
   - DOMAIN-SUFFIX,feitian001.com
   - DOMAIN-SUFFIX,feitianwu7.com
