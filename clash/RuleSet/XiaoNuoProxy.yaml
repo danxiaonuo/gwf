@@ -10358,6 +10358,7 @@ payload:
   - DOMAIN-SUFFIX,javhub.me
   - DOMAIN-SUFFIX,javhub.net
   - DOMAIN-SUFFIX,javhuge.com
+  - DOMAIN-SUFFIX,javidol.org
   - DOMAIN-SUFFIX,javjack.com
   - DOMAIN-SUFFIX,javjunkies.com
   - DOMAIN-SUFFIX,javkiki.com
@@ -15586,6 +15587,7 @@ payload:
   - DOMAIN-SUFFIX,sanofi
   - DOMAIN-SUFFIX,sanspo.com
   - DOMAIN-SUFFIX,sanvaras.com
+  - DOMAIN-SUFFIX,sanwapub.com
   - DOMAIN-SUFFIX,sap
   - DOMAIN-SUFFIX,sapikachu.net
   - DOMAIN-SUFFIX,sapo
