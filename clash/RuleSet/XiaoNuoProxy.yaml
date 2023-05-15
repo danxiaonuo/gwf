@@ -14330,6 +14330,7 @@ payload:
   - DOMAIN-SUFFIX,podcast.co
   - DOMAIN-SUFFIX,podictionary.com
   - DOMAIN-SUFFIX,poe.com
+  - DOMAIN-SUFFIX,poecdn.net
   - DOMAIN-SUFFIX,pogo.com
   - DOMAIN-SUFFIX,pogobeta.com
   - DOMAIN-SUFFIX,pohl
@@ -20102,6 +20103,7 @@ payload:
   - DOMAIN-SUFFIX,yizhihongxing.com
   - DOMAIN-SUFFIX,yjcontentdelivery.com
   - DOMAIN-SUFFIX,ymail.com
+  - DOMAIN-SUFFIX,ynoproject.net
   - DOMAIN-SUFFIX,yo1health.com
   - DOMAIN-SUFFIX,yobit.net
   - DOMAIN-SUFFIX,yobt.com
