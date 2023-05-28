@@ -30378,6 +30378,7 @@ ipfsbit.com
 ipgoal.com
 iph123.com
 iphone-ld.apple.com
+iphone-ld.origin-apple.com.akadns.net
 iphonediule.com
 ipin.com
 ipinba.com
@@ -55345,6 +55346,8 @@ weartrends.com
 weasing.com
 weather-data.apple.com
 weather-data.apple.com.akadns.net
+weather-map.apple.com
+weather-map2.apple.com
 weatherat.com
 weathercn.com
 weatherdt.com

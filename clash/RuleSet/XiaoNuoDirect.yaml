@@ -30621,6 +30621,7 @@ payload:
   - DOMAIN-SUFFIX,ipgoal.com
   - DOMAIN-SUFFIX,iph123.com
   - DOMAIN-SUFFIX,iphone-ld.apple.com
+  - DOMAIN-SUFFIX,iphone-ld.origin-apple.com.akadns.net
   - DOMAIN-SUFFIX,iphonediule.com
   - DOMAIN-SUFFIX,ipin.com
   - DOMAIN-SUFFIX,ipinba.com
@@ -55588,6 +55589,8 @@ payload:
   - DOMAIN-SUFFIX,weasing.com
   - DOMAIN-SUFFIX,weather-data.apple.com
   - DOMAIN-SUFFIX,weather-data.apple.com.akadns.net
+  - DOMAIN-SUFFIX,weather-map.apple.com
+  - DOMAIN-SUFFIX,weather-map2.apple.com
   - DOMAIN-SUFFIX,weatherat.com
   - DOMAIN-SUFFIX,weathercn.com
   - DOMAIN-SUFFIX,weatherdt.com
