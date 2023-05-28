@@ -10049,6 +10049,7 @@ payload:
   - DOMAIN-SUFFIX,iphine.com
   - DOMAIN-SUFFIX,iphone-cd.com
   - DOMAIN-SUFFIX,iphone-cn.com
+  - DOMAIN-SUFFIX,iphone-ld.origin-apple.com.akadns.net
   - DOMAIN-SUFFIX,iphone-sh.com
   - DOMAIN-SUFFIX,iphone-vip1.com
   - DOMAIN-SUFFIX,iphone-vip2.com
