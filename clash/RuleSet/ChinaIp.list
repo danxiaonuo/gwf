@@ -4532,6 +4532,8 @@ IP-CIDR,103.213.176.0/22,no-resolve
 IP-CIDR,103.213.180.0/22,no-resolve
 IP-CIDR,103.213.184.0/22,no-resolve
 IP-CIDR,103.213.188.0/22,no-resolve
+IP-CIDR,103.213.196.0/23,no-resolve
+IP-CIDR,103.213.198.0/23,no-resolve
 IP-CIDR,103.214.48.0/22,no-resolve
 IP-CIDR,103.214.84.0/22,no-resolve
 IP-CIDR,103.214.212.0/22,no-resolve
@@ -9058,6 +9060,7 @@ IP-CIDR6,2401:80::/32,no-resolve
 IP-CIDR6,2401:140::/32,no-resolve
 IP-CIDR6,2401:1c0::/32,no-resolve
 IP-CIDR6,2401:540::/32,no-resolve
+IP-CIDR6,2401:620::/32,no-resolve
 IP-CIDR6,2401:7c0::/32,no-resolve
 IP-CIDR6,2401:800::/32,no-resolve
 IP-CIDR6,2401:9c0::/32,no-resolve
