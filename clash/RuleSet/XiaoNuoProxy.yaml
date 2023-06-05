@@ -2874,6 +2874,11 @@ payload:
   - DOMAIN-SUFFIX,bili2.cc
   - DOMAIN-SUFFIX,bili888.com
   - DOMAIN-SUFFIX,bili999.com
+  - DOMAIN-SUFFIX,bilibiligame.co
+  - DOMAIN-SUFFIX,bilibiligame.net
+  - DOMAIN-SUFFIX,biligame.co
+  - DOMAIN-SUFFIX,biligame.com
+  - DOMAIN-SUFFIX,biligame.net
   - DOMAIN-SUFFIX,biliintl.com
   - DOMAIN-SUFFIX,biliplus.com
   - DOMAIN-SUFFIX,biliworld.com
@@ -11348,6 +11353,7 @@ payload:
   - DOMAIN-SUFFIX,lovethiscity.com
   - DOMAIN-SUFFIX,lovetvshow.com
   - DOMAIN-SUFFIX,lowergiseries.com
+  - DOMAIN-SUFFIX,lowiro.com
   - DOMAIN-SUFFIX,lp99.pw
   - DOMAIN-SUFFIX,lpl
   - DOMAIN-SUFFIX,lplfinancial
