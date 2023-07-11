@@ -11751,6 +11751,8 @@ payload:
   - DOMAIN-SUFFIX,mdn.dev
   - DOMAIN-SUFFIX,mdn.mozit.cloud
   - DOMAIN-SUFFIX,mdnkids.com
+  - DOMAIN-SUFFIX,mdnplay.dev
+  - DOMAIN-SUFFIX,mdnyalp.dev
   - DOMAIN-SUFFIX,mdpi.com
   - DOMAIN-SUFFIX,me-gay.com
   - DOMAIN-SUFFIX,me.com
