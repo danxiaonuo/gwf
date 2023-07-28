@@ -906,6 +906,7 @@ DOMAIN-SUFFIX,addtoany.com
 DOMAIN-SUFFIX,addyoutube.com
 DOMAIN-SUFFIX,adelaidebbs.com
 DOMAIN-SUFFIX,adgoogle.net
+DOMAIN-SUFFIX,adguard-dns.com
 DOMAIN-SUFFIX,adguard-vpn.com
 DOMAIN-SUFFIX,adguard.com
 DOMAIN-SUFFIX,adhelpnews.com
@@ -1809,6 +1810,7 @@ DOMAIN-SUFFIX,aramco
 DOMAIN-SUFFIX,arcadewank.com
 DOMAIN-SUFFIX,arcgis.com
 DOMAIN-SUFFIX,arcgisonline.com
+DOMAIN-SUFFIX,archive-it.org
 DOMAIN-SUFFIX,archive.fo
 DOMAIN-SUFFIX,archive.is
 DOMAIN-SUFFIX,archive.li
@@ -13702,6 +13704,7 @@ DOMAIN-SUFFIX,opengw.net
 DOMAIN-SUFFIX,openid.net
 DOMAIN-SUFFIX,openjsf.org
 DOMAIN-SUFFIX,openleaks.org
+DOMAIN-SUFFIX,openlibrary.org
 DOMAIN-SUFFIX,openmaps.org
 DOMAIN-SUFFIX,openmidas.com
 DOMAIN-SUFFIX,openresty.org
