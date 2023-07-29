@@ -4123,6 +4123,7 @@ cloudconvert.com
 cloudcraze.com
 cloudcredibility.com
 cloudflare-dns.com
+cloudflare-gateway.com
 cloudflare-ipfs.com
 cloudflare-quic.com
 cloudflare.com
@@ -4133,6 +4134,7 @@ cloudflarebolt.com
 cloudflareclient.com
 cloudflareinsights.com
 cloudflareok.com
+cloudflareportal.com
 cloudflarepreview.com
 cloudflareresolve.com
 cloudflaressl.com
@@ -13962,6 +13964,8 @@ pieceofplastic.com
 pifpafarabia.com
 pigav.com
 pikabu.monster
+pikpak.me
+pikpakdrive.com
 pillbeatsblackfridaysale.com
 pimg.tw
 pin-cong.com
