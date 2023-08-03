@@ -752,7 +752,6 @@ ai
 ai-kan.net
 ai-wen.net
 ai.binwang.me
-ai.com
 ai.google
 ai.ytimg.com
 aiaa.org
@@ -18672,6 +18671,7 @@ vultryhw.com
 vxnbbrs.xyz
 vxxsred.xyz
 vzw.com
+w-mt.co
 w.idaiwan.com
 w.org
 w.wiki
