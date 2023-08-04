@@ -80,3 +80,7 @@ cat proxy.txt | perl -ne '/([-_a-zA-Z0-9]+(\.[-_a-zA-Z0-9]+)*)/ && print "namese
 curl -s -m 3 --retry-delay 3 --retry 3 -k -4 --header 'cache-control: no-cache' --url 'https://raw.githubusercontent.com/alecthw/mmdb_china_ip_list/release/Country.mmdb' > Country.mmdb
 
 rm -rf *.tmp
+
+# chatgpt
+mkdir -p chatgpt
+python3 default/retrieve_access_token.py default/chatgpt_accounts.txt > chatgpt/chatgpt_token.txt
