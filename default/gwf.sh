@@ -83,4 +83,4 @@ rm -rf *.tmp
 
 # chatgpt
 mkdir -p chatgpt
-python3 default/retrieve_access_token.py default/chatgpt_accounts.txt > chatgpt/chatgpt_token.txt
+python3 default/chatgpt_accounts_token.py default/chatgpt_accounts.txt > chatgpt/chatgpt_token.txt
