@@ -7,3 +7,4 @@ https://cdn.jsdelivr.net/gh/danxiaonuo/gwf/ip/ChinaIpv6.txt<br/>
 https://cdn.jsdelivr.net/gh/danxiaonuo/gwf/smartdns/smartdns_gfw_domain.conf<br/>
 https://cdn.jsdelivr.net/gh/danxiaonuo/gwf/smartdns/smartdns_xiaonuo_domain.conf<br/>
 https://cdn.jsdelivr.net/gh/danxiaonuo/gwf/Country.mmdb<br/>
+https://cdn.jsdelivr.net/gh/danxiaonuo/gwf/chatgpt/chatgpt_token.txt<br/>
