@@ -32,10 +32,12 @@ def get_access_token(username, password):
         response = requests.post(url, headers=headers, data=payload, files=files, timeout=10)
         response.raise_for_status()
     except Timeout:
-        print("请求超时，请稍后再试。")
+        # print("请求超时，请稍后再试。")
+        pass
         return None
     except (ConnectionError, RequestException) as e:
-        print(f"发生错误：{e}")
+        # print(f"发生错误：{e}")
+        pass
         return None
 
     # 提取响应文本中的Access Token
@@ -52,9 +54,11 @@ def read_accounts_file(filename):
                 username, password = line.strip().split()
                 accounts_list.append((username, password))
     except FileNotFoundError:
-        print("文件不存在，请检查文件路径是否正确。")
+        # print("文件不存在，请检查文件路径是否正确。")
+        pass
     except Exception as e:
-        print(f"发生错误：{e}")
+        # print(f"发生错误：{e}")
+        pass
     return accounts_list
 
 if __name__ == "__main__":
