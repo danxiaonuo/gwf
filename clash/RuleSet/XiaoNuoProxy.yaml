@@ -9676,6 +9676,7 @@ payload:
   - DOMAIN-SUFFIX,ids-apple.com
   - DOMAIN-SUFFIX,idservice.inc
   - DOMAIN-SUFFIX,idv.tw
+  - DOMAIN-SUFFIX,idx.dev
   - DOMAIN-SUFFIX,ie
   - DOMAIN-SUFFIX,ie10.com
   - DOMAIN-SUFFIX,ie11.com
