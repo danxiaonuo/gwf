@@ -15378,6 +15378,8 @@ payload:
   - DOMAIN-SUFFIX,redditstatic.com
   - DOMAIN-SUFFIX,redfaptube.com
   - DOMAIN-SUFFIX,redgifs.com
+  - DOMAIN-SUFFIX,redhat.com
+  - DOMAIN-SUFFIX,redhat.org
   - DOMAIN-SUFFIX,redhotlabs.com
   - DOMAIN-SUFFIX,redirector.bdn.dev
   - DOMAIN-SUFFIX,redirector.c.chat.google.com

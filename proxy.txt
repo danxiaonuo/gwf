@@ -15049,6 +15049,8 @@ redditmedia.com
 redditstatic.com
 redfaptube.com
 redgifs.com
+redhat.com
+redhat.org
 redhotlabs.com
 redirector.bdn.dev
 redirector.c.chat.google.com
