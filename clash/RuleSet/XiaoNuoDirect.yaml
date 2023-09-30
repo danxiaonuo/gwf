@@ -8935,6 +8935,7 @@ payload:
   - DOMAIN-SUFFIX,appkg.com
   - DOMAIN-SUFFIX,appldnld.apple.com
   - DOMAIN-SUFFIX,appldnld.g.aaplimg.com
+  - DOMAIN-SUFFIX,apple-icloud.cn
   - DOMAIN-SUFFIX,apple110.com
   - DOMAIN-SUFFIX,apple4.us
   - DOMAIN-SUFFIX,apple88.net
@@ -8943,8 +8944,10 @@ payload:
   - DOMAIN-SUFFIX,appleadstech.com
   - DOMAIN-SUFFIX,applebl.com
   - DOMAIN-SUFFIX,applehunt.com
+  - DOMAIN-SUFFIX,appleicloud.cn
   - DOMAIN-SUFFIX,appleid.cdn-apple.com
   - DOMAIN-SUFFIX,applemei.com
+  - DOMAIN-SUFFIX,applemx-icloud.com
   - DOMAIN-SUFFIX,appletuan.com
   - DOMAIN-SUFFIX,applex.net
   - DOMAIN-SUFFIX,applicationloader.net
@@ -29113,13 +29116,54 @@ payload:
   - DOMAIN-SUFFIX,ickimg.com
   - DOMAIN-SUFFIX,iclicash.com
   - DOMAIN-SUFFIX,iclickstatic.com
+  - DOMAIN-SUFFIX,icloud-apple.cn
   - DOMAIN-SUFFIX,icloud-cdn.icloud.com.akadns.net
+  - DOMAIN-SUFFIX,icloud-content.com
+  - DOMAIN-SUFFIX,icloud-isupport.com
   - DOMAIN-SUFFIX,icloud.cdn-apple.com
+  - DOMAIN-SUFFIX,icloud.ch
+  - DOMAIN-SUFFIX,icloud.com
+  - DOMAIN-SUFFIX,icloud.com.cn
+  - DOMAIN-SUFFIX,icloud.de
+  - DOMAIN-SUFFIX,icloud.ee
+  - DOMAIN-SUFFIX,icloud.fi
+  - DOMAIN-SUFFIX,icloud.fr
+  - DOMAIN-SUFFIX,icloud.hu
+  - DOMAIN-SUFFIX,icloud.ie
+  - DOMAIN-SUFFIX,icloud.is
+  - DOMAIN-SUFFIX,icloud.jp
+  - DOMAIN-SUFFIX,icloud.lv
+  - DOMAIN-SUFFIX,icloud.net.cn
+  - DOMAIN-SUFFIX,icloud.om
+  - DOMAIN-SUFFIX,icloud.org
+  - DOMAIN-SUFFIX,icloud.pt
+  - DOMAIN-SUFFIX,icloud.ro
+  - DOMAIN-SUFFIX,icloud.se
+  - DOMAIN-SUFFIX,icloud.si
+  - DOMAIN-SUFFIX,icloud.sk
+  - DOMAIN-SUFFIX,icloud.vn
+  - DOMAIN-SUFFIX,icloudads.net
+  - DOMAIN-SUFFIX,icloudapple.cn
+  - DOMAIN-SUFFIX,icloudbox.net
+  - DOMAIN-SUFFIX,icloudbrowser.net
   - DOMAIN-SUFFIX,icloudcity.com
+  - DOMAIN-SUFFIX,icloude.com
   - DOMAIN-SUFFIX,icloudgslb.com
+  - DOMAIN-SUFFIX,icloudhome.com
+  - DOMAIN-SUFFIX,icloudmail.net
+  - DOMAIN-SUFFIX,icloudmusic.net
   - DOMAIN-SUFFIX,icloudnative.io
+  - DOMAIN-SUFFIX,icloudnet.net
   - DOMAIN-SUFFIX,icloudnews.net
+  - DOMAIN-SUFFIX,icloudo.com
+  - DOMAIN-SUFFIX,icloudo.de
+  - DOMAIN-SUFFIX,icloudo.net
+  - DOMAIN-SUFFIX,icloudos.de
+  - DOMAIN-SUFFIX,icloudos.net
+  - DOMAIN-SUFFIX,icloudpay.net
   - DOMAIN-SUFFIX,iclouds.work
+  - DOMAIN-SUFFIX,icloudsecure.net
+  - DOMAIN-SUFFIX,icloudsetup.com
   - DOMAIN-SUFFIX,icloudv6.com
   - DOMAIN-SUFFIX,icloudwaf.com
   - DOMAIN-SUFFIX,icmade.com
@@ -30171,6 +30215,7 @@ payload:
   - DOMAIN-SUFFIX,ionichina.com
   - DOMAIN-SUFFIX,iooeoo.com
   - DOMAIN-SUFFIX,iopenhec.com
+  - DOMAIN-SUFFIX,ios-icloud.com
   - DOMAIN-SUFFIX,iosapps.itunes.g.aaplimg.com
   - DOMAIN-SUFFIX,iosappx.com
   - DOMAIN-SUFFIX,iosask.com
@@ -38051,6 +38096,7 @@ payload:
   - DOMAIN-SUFFIX,mdyseducation.org
   - DOMAIN-SUFFIX,mdzgjx.com
   - DOMAIN-SUFFIX,me-city.com
+  - DOMAIN-SUFFIX,me.com
   - DOMAIN-SUFFIX,me1.ltd
   - DOMAIN-SUFFIX,me361.com
   - DOMAIN-SUFFIX,me4399.com
@@ -39846,6 +39892,7 @@ payload:
   - DOMAIN-SUFFIX,myhwcdn.com
   - DOMAIN-SUFFIX,myhwcloudlive.com
   - DOMAIN-SUFFIX,myhwclouds.com
+  - DOMAIN-SUFFIX,myicloud.net
   - DOMAIN-SUFFIX,myie.me
   - DOMAIN-SUFFIX,myie9.com
   - DOMAIN-SUFFIX,myip.la
@@ -39866,6 +39913,7 @@ payload:
   - DOMAIN-SUFFIX,mykqyy.com
   - DOMAIN-SUFFIX,mykshow.com
   - DOMAIN-SUFFIX,mylbabao.com
+  - DOMAIN-SUFFIX,mylcloud.net
   - DOMAIN-SUFFIX,mylguoji.com
   - DOMAIN-SUFFIX,mylibs.org
   - DOMAIN-SUFFIX,mylightsite.com
@@ -56937,6 +56985,7 @@ payload:
   - DOMAIN-SUFFIX,www-175345.com
   - DOMAIN-SUFFIX,www-4620.com
   - DOMAIN-SUFFIX,www-63608.com
+  - DOMAIN-SUFFIX,www-cdn.icloud.com.akadns.net
   - DOMAIN-SUFFIX,www-hangzhou-aliyun.com
   - DOMAIN-SUFFIX,www.adobe.com
   - DOMAIN-SUFFIX,www.akamai.com
@@ -56980,6 +57029,7 @@ payload:
   - DOMAIN-SUFFIX,wwwbuild.net
   - DOMAIN-SUFFIX,wwwer.net
   - DOMAIN-SUFFIX,wwwic.net
+  - DOMAIN-SUFFIX,wwwicloud.com
   - DOMAIN-SUFFIX,wwwimages.adobe.com
   - DOMAIN-SUFFIX,wwwimages2.adobe.com
   - DOMAIN-SUFFIX,wwwwww.vip
