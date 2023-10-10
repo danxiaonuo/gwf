@@ -1,83 +1,87 @@
-import argparse
-import re
+# -*- coding: utf-8 -*-
+
+import os
+from os import path
+
 import requests
-from requests.exceptions import Timeout, RequestException, ConnectionError
 
-def get_access_token(username, password):
-    url = "https://chatgpt-token-xiaonuo.vercel.app/getOpenAItoken"
+from pandora.openai.auth import Auth0
 
-    payload = {
-        'username': username,
-        'password': password,
-        'mfa_code': ''
-    }
-    files = []
+def run():
+    proxy = None
+    expires_in = 0
+    unique_name = 'my share token'
+    current_path = os.getcwd()  # 获取当前工作目录路径
+    parent_path = os.path.dirname(current_path)  # 获取父目录路径
+    current_dir = path.dirname(path.abspath(__file__))
+    credentials_file = path.join(current_dir, 'chatgpt_accounts.txt')
 
-    headers = {
-        'authority': 'chatgpt-token-xiaonuo.vercel.app',
-        'accept': '*/*',
-        'accept-language': 'zh-CN,zh;q=0.9',
-        'origin': 'https://chatgpt-token-xiaonuo.vercel.app',
-        'referer': 'https://chatgpt-token-xiaonuo.vercel.app/',
-        'sec-ch-ua': '"Not/A)Brand";v="99", "Google Chrome";v="115", "Chromium";v="115"',
-        'sec-ch-ua-mobile': '?0',
-        'sec-ch-ua-platform': '"Windows"',
-        'sec-fetch-dest': 'empty',
-        'sec-fetch-mode': 'cors',
-        'sec-fetch-site': 'same-origin',
-        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36'
-    }
-
-    try:
-        response = requests.post(url, headers=headers, data=payload, files=files, timeout=10)
-        response.raise_for_status()
-    except Timeout:
-        # print("请求超时，请稍后再试。")
+    tokens_file = 'chatgpt/chatgpt_token.txt'
+	
+	# 清空之前的 token 值
+    with open(tokens_file, 'w', encoding='utf-8'):
         pass
-        return None
-    except (ConnectionError, RequestException) as e:
-        # print(f"发生错误：{e}")
-        pass
-        return None
 
-    # 提取响应文本中的Access Token
-    access_token = response.text.split("Access Token:", 1)
-    # 将列表中的元素连接成单个字符串
-    access_token_str = ''.join(access_token).strip()
-    return access_token_str
+    with open(credentials_file, 'r', encoding='utf-8') as f:
+        credentials = f.read().split('\n')
+    credentials = [credential.split(' ', 1) for credential in credentials]
+    print(credentials)
 
-def read_accounts_file(filename):
-    accounts_list = []
-    try:
-        with open(filename, 'r') as file:
-            for line in file:
-                username, password = line.strip().split()
-                accounts_list.append((username, password))
-    except FileNotFoundError:
-        # print("文件不存在，请检查文件路径是否正确。")
-        pass
-    except Exception as e:
-        # print(f"发生错误：{e}")
-        pass
-    return accounts_list
+    count = 0
+    token_keys = []
 
-if __name__ == "__main__":
-    parser = argparse.ArgumentParser(description='从服务器中获取Access Token。')
-    parser.add_argument('filename', help='包含账号信息的文件名')
-    args = parser.parse_args()
+    # 用于记录是否已经输出过token的标志
+    token_output_flag = False
 
-    accounts_list = read_accounts_file(args.filename)
-    if not accounts_list:
-        exit(1)
+    for credential in credentials:
+        progress = '{}/{}'.format(credentials.index(credential) + 1, len(credentials))
+        if not credential or len(credential) != 2:
+            continue
 
-    access_token_found = False
-    for username, password in accounts_list:
-        access_token = get_access_token(username, password)
-        if access_token and len(access_token) > 100:
-            print(access_token)
-            access_token_found = True
-            break
+        count += 1
+        username, password = credential[0].strip(), credential[1].strip()
+        print('开始登录: {}, {}'.format(username, progress))
+        print(password)
+
+        token_info = {
+            'token': 'None',
+            'share_token': 'None',
+        }
+        token_keys.append(token_info)
+
+        try:
+            token_info['token'] = Auth0(username, password, proxy).auth(False)
+            print('登录成功: {}, {}'.format(username, progress))
+
+            # 判断token值长度是否大于100，且未输出过
+            if len(token_info['token']) > 100 and not token_output_flag:
+                with open(tokens_file, 'w', encoding='utf-8') as f:
+                    f.write('{}\n'.format(token_info['token']))
+                token_output_flag = True
+
+        except Exception as e:
+            err_str = str(e).replace('\n', '').replace('\r', '').strip()
+            print('登录失败: {}, {}'.format(username, err_str))
+            token_info['token'] = err_str
+            continue
+
+        data = {
+            'unique_name': unique_name,
+            'access_token': token_info['token'],
+            'expires_in': expires_in,
+        }
+        resp = requests.post('https://ai.fakeopen.com/token/register', data=data)
+        if resp.status_code == 200:
+            token_info['share_token'] = resp.json()['token_key']
+            print('共享令牌: {}'.format(token_info['share_token']))
         else:
-            pass
-    if not access_token_found:
-        pass
+            err_str = resp.text.replace('\n', '').replace('\r', '').strip()
+            print('共享令牌失败: {}'.format(err_str))
+            token_info['share_token'] = err_str
+            continue
+
+    if not token_output_flag:
+        print("未找到长度大于100的token值。")
+
+if __name__ == '__main__':
+    run()
