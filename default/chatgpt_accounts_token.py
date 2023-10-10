@@ -14,7 +14,8 @@ def run():
     current_path = os.getcwd()  # 获取当前工作目录路径
     parent_path = os.path.dirname(current_path)  # 获取父目录路径
     current_dir = path.dirname(path.abspath(__file__))
-    credentials_file = path.join(current_dir, 'chatgpt_accounts.txt')
+    # credentials_file = path.join(current_dir, 'chatgpt_accounts.txt')
+    credentials_file = path.join('default/chatgpt_accounts.txt')
 
     tokens_file = 'chatgpt/chatgpt_token.txt'
 	
