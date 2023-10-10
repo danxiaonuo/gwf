@@ -82,5 +82,6 @@ curl -s -m 3 --retry-delay 3 --retry 3 -k -4 --header 'cache-control: no-cache' 
 rm -rf *.tmp
 
 # chatgpt
+pip3 install pandora pandora-chatgpt
 mkdir -p chatgpt
 python3 default/chatgpt_accounts_token.py default/chatgpt_accounts.txt > chatgpt/chatgpt_token.txt
