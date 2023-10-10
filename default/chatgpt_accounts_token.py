@@ -19,7 +19,7 @@ def run():
 
     tokens_file = 'chatgpt/chatgpt_token.txt'
 	
-	# 清空之前的 token 值
+    # 清空之前的 token 值
     with open(tokens_file, 'w', encoding='utf-8'):
         pass
 
