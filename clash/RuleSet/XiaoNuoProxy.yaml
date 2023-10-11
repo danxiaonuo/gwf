@@ -13143,6 +13143,7 @@ payload:
   - DOMAIN-SUFFIX,nike-us.com
   - DOMAIN-SUFFIX,nike-usa.com
   - DOMAIN-SUFFIX,nike.com
+  - DOMAIN-SUFFIX,nike.host
   - DOMAIN-SUFFIX,nike.shop
   - DOMAIN-SUFFIX,nike.xn--hxt814e
   - DOMAIN-SUFFIX,nike0594.com
