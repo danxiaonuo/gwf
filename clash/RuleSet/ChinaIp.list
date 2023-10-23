@@ -8623,7 +8623,6 @@ IP-CIDR,223.112.0.0/14,no-resolve
 IP-CIDR,223.116.0.0/15,no-resolve
 IP-CIDR,223.120.128.0/17,no-resolve
 IP-CIDR,223.121.128.0/17,no-resolve
-IP-CIDR,223.122.128.0/17,no-resolve
 IP-CIDR,223.123.128.0/17,no-resolve
 IP-CIDR,223.124.0.0/14,no-resolve
 IP-CIDR,223.128.0.0/15,no-resolve
