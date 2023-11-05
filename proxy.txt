@@ -72,6 +72,9 @@
 18avx.com
 18board.com
 18board.info
+18comic-god.cc
+18comic-god.club
+18comic-god.xyz
 18comic.cc
 18comic.company
 18comic.org
@@ -585,7 +588,12 @@ adelaidebbs.com
 adgoogle.net
 adguard-dns.com
 adguard-vpn.com
+adguard-vpn.online
+adguard.app
 adguard.com
+adguard.info
+adguard.org
+adguardvpn.com
 adhelpnews.com
 adidas.com
 admeld.com
@@ -636,6 +644,8 @@ adpl.org.hk
 ads-twitter.com
 adsense.com
 adservice.google.com
+adtidy.net
+adtidy.org
 adult
 adult-h.com
 adult-home-videos.com
@@ -9817,6 +9827,7 @@ ipfs.eth.aragon.network
 ipfs.fleek.co
 ipfs.io
 ipfs.runfission.com
+ipfs.tech
 iphine.com
 iphone-cd.com
 iphone-cn.com
@@ -10289,6 +10300,7 @@ jll
 jm
 jm98.cc
 jma.go.jp
+jmcomic.ltd
 jmcomic.me
 jmcomic.mobi
 jmcomic.moe
@@ -12123,6 +12135,7 @@ moxing.mobi
 moxing.news
 moystoys.com
 mozaic
+mozgcp.net
 mozilla.com
 mozilla.community
 mozilla.net
