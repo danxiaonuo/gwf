@@ -4017,6 +4017,7 @@ payload:
   - DOMAIN-SUFFIX,cdmatech.com
   - DOMAIN-SUFFIX,cdn-apple.com
   - DOMAIN-SUFFIX,cdn-images.mailchimp.com
+  - DOMAIN-SUFFIX,cdn-telegram.org
   - DOMAIN-SUFFIX,cdn-terapeak.com
   - DOMAIN-SUFFIX,cdn.assets.lfpcontent.com
   - DOMAIN-SUFFIX,cdn.helixstudios.net
@@ -7021,6 +7022,7 @@ payload:
   - DOMAIN-SUFFIX,fffucked.com
   - DOMAIN-SUFFIX,fflick.com
   - DOMAIN-SUFFIX,fflnk.net
+  - DOMAIN-SUFFIX,fflogs.com
   - DOMAIN-SUFFIX,ffmpeg.org
   - DOMAIN-SUFFIX,ffotolia.com
   - DOMAIN-SUFFIX,ffprofile.com
@@ -15651,6 +15653,7 @@ payload:
   - DOMAIN-SUFFIX,routledgehandbooks.com
   - DOMAIN-SUFFIX,royalcams.com
   - DOMAIN-SUFFIX,royalsocietypublishing.org
+  - DOMAIN-SUFFIX,rpglogs.com
   - DOMAIN-SUFFIX,rplay.live
   - DOMAIN-SUFFIX,rpmfusion.org
   - DOMAIN-SUFFIX,rprimelab.com
@@ -17766,6 +17769,7 @@ payload:
   - DOMAIN-SUFFIX,tigervpn.com
   - DOMAIN-SUFFIX,tik-tokapi.com
   - DOMAIN-SUFFIX,tiktok.com
+  - DOMAIN-SUFFIX,tiktokcdn-us.com
   - DOMAIN-SUFFIX,tiktokcdn.com
   - DOMAIN-SUFFIX,tiktokd.net
   - DOMAIN-SUFFIX,tiktokd.org
@@ -18079,6 +18083,7 @@ payload:
   - DOMAIN-SUFFIX,tttan.com
   - DOMAIN-SUFFIX,ttv.com.tw
   - DOMAIN-SUFFIX,ttvnw.net
+  - DOMAIN-SUFFIX,ttwstatic.com
   - DOMAIN-SUFFIX,tu8964.com
   - DOMAIN-SUFFIX,tubaholic.com
   - DOMAIN-SUFFIX,tube-pornomovs.com
