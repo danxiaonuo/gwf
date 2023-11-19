@@ -4475,6 +4475,7 @@ payload:
   - DOMAIN-SUFFIX,cloudcredibility.com
   - DOMAIN-SUFFIX,cloudflare-dns.com
   - DOMAIN-SUFFIX,cloudflare-ech.com
+  - DOMAIN-SUFFIX,cloudflare-esni.com
   - DOMAIN-SUFFIX,cloudflare-gateway.com
   - DOMAIN-SUFFIX,cloudflare-ipfs.com
   - DOMAIN-SUFFIX,cloudflare-quic.com
@@ -10250,6 +10251,7 @@ payload:
   - DOMAIN-SUFFIX,is.gd
   - DOMAIN-SUFFIX,isaacmao.com
   - DOMAIN-SUFFIX,isasecret.com
+  - DOMAIN-SUFFIX,isbgpsafeyet.com
   - DOMAIN-SUFFIX,isc.sans.edu
   - DOMAIN-SUFFIX,isca-speech.org
   - DOMAIN-SUFFIX,ischool.com
@@ -12740,6 +12742,7 @@ payload:
   - DOMAIN-SUFFIX,mymusic.net.tw
   - DOMAIN-SUFFIX,mynetav.net
   - DOMAIN-SUFFIX,mynetav.org
+  - DOMAIN-SUFFIX,mynetname.net
   - DOMAIN-SUFFIX,mynike.com
   - DOMAIN-SUFFIX,mynumber.org
   - DOMAIN-SUFFIX,myoctocat.com
