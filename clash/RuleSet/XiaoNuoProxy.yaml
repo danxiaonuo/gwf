@@ -2253,6 +2253,7 @@ payload:
   - DOMAIN-SUFFIX,backroomcastingcouch.com
   - DOMAIN-SUFFIX,backtotiananmen.com
   - DOMAIN-SUFFIX,bacon.com
+  - DOMAIN-SUFFIX,bad.news
   - DOMAIN-SUFFIX,badaas.com
   - DOMAIN-SUFFIX,badasianpussy.com
   - DOMAIN-SUFFIX,badgen.net
@@ -3740,8 +3741,11 @@ payload:
   - DOMAIN-SUFFIX,bx.in.th
   - DOMAIN-SUFFIX,bx.tl
   - DOMAIN-SUFFIX,by
+  - DOMAIN-SUFFIX,byapis.com
   - DOMAIN-SUFFIX,bybeatsdre.com
   - DOMAIN-SUFFIX,bybit.com
+  - DOMAIN-SUFFIX,bycbe.com
+  - DOMAIN-SUFFIX,bycsi.com
   - DOMAIN-SUFFIX,bydrebeats.com
   - DOMAIN-SUFFIX,byjav.me
   - DOMAIN-SUFFIX,byjhd.com
@@ -3750,6 +3754,7 @@ payload:
   - DOMAIN-SUFFIX,byrut.org
   - DOMAIN-SUFFIX,byspotify.com
   - DOMAIN-SUFFIX,byteoversea.com
+  - DOMAIN-SUFFIX,bytick.com
   - DOMAIN-SUFFIX,bz
   - DOMAIN-SUFFIX,bzazi.com
   - DOMAIN-SUFFIX,bzh
@@ -5163,6 +5168,7 @@ payload:
   - DOMAIN-SUFFIX,deps.dev
   - DOMAIN-SUFFIX,deps.info
   - DOMAIN-SUFFIX,derekhsu.homeip.net
+  - DOMAIN-SUFFIX,deribit.com
   - DOMAIN-SUFFIX,derpibooru.org
   - DOMAIN-SUFFIX,desc.se
   - DOMAIN-SUFFIX,desertbmw.com
@@ -7787,6 +7793,10 @@ payload:
   - DOMAIN-SUFFIX,gate.cc
   - DOMAIN-SUFFIX,gate.io
   - DOMAIN-SUFFIX,gatecoin.com
+  - DOMAIN-SUFFIX,gatedata.org
+  - DOMAIN-SUFFIX,gateimg.com
+  - DOMAIN-SUFFIX,gateio.live
+  - DOMAIN-SUFFIX,gateio.services
   - DOMAIN-SUFFIX,gateway.dev
   - DOMAIN-SUFFIX,gateway.pinata.cloud
   - DOMAIN-SUFFIX,gather.com
@@ -9981,6 +9991,7 @@ payload:
   - DOMAIN-SUFFIX,init.shop
   - DOMAIN-SUFFIX,initiativesforchina.org
   - DOMAIN-SUFFIX,initproducts.com
+  - DOMAIN-SUFFIX,inkbunny.net
   - DOMAIN-SUFFIX,inkchoice.com
   - DOMAIN-SUFFIX,inkedravens.com
   - DOMAIN-SUFFIX,inkui.com

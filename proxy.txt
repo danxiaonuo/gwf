@@ -1924,6 +1924,7 @@ backpackers.com.tw
 backroomcastingcouch.com
 backtotiananmen.com
 bacon.com
+bad.news
 badaas.com
 badasianpussy.com
 badgen.net
@@ -3411,8 +3412,11 @@ bwsj.hk
 bx.in.th
 bx.tl
 by
+byapis.com
 bybeatsdre.com
 bybit.com
+bycbe.com
+bycsi.com
 bydrebeats.com
 byjav.me
 byjhd.com
@@ -3421,6 +3425,7 @@ bypasscensorship.org
 byrut.org
 byspotify.com
 byteoversea.com
+bytick.com
 bz
 bzazi.com
 bzh
@@ -4834,6 +4839,7 @@ depositphotos.com
 deps.dev
 deps.info
 derekhsu.homeip.net
+deribit.com
 derpibooru.org
 desc.se
 desertbmw.com
@@ -7458,6 +7464,10 @@ gate-project.com
 gate.cc
 gate.io
 gatecoin.com
+gatedata.org
+gateimg.com
+gateio.live
+gateio.services
 gateway.dev
 gateway.pinata.cloud
 gather.com
@@ -9652,6 +9662,7 @@ inikesneakers.com
 init.shop
 initiativesforchina.org
 initproducts.com
+inkbunny.net
 inkchoice.com
 inkedravens.com
 inkui.com
