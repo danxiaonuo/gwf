@@ -17731,7 +17731,6 @@ devask.net
 devblogs.microsoft.com
 devclub.cc
 develenv.com
-developer.dji.com
 developer.htcvive.com
 developer.microsoft.com
 developer.vive.com
@@ -18309,7 +18308,11 @@ djeconomic.com
 djf.com
 djfj.net
 djhgyy.com
+dji.com
 djiavip.com
+djicdn.com
+djiops.com
+djiservice.org
 djjlseo.com
 djjw.com
 djkk.com
@@ -18344,7 +18347,6 @@ dl-huahong.com
 dl-origin.ubnt.com
 dl-rc.com
 dl.delivery.mp.microsoft.com
-dl.djicdn.com
 dl.ubnt.com
 dl0728.com
 dl158.net
@@ -18570,7 +18572,6 @@ dockerone.com
 dockone.io
 doclass.com
 docpe.com
-docs.djicdn.com
 docs.microsoft.com
 docs.oracle.com
 docschina.org
@@ -34541,6 +34542,7 @@ lanmaokeji.com
 lanmaos.com
 lanmit.com
 lanmon.net
+lanosso.com
 lanou3g.com
 lanpanpan.com
 lanqb.com
@@ -34607,6 +34609,7 @@ lanzouw.com
 lanzoux.com
 lanzouy.com
 lanzouz.com
+lanzov.com
 lanzun.net
 laobaigan-hs.com
 laobandq.com
@@ -36911,7 +36914,6 @@ lzzzf.com
 m-finder.com
 m-rainbow.com
 m.biz
-m.dji.com
 m.travelzoo.com
 m0.hk
 m096.com
@@ -42291,7 +42293,6 @@ plqdf.com
 plsadx.com
 pluosi.com
 plures.net
-plus.dji.com
 plusgantt.com
 plusplustu.com
 plutuspay.com
@@ -42600,7 +42601,6 @@ prjdrj.com
 procar.cc
 processon.com
 prod-support.apple-support.akadns.net
-product1.djicdn.com
 productivity.wiki
 proginn.com
 program.today
@@ -44960,7 +44960,6 @@ rlsofa.net
 rlwyjf.com
 rlydw.com
 rlyl.net
-rm-static.djicdn.com
 rmb.sh
 rmcteam.org
 rmejk.com
@@ -44983,6 +44982,7 @@ rnbqvet.com
 rnfengwo.com
 rngtest.com
 rnhqxh.com
+ro.com
 ro4.cc
 ro50.com
 road-group.com
@@ -47506,7 +47506,6 @@ siluke.cc
 siluke.tw
 silukeke.com
 siluwu.com
-sim.djicdn.com
 sim800.com
 simagic.com
 simapple.com
@@ -47865,6 +47864,7 @@ skymoons.net
 skynicecity.com
 skynj.com
 skype-china.net
+skypixel.com
 skyrichpower.com
 skyrivers.org
 skyrj.com
@@ -48598,7 +48598,6 @@ srgnmsrg.com
 srgow.com
 srichina.org
 sritsoft.com
-srm.dji.com
 srrsh.com
 srrtvu.com
 srtong.com
@@ -48825,13 +48824,11 @@ storagesemicon.com
 store.apple.com
 store.apple.com.edgekey.net
 store.apple.com.edgekey.net.globalredir.akadns.net
-store.dji.com
 store.storeimages.apple.com.akadns.net
 store.storeimages.cdn-apple.com
 storeedgefd.dsx.mp.microsoft.com
 storkapp.me
 stormorai.com
-stormsend1.djicdn.com
 story520.com
 storyboardworld.com
 storyday.com
@@ -50115,11 +50112,13 @@ tapdb.com
 tapdb.net
 tapenjoy.com
 tapimg.com
+tapimg.net
 tapotiexie.com
 tapque.com
 tapsvc.com
 taptap-api.com
 taptap.com
+taptap.io
 taptapcode.com
 taptapdada.com
 taraniss.com
@@ -54382,7 +54381,6 @@ wdyxgames.com
 wdzj.com
 wdzx.com
 we.com
-we.dji.com
 we1130.com
 we123.com
 we2.name
@@ -56341,7 +56339,6 @@ www.cg
 www.com.my
 www.dell-brand.com
 www.dell.com
-www.dji.com
 www.djivideos.com
 www.globalsign.com
 www.gov.mo
@@ -56357,13 +56354,8 @@ www.tzoo-img.com
 www.vive.com
 www.viveport.com
 www.volvocars.com
-www1.djicdn.com
-www2.djicdn.com
 www21420.com
-www3.djicdn.com
-www4.djicdn.com
 www48-365365.com
-www5.djicdn.com
 wwwatch.in
 wwwbuild.net
 wwwer.net
