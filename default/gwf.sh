@@ -77,10 +77,10 @@ mkdir -p smartdns
 cat proxy.txt | perl -ne '/([-_a-zA-Z0-9]+(\.[-_a-zA-Z0-9]+)*)/ && print "nameserver /.$1/gwf\n"' | sed "s/|/'/g" > smartdns/smartdns_gfw_domain.conf
 
 # MMDB库
-curl -s -m 3 --retry-delay 3 --retry 3 -k -4 --header 'cache-control: no-cache' --url 'https://github.com/MetaCubeX/meta-rules-dat/releases/download/latest/country.mmdb' > country.mmdb
-curl -s -m 3 --retry-delay 3 --retry 3 -k -4 --header 'cache-control: no-cache' --url 'https://github.com/MetaCubeX/meta-rules-dat/releases/download/latest/geoip.dat' > geoip.dat
-curl -s -m 3 --retry-delay 3 --retry 3 -k -4 --header 'cache-control: no-cache' --url 'https://github.com/MetaCubeX/meta-rules-dat/releases/download/latest/geosite.dat' > geosite.dat
-curl -s -m 3 --retry-delay 3 --retry 3 -k -4 --header 'cache-control: no-cache' --url 'https://github.com/MetaCubeX/meta-rules-dat/releases/download/latest/geoip.metadb' > geoip.metadb
+curl -L -s -m 3 --retry-delay 3 --retry 3 -k -4 --header 'cache-control: no-cache' --url 'https://github.com/MetaCubeX/meta-rules-dat/releases/download/latest/country.mmdb' -O country.mmdb
+curl -L -s -m 3 --retry-delay 3 --retry 3 -k -4 --header 'cache-control: no-cache' --url 'https://github.com/MetaCubeX/meta-rules-dat/releases/download/latest/geoip.dat' -O geoip.dat
+curl -L -s -m 3 --retry-delay 3 --retry 3 -k -4 --header 'cache-control: no-cache' --url 'https://github.com/MetaCubeX/meta-rules-dat/releases/download/latest/geosite.dat' -O geosite.dat
+curl -L -s -m 3 --retry-delay 3 --retry 3 -k -4 --header 'cache-control: no-cache' --url 'https://github.com/MetaCubeX/meta-rules-dat/releases/download/latest/geoip.metadb' -O geoip.metadb
 
 rm -rf *.tmp
 
