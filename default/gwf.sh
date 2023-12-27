@@ -12,8 +12,10 @@ cat ip/ChinaIpv6.txt | perl -ne '/(.+\/\d+)/ && print "IP-CIDR6,$1,no-resolve\n"
 cat clash/RuleSet/ChinaIpv4.list > clash/RuleSet/ChinaIp.list
 cat clash/RuleSet/ChinaIpv6.list >> clash/RuleSet/ChinaIp.list
 
-cat ip/ChinaIpv4.txt | perl -ne '/(.+\/\d+)/ && print "  - IP-CIDR,$1,no-resolve\n"' | sed "s/|/'/g" > clash/RuleSet/ChinaIpv4.yaml
-cat ip/ChinaIpv6.txt | perl -ne '/(.+\/\d+)/ && print "  - IP-CIDR6,$1,no-resolve\n"' | sed "s/|/'/g" > clash/RuleSet/ChinaIpv6.yaml
+# cat ip/ChinaIpv4.txt | perl -ne '/(.+\/\d+)/ && print "  - IP-CIDR,$1,no-resolve\n"' | sed "s/|/'/g" > clash/RuleSet/ChinaIpv4.yaml
+# cat ip/ChinaIpv6.txt | perl -ne '/(.+\/\d+)/ && print "  - IP-CIDR6,$1,no-resolve\n"' | sed "s/|/'/g" > clash/RuleSet/ChinaIpv6.yaml
+cat ip/ChinaIpv4.txt | perl -ne '/(.+\/\d+)/ && print "  - $1\n"' | sed "s/|/'/g" > clash/RuleSet/ChinaIpv4.yaml
+cat ip/ChinaIpv6.txt | perl -ne '/(.+\/\d+)/ && print "  - $1\n"' | sed "s/|/'/g" > clash/RuleSet/ChinaIpv6.yaml
 cat clash/RuleSet/ChinaIpv4.yaml > clash/RuleSet/ChinaIp.yaml
 cat clash/RuleSet/ChinaIpv6.yaml >> clash/RuleSet/ChinaIp.yaml
 sed -i '1 i\payload:' clash/RuleSet/ChinaIp.yaml
