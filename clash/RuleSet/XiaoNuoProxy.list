@@ -5397,6 +5397,7 @@ DOMAIN-SUFFIX,dish
 DOMAIN-SUFFIX,dish.com
 DOMAIN-SUFFIX,dishworld.com
 DOMAIN-SUFFIX,disk.yandex.com
+DOMAIN-SUFFIX,disk.yandex.ru
 DOMAIN-SUFFIX,disney-asia.com
 DOMAIN-SUFFIX,disney-discount.com
 DOMAIN-SUFFIX,disney-plus.net
@@ -8580,7 +8581,6 @@ DOMAIN-SUFFIX,graphis.ne.jp
 DOMAIN-SUFFIX,graphql.org
 DOMAIN-SUFFIX,gravatar.com
 DOMAIN-SUFFIX,gravitytank.com
-DOMAIN-SUFFIX,greasespot.net
 DOMAIN-SUFFIX,great-firewall.com
 DOMAIN-SUFFIX,great-roc.org
 DOMAIN-SUFFIX,greatergothammini.com
@@ -13652,6 +13652,7 @@ DOMAIN-SUFFIX,observechina.net
 DOMAIN-SUFFIX,obsrvbl.com
 DOMAIN-SUFFIX,obutsumania.com
 DOMAIN-SUFFIX,obutu.com
+DOMAIN-SUFFIX,obyte.org
 DOMAIN-SUFFIX,ocaspro.com
 DOMAIN-SUFFIX,ocbmwdealers.com
 DOMAIN-SUFFIX,occupytiananmen.com
@@ -15816,6 +15817,7 @@ DOMAIN-SUFFIX,s-msn.com
 DOMAIN-SUFFIX,s-nbcnews.com
 DOMAIN-SUFFIX,s-xoom.com
 DOMAIN-SUFFIX,s.team
+DOMAIN-SUFFIX,s.yimg.com
 DOMAIN-SUFFIX,s1.nudezz.com
 DOMAIN-SUFFIX,s1heng.com
 DOMAIN-SUFFIX,s1s1s1.com
@@ -19607,7 +19609,6 @@ DOMAIN-SUFFIX,wnoaissulli1.com
 DOMAIN-SUFFIX,wo.tc
 DOMAIN-SUFFIX,wo3ttt.wordpress.com
 DOMAIN-SUFFIX,woeser.com
-DOMAIN-SUFFIX,woesermiddle-way.net
 DOMAIN-SUFFIX,woflthenewsstation.com
 DOMAIN-SUFFIX,wogx.com
 DOMAIN-SUFFIX,wokar.org
@@ -19727,7 +19728,6 @@ DOMAIN-SUFFIX,www.aolnews.com
 DOMAIN-SUFFIX,www.apple.com.edgekey.net
 DOMAIN-SUFFIX,www.businessinsider.com.au
 DOMAIN-SUFFIX,www.cmoinc.org
-DOMAIN-SUFFIX,www.cool18.com
 DOMAIN-SUFFIX,www.destinationurl.com
 DOMAIN-SUFFIX,www.dmm.com
 DOMAIN-SUFFIX,www.dwheeler.com
