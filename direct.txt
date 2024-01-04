@@ -12587,6 +12587,7 @@ cdn-uc.cc
 cdn-v.com
 cdn.apple-mapkit.com
 cdn.fun
+cdn.jetbrains.com
 cdn.razersynapse.com
 cdn.samsung.com
 cdn.shanghai.nyu.edu
