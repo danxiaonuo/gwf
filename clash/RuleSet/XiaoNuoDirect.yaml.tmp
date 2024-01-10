@@ -91,7 +91,6 @@ payload:
   - DOMAIN-SUFFIX,qqurl.com
   
   # China
-  - DOMAIN-SUFFIX,cn
   - DOMAIN-SUFFIX,126.net
   - DOMAIN-SUFFIX,163.com
   - DOMAIN-SUFFIX,163.net
