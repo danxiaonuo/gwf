@@ -40,6 +40,8 @@ cat clash/RuleSet/XiaoNuoDirect.list.tmp > clash/RuleSet/XiaoNuoDirect.list
 cat direct.txt | perl -ne '/([-_a-zA-Z0-9]+(\.[-_a-zA-Z0-9]+)*)/ && print "DOMAIN-SUFFIX,$1\n"' | sed "s/|/'/g" >> clash/RuleSet/XiaoNuoDirect.list
 cat clash/RuleSet/XiaoNuoDirect.yaml.tmp > clash/RuleSet/XiaoNuoDirect.yaml
 cat direct.txt | perl -ne '/([-_a-zA-Z0-9]+(\.[-_a-zA-Z0-9]+)*)/ && print "  - DOMAIN-SUFFIX,$1\n"' | sed "s/|/'/g" >> clash/RuleSet/XiaoNuoDirect.yaml
+sed -i '/,cn$/d' clash/RuleSet/XiaoNuoDirect.list
+sed -i '/,cn$/d' clash/RuleSet/XiaoNuoDirect.yaml
 
 # smartdns
 mkdir -p smartdns
