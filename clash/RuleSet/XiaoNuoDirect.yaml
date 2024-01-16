@@ -8758,7 +8758,6 @@ payload:
   - DOMAIN-SUFFIX,appkg.com
   - DOMAIN-SUFFIX,appldnld.apple.com
   - DOMAIN-SUFFIX,appldnld.g.aaplimg.com
-  - DOMAIN-SUFFIX,apple-icloud.cn
   - DOMAIN-SUFFIX,apple110.com
   - DOMAIN-SUFFIX,apple4.us
   - DOMAIN-SUFFIX,apple88.net
@@ -8767,7 +8766,6 @@ payload:
   - DOMAIN-SUFFIX,appleadstech.com
   - DOMAIN-SUFFIX,applebl.com
   - DOMAIN-SUFFIX,applehunt.com
-  - DOMAIN-SUFFIX,appleicloud.cn
   - DOMAIN-SUFFIX,appleid.cdn-apple.com
   - DOMAIN-SUFFIX,applemei.com
   - DOMAIN-SUFFIX,applemx-icloud.com
@@ -28856,14 +28854,12 @@ payload:
   - DOMAIN-SUFFIX,ickimg.com
   - DOMAIN-SUFFIX,iclicash.com
   - DOMAIN-SUFFIX,iclickstatic.com
-  - DOMAIN-SUFFIX,icloud-apple.cn
   - DOMAIN-SUFFIX,icloud-cdn.icloud.com.akadns.net
   - DOMAIN-SUFFIX,icloud-content.com
   - DOMAIN-SUFFIX,icloud-isupport.com
   - DOMAIN-SUFFIX,icloud.cdn-apple.com
   - DOMAIN-SUFFIX,icloud.ch
   - DOMAIN-SUFFIX,icloud.com
-  - DOMAIN-SUFFIX,icloud.com.cn
   - DOMAIN-SUFFIX,icloud.de
   - DOMAIN-SUFFIX,icloud.ee
   - DOMAIN-SUFFIX,icloud.fi
@@ -28873,7 +28869,6 @@ payload:
   - DOMAIN-SUFFIX,icloud.is
   - DOMAIN-SUFFIX,icloud.jp
   - DOMAIN-SUFFIX,icloud.lv
-  - DOMAIN-SUFFIX,icloud.net.cn
   - DOMAIN-SUFFIX,icloud.om
   - DOMAIN-SUFFIX,icloud.org
   - DOMAIN-SUFFIX,icloud.pt
@@ -28883,7 +28878,6 @@ payload:
   - DOMAIN-SUFFIX,icloud.sk
   - DOMAIN-SUFFIX,icloud.vn
   - DOMAIN-SUFFIX,icloudads.net
-  - DOMAIN-SUFFIX,icloudapple.cn
   - DOMAIN-SUFFIX,icloudbox.net
   - DOMAIN-SUFFIX,icloudbrowser.net
   - DOMAIN-SUFFIX,icloudcity.com

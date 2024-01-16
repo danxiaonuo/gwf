@@ -8516,7 +8516,6 @@ appkefu.com
 appkg.com
 appldnld.apple.com
 appldnld.g.aaplimg.com
-apple-icloud.cn
 apple110.com
 apple4.us
 apple88.net
@@ -8525,7 +8524,6 @@ appleads-trk.com
 appleadstech.com
 applebl.com
 applehunt.com
-appleicloud.cn
 appleid.cdn-apple.com
 applemei.com
 applemx-icloud.com
@@ -15031,7 +15029,6 @@ cmzfqn.com
 cmzi.com
 cmzj.net
 cmzyk.com
-cn
 cn-bowei.com
 cn-c114.net
 cn-ecotextile.com
@@ -28615,14 +28612,12 @@ ickey.cc
 ickimg.com
 iclicash.com
 iclickstatic.com
-icloud-apple.cn
 icloud-cdn.icloud.com.akadns.net
 icloud-content.com
 icloud-isupport.com
 icloud.cdn-apple.com
 icloud.ch
 icloud.com
-icloud.com.cn
 icloud.de
 icloud.ee
 icloud.fi
@@ -28632,7 +28627,6 @@ icloud.ie
 icloud.is
 icloud.jp
 icloud.lv
-icloud.net.cn
 icloud.om
 icloud.org
 icloud.pt
@@ -28642,7 +28636,6 @@ icloud.si
 icloud.sk
 icloud.vn
 icloudads.net
-icloudapple.cn
 icloudbox.net
 icloudbrowser.net
 icloudcity.com
