@@ -33,6 +33,7 @@ cat apple.china.tmp | perl -ne '/^server=\/([^\/]+)\// && print "$1\n"' | sed "s
 cat direct-list.tmp | grep -Ev "^(regexp|keyword|full):" | perl -ne '/^(domain:|full:)?([-_a-zA-Z0-9]+(\.[-_a-zA-Z0-9]+)*)/ && print "$2\n"' | sed "s/|/'/g" >> direct.tmp
 cat direct.tmp | xargs -n 1 | sort -u | uniq | sed "s/|/'/g" > direct.txt
 sed -i '/cloudflare/d' direct.txt
+sed -i '/cn$/d' direct.txt
 
 # clash
 mkdir -p clash/RuleSet
