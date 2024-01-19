@@ -518,6 +518,7 @@ IP-CIDR6,2401:7780::/32,no-resolve
 IP-CIDR6,2401:77e0::/32,no-resolve
 IP-CIDR6,2401:7820::/32,no-resolve
 IP-CIDR6,2401:7880::/32,no-resolve
+IP-CIDR6,2401:78e0::/32,no-resolve
 IP-CIDR6,2401:7980::/32,no-resolve
 IP-CIDR6,2401:7a00::/32,no-resolve
 IP-CIDR6,2401:7a80::/32,no-resolve
