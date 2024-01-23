@@ -463,6 +463,7 @@
 9xav.cc
 9xlove.xyz
 9zipai.net
+a-msedge.net
 a-normal-day.com
 a-teenz.com
 a0pple.net
@@ -995,7 +996,6 @@ alphabet.com
 alphabet.info
 alphabetfinance.net
 alphaporno.com
-alphassl.com
 alphera.com
 alphera.net
 alpinelinux.org
@@ -2652,6 +2652,7 @@ binancezh.top
 bing
 bing.com
 bing.net
+bing123.com
 bingads.com
 bingagencyawards.com
 bingapis.com
@@ -4177,6 +4178,7 @@ clipsbai.com
 clipseksi.com
 clitgames.com
 cloakpoint.com
+clock.isc.org
 clojure.org
 cloud.mail.ru
 cloudapp.net
@@ -5745,11 +5747,11 @@ ecsm.vs.com
 ecuatorianas.best
 edeka
 edengay.net
-edge-skype-com.s-0001.s-msedge.net
 edge.steam-dns.top.comcast.net
 edgecastcdn.net
 edgedatg.com
 edgefonts.net
+edgekey.net
 edgemeplease.com
 edgesuite.net
 edicypages.com
@@ -7745,7 +7747,6 @@ globalrescue.net
 globalriskregulator.com
 globalsecurity.org
 globalsign-media.com
-globalsign.com
 globalsign.net
 globalspec.com
 globaltm.org
@@ -8246,7 +8247,6 @@ gscanada.info
 gsccdn.com
 gsearch.media
 gsp.target.com
-gsp4-cn.ls.apple.com.edgekey.net
 gstatic-cn.com
 gstatic.com
 gstaticadssl.l.google.com
@@ -11723,6 +11723,7 @@ mihua.org
 mii
 miitomo.com
 miiverse.com
+mikanani.me
 mike.cz.cc
 mikesoltys.com
 mikrotik.com
@@ -13135,6 +13136,7 @@ ntdtv.org
 ntdtv.ru
 ntdtvla.com
 ntdvn.com
+ntp.ripe.net
 ntrfun.com
 ntsna.gov.tw
 ntt
@@ -14261,6 +14263,7 @@ polymerhk.com
 polymerproject.org
 ponyanimalsex.com
 poofetish.com
+pool.ntp.org
 poolin.com
 poop-pee.online
 poopee-puke.com
@@ -15418,8 +15421,10 @@ s-bluemix.net
 s-books.com
 s-cashonmobile.com
 s-cute.com
+s-dc-msedge.net
 s-dragon.org
 s-microsoft.com
+s-msedge.net
 s-msft.com
 s-msn.com
 s-nbcnews.com
@@ -16543,6 +16548,7 @@ sstmlt.moe
 sstmlt.net
 ssx3.com
 st
+st.com
 stackage.org
 stackapps.com
 stackauth.com
@@ -16683,7 +16689,6 @@ stoporganharvesting.org
 stoptibetcrisis.net
 storagenewsletter.com
 store-bridgestonesports.com
-store.apple.com.edgekey.net
 store.steampowered.com
 storesense.com
 stories.google
@@ -19311,7 +19316,6 @@ www.ajsands.com
 www.americorps.gov
 www.antd.org
 www.aolnews.com
-www.apple.com.edgekey.net
 www.businessinsider.com.au
 www.cmoinc.org
 www.destinationurl.com

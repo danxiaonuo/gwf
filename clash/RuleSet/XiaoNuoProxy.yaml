@@ -794,6 +794,7 @@ payload:
   - DOMAIN-SUFFIX,9xav.cc
   - DOMAIN-SUFFIX,9xlove.xyz
   - DOMAIN-SUFFIX,9zipai.net
+  - DOMAIN-SUFFIX,a-msedge.net
   - DOMAIN-SUFFIX,a-normal-day.com
   - DOMAIN-SUFFIX,a-teenz.com
   - DOMAIN-SUFFIX,a0pple.net
@@ -1326,7 +1327,6 @@ payload:
   - DOMAIN-SUFFIX,alphabet.info
   - DOMAIN-SUFFIX,alphabetfinance.net
   - DOMAIN-SUFFIX,alphaporno.com
-  - DOMAIN-SUFFIX,alphassl.com
   - DOMAIN-SUFFIX,alphera.com
   - DOMAIN-SUFFIX,alphera.net
   - DOMAIN-SUFFIX,alpinelinux.org
@@ -2983,6 +2983,7 @@ payload:
   - DOMAIN-SUFFIX,bing
   - DOMAIN-SUFFIX,bing.com
   - DOMAIN-SUFFIX,bing.net
+  - DOMAIN-SUFFIX,bing123.com
   - DOMAIN-SUFFIX,bingads.com
   - DOMAIN-SUFFIX,bingagencyawards.com
   - DOMAIN-SUFFIX,bingapis.com
@@ -4508,6 +4509,7 @@ payload:
   - DOMAIN-SUFFIX,clipseksi.com
   - DOMAIN-SUFFIX,clitgames.com
   - DOMAIN-SUFFIX,cloakpoint.com
+  - DOMAIN-SUFFIX,clock.isc.org
   - DOMAIN-SUFFIX,clojure.org
   - DOMAIN-SUFFIX,cloud.mail.ru
   - DOMAIN-SUFFIX,cloudapp.net
@@ -6076,11 +6078,11 @@ payload:
   - DOMAIN-SUFFIX,ecuatorianas.best
   - DOMAIN-SUFFIX,edeka
   - DOMAIN-SUFFIX,edengay.net
-  - DOMAIN-SUFFIX,edge-skype-com.s-0001.s-msedge.net
   - DOMAIN-SUFFIX,edge.steam-dns.top.comcast.net
   - DOMAIN-SUFFIX,edgecastcdn.net
   - DOMAIN-SUFFIX,edgedatg.com
   - DOMAIN-SUFFIX,edgefonts.net
+  - DOMAIN-SUFFIX,edgekey.net
   - DOMAIN-SUFFIX,edgemeplease.com
   - DOMAIN-SUFFIX,edgesuite.net
   - DOMAIN-SUFFIX,edicypages.com
@@ -8076,7 +8078,6 @@ payload:
   - DOMAIN-SUFFIX,globalriskregulator.com
   - DOMAIN-SUFFIX,globalsecurity.org
   - DOMAIN-SUFFIX,globalsign-media.com
-  - DOMAIN-SUFFIX,globalsign.com
   - DOMAIN-SUFFIX,globalsign.net
   - DOMAIN-SUFFIX,globalspec.com
   - DOMAIN-SUFFIX,globaltm.org
@@ -8577,7 +8578,6 @@ payload:
   - DOMAIN-SUFFIX,gsccdn.com
   - DOMAIN-SUFFIX,gsearch.media
   - DOMAIN-SUFFIX,gsp.target.com
-  - DOMAIN-SUFFIX,gsp4-cn.ls.apple.com.edgekey.net
   - DOMAIN-SUFFIX,gstatic-cn.com
   - DOMAIN-SUFFIX,gstatic.com
   - DOMAIN-SUFFIX,gstaticadssl.l.google.com
@@ -12054,6 +12054,7 @@ payload:
   - DOMAIN-SUFFIX,mii
   - DOMAIN-SUFFIX,miitomo.com
   - DOMAIN-SUFFIX,miiverse.com
+  - DOMAIN-SUFFIX,mikanani.me
   - DOMAIN-SUFFIX,mike.cz.cc
   - DOMAIN-SUFFIX,mikesoltys.com
   - DOMAIN-SUFFIX,mikrotik.com
@@ -13466,6 +13467,7 @@ payload:
   - DOMAIN-SUFFIX,ntdtv.ru
   - DOMAIN-SUFFIX,ntdtvla.com
   - DOMAIN-SUFFIX,ntdvn.com
+  - DOMAIN-SUFFIX,ntp.ripe.net
   - DOMAIN-SUFFIX,ntrfun.com
   - DOMAIN-SUFFIX,ntsna.gov.tw
   - DOMAIN-SUFFIX,ntt
@@ -14592,6 +14594,7 @@ payload:
   - DOMAIN-SUFFIX,polymerproject.org
   - DOMAIN-SUFFIX,ponyanimalsex.com
   - DOMAIN-SUFFIX,poofetish.com
+  - DOMAIN-SUFFIX,pool.ntp.org
   - DOMAIN-SUFFIX,poolin.com
   - DOMAIN-SUFFIX,poop-pee.online
   - DOMAIN-SUFFIX,poopee-puke.com
@@ -15749,8 +15752,10 @@ payload:
   - DOMAIN-SUFFIX,s-books.com
   - DOMAIN-SUFFIX,s-cashonmobile.com
   - DOMAIN-SUFFIX,s-cute.com
+  - DOMAIN-SUFFIX,s-dc-msedge.net
   - DOMAIN-SUFFIX,s-dragon.org
   - DOMAIN-SUFFIX,s-microsoft.com
+  - DOMAIN-SUFFIX,s-msedge.net
   - DOMAIN-SUFFIX,s-msft.com
   - DOMAIN-SUFFIX,s-msn.com
   - DOMAIN-SUFFIX,s-nbcnews.com
@@ -16874,6 +16879,7 @@ payload:
   - DOMAIN-SUFFIX,sstmlt.net
   - DOMAIN-SUFFIX,ssx3.com
   - DOMAIN-SUFFIX,st
+  - DOMAIN-SUFFIX,st.com
   - DOMAIN-SUFFIX,stackage.org
   - DOMAIN-SUFFIX,stackapps.com
   - DOMAIN-SUFFIX,stackauth.com
@@ -17014,7 +17020,6 @@ payload:
   - DOMAIN-SUFFIX,stoptibetcrisis.net
   - DOMAIN-SUFFIX,storagenewsletter.com
   - DOMAIN-SUFFIX,store-bridgestonesports.com
-  - DOMAIN-SUFFIX,store.apple.com.edgekey.net
   - DOMAIN-SUFFIX,store.steampowered.com
   - DOMAIN-SUFFIX,storesense.com
   - DOMAIN-SUFFIX,stories.google
@@ -19642,7 +19647,6 @@ payload:
   - DOMAIN-SUFFIX,www.americorps.gov
   - DOMAIN-SUFFIX,www.antd.org
   - DOMAIN-SUFFIX,www.aolnews.com
-  - DOMAIN-SUFFIX,www.apple.com.edgekey.net
   - DOMAIN-SUFFIX,www.businessinsider.com.au
   - DOMAIN-SUFFIX,www.cmoinc.org
   - DOMAIN-SUFFIX,www.destinationurl.com
