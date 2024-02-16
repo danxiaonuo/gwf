@@ -6225,6 +6225,7 @@ IP-CIDR,157.15.102.0/23,no-resolve
 IP-CIDR,157.15.104.0/23,no-resolve
 IP-CIDR,157.15.200.0/23,no-resolve
 IP-CIDR,157.18.0.0/16,no-resolve
+IP-CIDR,157.20.33.0/24,no-resolve
 IP-CIDR,157.61.0.0/16,no-resolve
 IP-CIDR,157.119.8.0/22,no-resolve
 IP-CIDR,157.119.12.0/22,no-resolve
@@ -8729,6 +8730,7 @@ IP-CIDR6,2001:df3:15c0::/48,no-resolve
 IP-CIDR6,2001:df3:2a80::/48,no-resolve
 IP-CIDR6,2001:df3:3a80::/48,no-resolve
 IP-CIDR6,2001:df3:7440::/48,no-resolve
+IP-CIDR6,2001:df3:77c0::/48,no-resolve
 IP-CIDR6,2001:df3:a680::/48,no-resolve
 IP-CIDR6,2001:df3:b380::/48,no-resolve
 IP-CIDR6,2001:df3:c380::/48,no-resolve
