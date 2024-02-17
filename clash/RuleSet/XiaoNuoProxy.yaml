@@ -3001,6 +3001,7 @@ payload:
   - DOMAIN-SUFFIX,bingapis.com
   - DOMAIN-SUFFIX,bingapistatistics.com
   - DOMAIN-SUFFIX,bingo
+  - DOMAIN-SUFFIX,bingparachute.com
   - DOMAIN-SUFFIX,bingsandbox.com
   - DOMAIN-SUFFIX,bingvisualsearch.com
   - DOMAIN-SUFFIX,bingworld.com
@@ -8092,6 +8093,7 @@ payload:
   - DOMAIN-SUFFIX,globalriskregulator.com
   - DOMAIN-SUFFIX,globalsecurity.org
   - DOMAIN-SUFFIX,globalsign-media.com
+  - DOMAIN-SUFFIX,globalsign.cloud
   - DOMAIN-SUFFIX,globalsign.net
   - DOMAIN-SUFFIX,globalspec.com
   - DOMAIN-SUFFIX,globaltm.org
@@ -19331,6 +19333,8 @@ payload:
   - DOMAIN-SUFFIX,wetplace.com
   - DOMAIN-SUFFIX,wetpussygames.com
   - DOMAIN-SUFFIX,wetsextube.com
+  - DOMAIN-SUFFIX,wetv.vip
+  - DOMAIN-SUFFIX,wetvinfo.com
   - DOMAIN-SUFFIX,wexiaobo.org
   - DOMAIN-SUFFIX,wezhiyong.org
   - DOMAIN-SUFFIX,wezone.net
