@@ -640,8 +640,6 @@ accountpaypal.com
 accountpaypal.net
 accountpaypal.org
 accounts.googlers.com
-accounts.xn--9trs65b.com
-accounts.xn--ggle-55da.com
 accuweather.com
 accv.es
 acebooik.com
@@ -1839,6 +1837,7 @@ applelink.com
 applemagickeyboard.com
 applemalaysia.com.my
 applemasters.info
+applemdm.corp.google.com
 applemusic.berlin
 applemusic.co
 applemusic.com
@@ -5502,8 +5501,6 @@ coreml.net
 coreoptics.net
 corepublishingsolutions.com
 coronavirusnow.com
-corp.google.com
-corp.googleapis.com
 corporatecashpassport.com
 corsica
 cortanaanalytics.com
@@ -6390,6 +6387,7 @@ dndbeyond.com
 dnp
 dns-dns.com
 dns-stuff.com
+dns.corp.google.com
 dns.google
 dns.sb
 dns04.com
@@ -8949,6 +8947,7 @@ g0v.social
 g1.gstatic.com
 g2.gstatic.com
 g3.gstatic.com
+g3doc.corp.google.com
 g6hentai.com
 ga
 gab.com
@@ -9417,6 +9416,7 @@ gmo
 gmodules.com
 gmoney.org
 gmozomg.izihost.org
+gmskiosk-ssl.corp.google.com
 gmx
 gn
 gnai-dh.sbs
@@ -9434,6 +9434,7 @@ go-lang.net
 go-lang.org
 go-pki.com
 go.com
+go.corp.google.com
 go.dev
 go.nesnode.com
 go141.com
@@ -9807,6 +9808,7 @@ gordonmoore.com
 goreforum.com
 goregrish.com
 gorin.jp
+gorom.corp.google.com
 gosexpod.com
 goshemalecams.com
 gospelherald.com
@@ -9824,6 +9826,7 @@ gotdns.ch
 gotgayporn.com
 gotgeeks.com
 gothdporn.com
+goto.corp.google.com
 goto.google.com
 gotporn.com
 gotraffic.net
@@ -12954,6 +12957,7 @@ kz
 kzeng.info
 l-0005.dc-msedge.net
 l-0005.l-msedge.net
+l2-uberproxy.corp.google.com
 la
 la-forum.org
 la-mama.ru
@@ -13341,12 +13345,15 @@ lockestek.com
 locus
 loft
 logbot.net
+logger-dev.corp.google.com
+logger.corp.google.com
 logi.com
 logicool.co.jp
 logicoolg.com
 login-account.net
 login-paypal.com
 login-paypal.info
+login.corp.google.com
 login.target.com
 logiqx.com
 logitech.biz
@@ -17861,6 +17868,7 @@ proxomitron.info
 proxpn.com
 proxyadult.org
 proxyanonimo.es
+proxyconfig.corp.google.com
 proxydns.com
 proxylist.org.uk
 proxynetwork.org.uk
@@ -18122,6 +18130,7 @@ qysg8.buzz
 qz.com
 qzav.tv
 r-project.org
+r.cert.corp.google.com
 r0.ru
 r10s.com
 r10s.jp
@@ -18185,6 +18194,10 @@ rapidmoviez.com
 rapidssl.com
 rapidvpn.com
 raponlinereview.com
+rapture-autopush.corp.google.com
+rapture-prod.corp.google.com
+rapture-test.corp.google.com
+rapture.corp.google.com
 rarbg.is
 rarbg.me
 rarbg.to
@@ -18323,6 +18336,7 @@ reaxys.com
 rebates.jp
 rebatesrule.net
 rebrandly.com
+recaptcha-cn.net
 recaptcha.net
 recelebrity.com
 reckitt.net
@@ -19947,6 +19961,7 @@ ss7.vzw.com
 ssdevrd.com
 ssglobal.co
 ssglobal.me
+ssh-relay.corp.google.com
 ssh91.com
 sshs.club
 sshs.pw
@@ -19959,6 +19974,7 @@ ssl.gstatic.com
 ssl.webpack.de
 ssl443.org
 sslpaypal.org
+sslredirect.corp.google.com
 sspanel.net
 ssplive.pw
 sspro.ml
@@ -20196,6 +20212,8 @@ straplessdildo.com
 stream-mydirtyhobby.biz
 streamable.com
 streamate.com
+streaming-uberproxy-rotation.corp.google.com
+streaming-uberproxy.corp.google.com
 streamingdisney.net
 streamingporn.xyz
 streamingthe.net
@@ -20301,6 +20319,10 @@ sunta.com.tw
 sunvpn.net
 sunwinism.joinbbs.net
 suoluo.org
+sup-ssh-relay.corp.google.com
+sup-ssh-relay2.corp.google.com
+sup.corp.google.com
+sup.l.google.com
 supadou.blogism.jp
 supanimegames.com
 supchina.com
@@ -20330,6 +20352,7 @@ supjav.com
 suppig.net
 supplybestjerseys.com
 support.1ucrs.com
+supportcenter.corp.google.com
 supportfacebook.com
 supremacy.com
 supremacy.net
@@ -20615,6 +20638,7 @@ technews.tw
 technics.com
 technologyandsociety.org
 techspot.com
+techstop.corp.google.com
 techstreet.com
 techtimes.com
 techviz.net
@@ -21724,7 +21748,16 @@ ubddns.org
 uber-assets.com
 uber.com
 ubereats.com
+uberproxy-debug.corp.google.com
+uberproxy-debug4.corp.google.com
+uberproxy-pen-redirect.corp.google.com
+uberproxy-with-cn.l.google.com
+uberproxy-with-cn4.l.google.com
+uberproxy-with-cn6.l.google.com
+uberproxy.corp.google.com
 uberproxy.net
+uberproxy4.corp.google.com
+uberproxy6.corp.google.com
 ubi.com
 ubisoft.com
 ubisoftconnect.com
@@ -21843,7 +21876,6 @@ uo.com
 uocn.org
 uoherald.com
 uol
-up.corp.goog
 up.gcp.googlers.com
 up01.cc
 upcoming.yahoo.com
@@ -22192,6 +22224,7 @@ verygoodnike.com
 veryladyboy.com
 veryshortintroductions.com
 vevo.com
+vext.corp.google.com
 vfabric.net
 vfsco.at
 vfsco.be
