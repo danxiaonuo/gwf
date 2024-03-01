@@ -1935,6 +1935,7 @@ payload:
   - DOMAIN-SUFFIX,apkmonk.com
   - DOMAIN-SUFFIX,apkplz.com
   - DOMAIN-SUFFIX,apkpure.com
+  - DOMAIN-SUFFIX,apkpure.net
   - DOMAIN-SUFFIX,aple.com
   - DOMAIN-SUFFIX,aplestore.com
   - DOMAIN-SUFFIX,aplleipods.com
@@ -5805,6 +5806,8 @@ payload:
   - DOMAIN-SUFFIX,coobay.com
   - DOMAIN-SUFFIX,cooer.su
   - DOMAIN-SUFFIX,cookiechoices.org
+  - DOMAIN-SUFFIX,cookielaw.org
+  - DOMAIN-SUFFIX,cookiepro.com
   - DOMAIN-SUFFIX,cookingchannel
   - DOMAIN-SUFFIX,cool-comics.com
   - DOMAIN-SUFFIX,cool18.com
@@ -5869,6 +5872,7 @@ payload:
   - DOMAIN-SUFFIX,covid19-rx.org
   - DOMAIN-SUFFIX,covid19rx.org
   - DOMAIN-SUFFIX,cowboom.com
+  - DOMAIN-SUFFIX,coze.com
   - DOMAIN-SUFFIX,cozydrdrebeats.com
   - DOMAIN-SUFFIX,cp44.net
   - DOMAIN-SUFFIX,cpan.org
@@ -6560,7 +6564,6 @@ payload:
   - DOMAIN-SUFFIX,disney-asia.com
   - DOMAIN-SUFFIX,disney-discount.com
   - DOMAIN-SUFFIX,disney-plus.net
-  - DOMAIN-SUFFIX,disney-portal.my.onetrust.com
   - DOMAIN-SUFFIX,disney-studio.com
   - DOMAIN-SUFFIX,disney-studio.net
   - DOMAIN-SUFFIX,disney.asia
@@ -16667,6 +16670,7 @@ payload:
   - DOMAIN-SUFFIX,onepornlist.com
   - DOMAIN-SUFFIX,onesiterip.com
   - DOMAIN-SUFFIX,onestore.ms
+  - DOMAIN-SUFFIX,onetrust.com
   - DOMAIN-SUFFIX,oneworldmanystories.com
   - DOMAIN-SUFFIX,onindiansex.com
   - DOMAIN-SUFFIX,oninstagram.com
