@@ -9161,6 +9161,7 @@ DOMAIN-SUFFIX,amobbs.com
 DOMAIN-SUFFIX,amoe.cc
 DOMAIN-SUFFIX,amoere.com
 DOMAIN-SUFFIX,amore.ink
+DOMAIN-SUFFIX,amp-api.media.apple.com
 DOMAIN-SUFFIX,ampcn.com
 DOMAIN-SUFFIX,amplesky.com
 DOMAIN-SUFFIX,ampmake.com
@@ -9568,6 +9569,9 @@ DOMAIN-SUFFIX,apeyun.com
 DOMAIN-SUFFIX,apgblogs.com
 DOMAIN-SUFFIX,apgoview.com
 DOMAIN-SUFFIX,aphidic.com
+DOMAIN-SUFFIX,api-p-ap-c.smoot.apple.com
+DOMAIN-SUFFIX,api-p-ap-d.smoot.apple.com
+DOMAIN-SUFFIX,api-p-ap-e.smoot.apple.com
 DOMAIN-SUFFIX,api.anythinktech.com
 DOMAIN-SUFFIX,apiadmin.org
 DOMAIN-SUFFIX,apiairasia.com
@@ -17064,6 +17068,7 @@ DOMAIN-SUFFIX,cn-natural.com
 DOMAIN-SUFFIX,cn-psy.com
 DOMAIN-SUFFIX,cn-railway.net
 DOMAIN-SUFFIX,cn-roofexpert.com
+DOMAIN-SUFFIX,cn-smp-paymentservices.apple.com
 DOMAIN-SUFFIX,cn-soft.com
 DOMAIN-SUFFIX,cn-truck.com
 DOMAIN-SUFFIX,cn-visa.com
@@ -19930,6 +19935,7 @@ DOMAIN-SUFFIX,dehuasd.com
 DOMAIN-SUFFIX,deifei.com
 DOMAIN-SUFFIX,deifgs.com
 DOMAIN-SUFFIX,deikuo.com
+DOMAIN-SUFFIX,dejavu.apple.com
 DOMAIN-SUFFIX,dejiplaza.com
 DOMAIN-SUFFIX,dekeego.com
 DOMAIN-SUFFIX,dekls.com
@@ -23440,6 +23446,7 @@ DOMAIN-SUFFIX,exo-mk.com
 DOMAIN-SUFFIX,exound.com
 DOMAIN-SUFFIX,expba.com
 DOMAIN-SUFFIX,expdns.net
+DOMAIN-SUFFIX,experiments.apple.com
 DOMAIN-SUFFIX,expin.site
 DOMAIN-SUFFIX,expingworld.com
 DOMAIN-SUFFIX,expiredns.net
@@ -27151,6 +27158,7 @@ DOMAIN-SUFFIX,gslbdns.com
 DOMAIN-SUFFIX,gslbdns.net
 DOMAIN-SUFFIX,gsmpers.com
 DOMAIN-SUFFIX,gsp10-ssl-cn.ls.apple.com
+DOMAIN-SUFFIX,gsp12-cn.ls.apple.com
 DOMAIN-SUFFIX,gsp13-cn.ls.apple.com
 DOMAIN-SUFFIX,gsp4-cn.ls.apple.com
 DOMAIN-SUFFIX,gsp4-cn.ls.apple.com.edgekey.net
@@ -27158,12 +27166,14 @@ DOMAIN-SUFFIX,gsp4-cn.ls.apple.com.edgekey.net.globalredir.akadns.net
 DOMAIN-SUFFIX,gsp5-cn.ls.apple.com
 DOMAIN-SUFFIX,gsp85-cn-ssl.ls.apple.com
 DOMAIN-SUFFIX,gspaceteam.com
+DOMAIN-SUFFIX,gspe19-2-cn-ssl.ls.apple.com
 DOMAIN-SUFFIX,gspe19-cn-ssl.ls.apple.com
 DOMAIN-SUFFIX,gspe19-cn.ls-apple.com.akadns.net
 DOMAIN-SUFFIX,gspe19-cn.ls.apple.com
 DOMAIN-SUFFIX,gspe21-ssl.ls.apple.com
 DOMAIN-SUFFIX,gspe21.ls.apple.com
 DOMAIN-SUFFIX,gspe35-ssl.ls.apple.com
+DOMAIN-SUFFIX,gspe79-cn-ssl.ls.apple.com
 DOMAIN-SUFFIX,gspst.com
 DOMAIN-SUFFIX,gsqstudio.com
 DOMAIN-SUFFIX,gsrcu.com
@@ -27614,6 +27624,7 @@ DOMAIN-SUFFIX,guzhilin.com
 DOMAIN-SUFFIX,guziyy.com
 DOMAIN-SUFFIX,guzzoni-apple-com.v.aaplimg.com
 DOMAIN-SUFFIX,guzzoni.apple.com
+DOMAIN-SUFFIX,guzzoni.smoot.apple.com
 DOMAIN-SUFFIX,gvacdn.com
 DOMAIN-SUFFIX,gvi-tech.com
 DOMAIN-SUFFIX,gvlocalization.com
@@ -33595,12 +33606,14 @@ DOMAIN-SUFFIX,inibiru.com
 DOMAIN-SUFFIX,inicoapp.com
 DOMAIN-SUFFIX,inidc.net
 DOMAIN-SUFFIX,ininin.com
+DOMAIN-SUFFIX,init-kt.apple.com
 DOMAIN-SUFFIX,init-p01md-lb.push-apple.com.akadns.net
 DOMAIN-SUFFIX,init-p01md.apple.com
 DOMAIN-SUFFIX,init-p01st-lb.push-apple.com.akadns.net
 DOMAIN-SUFFIX,init-p01st.push.apple.com
 DOMAIN-SUFFIX,init-s01st-lb.push-apple.com.akadns.net
 DOMAIN-SUFFIX,init-s01st.push.apple.com
+DOMAIN-SUFFIX,init.ess.apple.com
 DOMAIN-SUFFIX,initialview.com
 DOMAIN-SUFFIX,initroot.com
 DOMAIN-SUFFIX,inja.com
@@ -47367,6 +47380,7 @@ DOMAIN-SUFFIX,paysapi.com
 DOMAIN-SUFFIX,payxinyi.com
 DOMAIN-SUFFIX,payza.info
 DOMAIN-SUFFIX,pb89.com
+DOMAIN-SUFFIX,pba0.apple.com
 DOMAIN-SUFFIX,pbcan.com
 DOMAIN-SUFFIX,pbiso.com
 DOMAIN-SUFFIX,pblie.com
@@ -48439,6 +48453,7 @@ DOMAIN-SUFFIX,privspace.net
 DOMAIN-SUFFIX,prjdrj.com
 DOMAIN-SUFFIX,pro001.com
 DOMAIN-SUFFIX,proangela.com
+DOMAIN-SUFFIX,probe.siri.apple.com
 DOMAIN-SUFFIX,procar.cc
 DOMAIN-SUFFIX,processon.com
 DOMAIN-SUFFIX,procivi.net
@@ -52426,6 +52441,9 @@ DOMAIN-SUFFIX,seebug.org
 DOMAIN-SUFFIX,seebyleegee.com
 DOMAIN-SUFFIX,seecmedia.net
 DOMAIN-SUFFIX,seed-china.com
+DOMAIN-SUFFIX,seed-sequoia.siri.apple.com
+DOMAIN-SUFFIX,seed-swallow.siri.apple.com
+DOMAIN-SUFFIX,seed.siri.apple.com
 DOMAIN-SUFFIX,seedasdan.org
 DOMAIN-SUFFIX,seeddsp.com
 DOMAIN-SUFFIX,seedit.cc
@@ -52568,6 +52586,7 @@ DOMAIN-SUFFIX,septinn.com
 DOMAIN-SUFFIX,septwolves.com
 DOMAIN-SUFFIX,sepu.net
 DOMAIN-SUFFIX,sequ.biz
+DOMAIN-SUFFIX,sequoia.apple.com
 DOMAIN-SUFFIX,sequoiadb.com
 DOMAIN-SUFFIX,serholiu.com
 DOMAIN-SUFFIX,seridc.com
@@ -52715,6 +52734,7 @@ DOMAIN-SUFFIX,sh-jjsb.com
 DOMAIN-SUFFIX,sh-kechen.com
 DOMAIN-SUFFIX,sh-kr.net
 DOMAIN-SUFFIX,sh-nemoto.com
+DOMAIN-SUFFIX,sh-pod2-smp-device.apple.com
 DOMAIN-SUFFIX,sh-prosun.com
 DOMAIN-SUFFIX,sh-ryjx.com
 DOMAIN-SUFFIX,sh-service.com
@@ -53009,6 +53029,7 @@ DOMAIN-SUFFIX,shawnzeng.com
 DOMAIN-SUFFIX,shaxian.biz
 DOMAIN-SUFFIX,shayugg.com
 DOMAIN-SUFFIX,shayujizhang.com
+DOMAIN-SUFFIX,shazam-insights.cdn-apple.com
 DOMAIN-SUFFIX,shb02.com
 DOMAIN-SUFFIX,shbaimeng.com
 DOMAIN-SUFFIX,shbangde.com
@@ -55572,6 +55593,7 @@ DOMAIN-SUFFIX,starxn.com
 DOMAIN-SUFFIX,stat-nba.com
 DOMAIN-SUFFIX,stat18.com
 DOMAIN-SUFFIX,static.eprintsw.com
+DOMAIN-SUFFIX,static.gc.apple.com
 DOMAIN-SUFFIX,staticaa.com
 DOMAIN-SUFFIX,staticdn.net
 DOMAIN-SUFFIX,staticec.com
@@ -56357,6 +56379,7 @@ DOMAIN-SUFFIX,sykt520.com
 DOMAIN-SUFFIX,sylixos.com
 DOMAIN-SUFFIX,sylnst.com
 DOMAIN-SUFFIX,sylnyx.com
+DOMAIN-SUFFIX,sylvan.apple.com
 DOMAIN-SUFFIX,symama.com
 DOMAIN-SUFFIX,symtc.com
 DOMAIN-SUFFIX,symuge.com
@@ -58202,6 +58225,7 @@ DOMAIN-SUFFIX,tizoinfo.com
 DOMAIN-SUFFIX,tj-guangxin.com
 DOMAIN-SUFFIX,tj-kingdee.com
 DOMAIN-SUFFIX,tj-model.com
+DOMAIN-SUFFIX,tj-pod1-smp-device.apple.com
 DOMAIN-SUFFIX,tj-un.com
 DOMAIN-SUFFIX,tj-zt.com
 DOMAIN-SUFFIX,tj0573.com
@@ -61962,6 +61986,7 @@ DOMAIN-SUFFIX,weather-map2.apple.com
 DOMAIN-SUFFIX,weatherat.com
 DOMAIN-SUFFIX,weathercn.com
 DOMAIN-SUFFIX,weatherdt.com
+DOMAIN-SUFFIX,weatherkit.apple.com
 DOMAIN-SUFFIX,weatherol.com
 DOMAIN-SUFFIX,weavatar.com
 DOMAIN-SUFFIX,weaverdream.com
