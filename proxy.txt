@@ -2583,6 +2583,7 @@ bbc-reporting-api.app
 bbc.co.uk
 bbc.com
 bbc.in
+bbc.mp-pxcdn.com
 bbc.net.uk
 bbcchinese.com
 bbchat.tv
@@ -4789,6 +4790,7 @@ cfa
 cfake.com
 cfblob.com
 cfhks.org.hk
+cfl.re
 cfna.com
 cfos.de
 cfr.org
@@ -14648,6 +14650,7 @@ modeloswebcambogota.com
 modelsfreecams.com
 modeltv.com
 modernchinastudies.org
+modperl.pl
 modrinth.com
 modular.im
 moe
@@ -16259,6 +16262,9 @@ okex.com
 okinawa
 okk.tw
 okkisokuho.com
+okx-dns.com
+okx-dns1.com
+okx-dns2.com
 okx.com
 olayan
 olayangroup
@@ -18361,6 +18367,7 @@ redbubble.com
 redchinacn.net
 redchinacn.org
 redd.it
+reddit.app.link
 reddit.com
 redditlist.com
 redditmail.com
@@ -20509,6 +20516,8 @@ tahr.org.tw
 taiav.com
 tail-f.com
 tailf.com
+tailscale.com
+tailscale.io
 tailwindtraders.com
 taiolongdh.sbs
 taipei
@@ -21434,6 +21443,7 @@ tryquinn.com
 tryrating.com
 tryst.link
 ts.la
+ts.net
 tsctv.net
 tsdr.uspto.gov
 tsemtulku.com
