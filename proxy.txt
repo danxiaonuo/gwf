@@ -17111,6 +17111,7 @@ pinduck.com
 pinflix.com
 ping.fm
 ping.pe
+ping.sx
 pingguotv.xyz
 pingxiangpuer.com
 pinimg.com
@@ -21119,6 +21120,8 @@ tiktokcdn.com
 tiktokd.net
 tiktokd.org
 tiktokv.com
+tiktokv.us
+tiktokw.us
 tiltbrush.com
 timdir.com
 time.com
@@ -24421,6 +24424,7 @@ yam.com
 yam.org.tw
 yamaxun
 yamaxun.com
+yamibo.com
 yammer.com
 yamoon.club
 yande.re

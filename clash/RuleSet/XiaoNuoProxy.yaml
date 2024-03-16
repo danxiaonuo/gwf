@@ -17442,6 +17442,7 @@ payload:
   - DOMAIN-SUFFIX,pinflix.com
   - DOMAIN-SUFFIX,ping.fm
   - DOMAIN-SUFFIX,ping.pe
+  - DOMAIN-SUFFIX,ping.sx
   - DOMAIN-SUFFIX,pingguotv.xyz
   - DOMAIN-SUFFIX,pingxiangpuer.com
   - DOMAIN-SUFFIX,pinimg.com
@@ -21450,6 +21451,8 @@ payload:
   - DOMAIN-SUFFIX,tiktokd.net
   - DOMAIN-SUFFIX,tiktokd.org
   - DOMAIN-SUFFIX,tiktokv.com
+  - DOMAIN-SUFFIX,tiktokv.us
+  - DOMAIN-SUFFIX,tiktokw.us
   - DOMAIN-SUFFIX,tiltbrush.com
   - DOMAIN-SUFFIX,timdir.com
   - DOMAIN-SUFFIX,time.com
@@ -24752,6 +24755,7 @@ payload:
   - DOMAIN-SUFFIX,yam.org.tw
   - DOMAIN-SUFFIX,yamaxun
   - DOMAIN-SUFFIX,yamaxun.com
+  - DOMAIN-SUFFIX,yamibo.com
   - DOMAIN-SUFFIX,yammer.com
   - DOMAIN-SUFFIX,yamoon.club
   - DOMAIN-SUFFIX,yande.re
