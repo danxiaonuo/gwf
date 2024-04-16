@@ -201,6 +201,7 @@
 228.net.tw
 233abc.com
 2371tom.com
+249dw7.cn
 24hjav.com
 24hrs.ca
 24porn.com
@@ -1378,6 +1379,7 @@ amcn.com
 amcnetworks.com
 amcplus.com
 amd.com
+amd.com.cn
 amdfanstore.com
 amdigital.co.uk
 ameba.jp
@@ -2031,6 +2033,7 @@ arlingtoncemetery.mil
 armovs.com
 army.mil
 arphic.com
+arphic.com.cn
 arphic.com.tw
 art1lib.com
 art4tibet1998.org
@@ -5191,6 +5194,7 @@ clickserve.cc-dt.com
 clickserve.dartsearch.net
 clickserver.googleads.com
 clientservices.googleapis.com
+clincha.cn
 cling.omy.sg
 clinica-tibet.ru
 clinical-videos.com
@@ -6695,7 +6699,9 @@ dulceecuador.com
 dumb1.com
 dump.xxx
 dumpxxx.net
+dungeonkeeper.cn
 dungeonkeeper.com
+dungeonkeeper.com.cn
 dunlop
 duns
 dunyabulteni.net
@@ -6791,6 +6797,7 @@ dyfl1.pw
 dykycl.com
 dynacw.co.jp
 dynacw.com
+dynacw.com.cn
 dynacw.com.hk
 dynacw.com.tw
 dynafleetonline.com
@@ -6942,6 +6949,7 @@ ebayadvertising.com
 ebayanunsios.net
 ebayauction.com
 ebayaustralia.com
+ebayauthenticate.com.cn
 ebaybags.com
 ebaybank.com
 ebaybenefits.com
@@ -8159,6 +8167,7 @@ fgmtv.net
 fgmtv.org
 fhreports.net
 fi
+fi11.cn
 fi11.com
 fi11av1.com
 fi11tv1.com
@@ -11430,6 +11439,7 @@ illusion111.com
 illusionas.com
 illusionchn.com
 illusionfactory.com
+illusionfb.cn
 illusiongw.com
 illusionh.com
 illusionl.com
@@ -13377,10 +13387,13 @@ login.target.com
 logiqx.com
 logitech.biz
 logitech.com
+logitech.com.cn
 logitech.fr
 logitech.io
 logitechg.com
+logitechg.com.cn
 logitechg.fr
+logitechio.com.cn
 logos.com.hk
 loholidayhk.com
 lojaiphone.com.br
@@ -14964,8 +14977,10 @@ muchohentai.com
 muchomasporno.com
 muchosucko.com
 mucinex.ca
+mucinex.cn
 mucinex.co.nz
 mucinex.com
+mucinex.com.cn
 mucinex.net
 mucinex.tv
 mucinexprofessional.com
@@ -18099,6 +18114,7 @@ qualcommhalo.com
 qualcommlabs.com
 qualcommmea.com
 qualcommretail.com
+qualcommventures.cn
 qualcommventures.com
 qualphone.com
 qualysapi.qatp1.net
@@ -18495,6 +18511,7 @@ reurl.cc
 reut.rs
 reuters.com
 reuters.tv
+reutersagency.cn
 reutersmedia.net
 revenue-performance-management.com
 revleft.com
@@ -19043,6 +19060,7 @@ serveusers.com
 service.urchin.com
 services-apple.net
 services-exchange.com
+services.googleapis.cn
 serviceshp.com
 servicetalk.io
 serviporno.com
@@ -19661,6 +19679,7 @@ snap-telemetry.io
 snap.com
 snapchat.com
 snapcraft.io
+snapdragon.cn
 snapdragonbooth.com
 snapkit.co
 snapseed.com
@@ -19869,6 +19888,7 @@ sourceforge.com
 sourceforge.net
 sourcehut.org
 sourcewadio.com
+sourcingforebay.com.cn
 sourcingforebay.net
 sourcingforebay.tv
 south-plus.net
@@ -20984,6 +21004,7 @@ thisvidscat.net
 thlib.org
 thomasbernhard.org
 thomsonreuters.ca
+thomsonreuters.cn
 thomsonreuters.co.jp
 thomsonreuters.co.kr
 thomsonreuters.co.nz
@@ -22217,6 +22238,7 @@ verisign.co.uk
 verisign.com
 verisign.com.au
 verisign.com.br
+verisign.com.cn
 verisign.com.es
 verisign.com.hk
 verisign.com.sg
@@ -23996,6 +24018,7 @@ xn--yf1at58a.com
 xn--yfro4i67o
 xn--ygbi2ammx
 xn--yt8h.la
+xn--ztsq84g.cn
 xnalgas.com
 xnertv.shop
 xnostars.com
@@ -24129,6 +24152,7 @@ xvirtual.com
 xvxx.stream
 xvxxtube.com
 xx-map.com
+xx159.com.cn
 xx9.app
 xxbay.com
 xxbbx.com
@@ -24549,6 +24573,7 @@ yinshuiger.info
 yinya.shop
 yipub.com
 yiqiedoushiganggangkaishi.org
+yiqilai99.cn
 yiyechat.com
 yizhihongxing.com
 yjcontentdelivery.com
@@ -24859,6 +24884,7 @@ yy8y.com
 yyfb.cyou
 yyii.org
 yyjlymb.xyz
+yyyzgdl.cn
 yzld188.top
 yzzk.com
 z-lib.org
@@ -25022,6 +25048,7 @@ zoofilianet.com
 zoogvpn.com
 zoohun.com
 zoom.com
+zoom.com.cn
 zoom.us
 zoomingin.tv
 zoomobileporn.com
