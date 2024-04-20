@@ -88,8 +88,3 @@ curl -L -s -m 3 --retry-delay 3 --retry 3 -k -4 --header 'cache-control: no-cach
 curl -L -s -m 3 --retry-delay 3 --retry 3 -k -4 --header 'cache-control: no-cache' --url 'https://github.com/MetaCubeX/meta-rules-dat/releases/download/latest/geoip.metadb' -O geoip.metadb
 
 rm -rf *.tmp
-
-# chatgpt
-pip3 install pandora pandora-chatgpt
-mkdir -p chatgpt
-python3 default/chatgpt_accounts_token.py default/chatgpt_accounts.txt
