@@ -164,7 +164,6 @@ payload:
   - PROCESS-NAME,urngd
   - PROCESS-NAME,procd
   - PROCESS-NAME,smartdns
-  - PROCESS-NAME,clash
   - PROCESS-NAME,v2ray
   - PROCESS-NAME,xray
   - PROCESS-NAME,naive
