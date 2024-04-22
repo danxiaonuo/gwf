@@ -1363,8 +1363,6 @@ payload:
   - DOMAIN-SUFFIX,akadns.com
   - DOMAIN-SUFFIX,akadns.net
   - DOMAIN-SUFFIX,akadns6.net
-  - DOMAIN-SUFFIX,akadns88.net
-  - DOMAIN-SUFFIX,akadns99.net
   - DOMAIN-SUFFIX,akaeai.com
   - DOMAIN-SUFFIX,akafms.net
   - DOMAIN-SUFFIX,akagtm.org
@@ -5647,6 +5645,9 @@ payload:
   - DOMAIN-SUFFIX,cnbbnews.wordpress.com
   - DOMAIN-SUFFIX,cnbc.com
   - DOMAIN-SUFFIX,cnbcfm.com
+  - DOMAIN-SUFFIX,cnbeta.com
+  - DOMAIN-SUFFIX,cnbeta.com.tw
+  - DOMAIN-SUFFIX,cnbetacdn.com
   - DOMAIN-SUFFIX,cncrivals.com
   - DOMAIN-SUFFIX,cnd.org
   - DOMAIN-SUFFIX,cnet.com
@@ -7433,7 +7434,6 @@ payload:
   - DOMAIN-SUFFIX,edgedatg.com
   - DOMAIN-SUFFIX,edgefonts.net
   - DOMAIN-SUFFIX,edgekey.net
-  - DOMAIN-SUFFIX,edgekey88.net
   - DOMAIN-SUFFIX,edgemeplease.com
   - DOMAIN-SUFFIX,edgesuite.net
   - DOMAIN-SUFFIX,edicypages.com
@@ -8651,6 +8651,7 @@ payload:
   - DOMAIN-SUFFIX,firstpost.com
   - DOMAIN-SUFFIX,firstrade.com
   - DOMAIN-SUFFIX,fishmpegs.com
+  - DOMAIN-SUFFIX,fitgirl-repacks.site
   - DOMAIN-SUFFIX,fitnakedgirls.com
   - DOMAIN-SUFFIX,fivestarpornsites.com
   - DOMAIN-SUFFIX,fixtracking.com
