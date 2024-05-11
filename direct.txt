@@ -2924,7 +2924,6 @@
 360jq.com
 360jrjietiao.com
 360jrkt.com
-360junshi.com
 360jzhm.com
 360kad.com
 360kan.com
@@ -8142,6 +8141,7 @@ aibangbaoxian.net
 aibank.com
 aibank.link
 aibaocloud.com
+aibaohu.com
 aibaov.com
 aibaoxian.com
 aibase.com
@@ -8218,6 +8218,7 @@ aierchina.com
 aierfano.com
 aieye8.com
 aiezu.com
+aifabu.com
 aifamu.com
 aifanfan.com
 aifang.com
@@ -11911,7 +11912,6 @@ bit-king.net
 bitauto.com
 bitautoimg.com
 bitautotech.com
-bitbank.com
 bitcar.com
 bitcellulose.com
 bitcongress.com
@@ -17692,7 +17692,6 @@ cnzdhg.com
 cnzhanting.com
 cnzhanzhang.com
 cnzhengmu.com
-cnzhibo.com
 cnzhiyuanhui.com
 cnzjj.com
 cnzjol.com
@@ -18446,6 +18445,7 @@ crsky.com
 crsn168.com
 cruelcoding.com
 crvic.org
+crx.plus
 crx4.com
 cry33.com
 crym.cc
@@ -18811,6 +18811,7 @@ cupddns.com
 cupddns.net
 cupdns.com
 cupfox.com
+cupfox.love
 cupinn.com
 cuplayer.com
 curlc.com
@@ -24567,7 +24568,6 @@ fhyx.com
 fhyx.hk
 fi-play.com
 fi0.cc
-fi11sp84.com
 fi1818.com
 fi94.com
 fibercrops.com
@@ -26494,7 +26494,6 @@ ggqule.com
 ggqx.com
 ggsafe.com
 ggsq.cc
-ggt1024.com
 ggtiku.com
 ggwan.com
 ggwan.net
@@ -28107,6 +28106,7 @@ gyr.cc
 gyrsy.com
 gyscw.com
 gysdzy.com
+gyshwl.online
 gysk.com
 gysou.com
 gysq.org
@@ -30286,6 +30286,7 @@ hisoft.com
 hisofts.com
 hisonracking.com
 histarter.com
+historychina.net
 hisugar.com
 hisupplier.com
 hit-shop.hk
@@ -36072,7 +36073,6 @@ jinbaiteng.com
 jinbaobeiqiming.com
 jinbaoidc.com
 jinbaonet.com
-jinbei.com
 jinbiaohui.com
 jinbiaojv.com
 jinbifun.com
@@ -36234,7 +36234,6 @@ jinjie.tech
 jinju8.com
 jinjunmei.net
 jinkan.org
-jinkaotong.com
 jinkejoy.com
 jinkeluo.com
 jinkex.com
@@ -38054,6 +38053,7 @@ kakadm.com
 kakalili.com
 kakamobi.com
 kakappt.com
+kakayuy.net
 kakucloud.com
 kala.love
 kalading.com
@@ -43069,7 +43069,6 @@ maple.ren
 maplef.net
 mapmapping.com
 mappn.com
-mapsence.com
 maptalks.com
 maqingbo.com
 maqingxi.com
@@ -44908,6 +44907,7 @@ mqttx.app
 mquan.fun
 mquan.net
 mquanquan.com
+mqxs8.com
 mqxww.com
 mr-ping.com
 mr77.com
@@ -46267,7 +46267,6 @@ niiwoo.com
 nikanpian.com
 nike-inc.com.tw
 nikebiji.com
-nikenike2015.com.tw
 nikkisoft.com
 nikkiup2u2.com
 nilai.com
@@ -46546,7 +46545,6 @@ nntlj.com
 nntskq.com
 nntxw.com
 nnwb.com
-nnykzy120.com
 nnynrc.com
 nnzgh.org
 nnzsxblaw.com
@@ -47873,6 +47871,7 @@ pacdn.com
 pacfc.com
 pacgatelaw.com
 pacificchinaaero.com
+pacilution.com
 packsky.com
 packtom.com
 packty.com
@@ -51457,6 +51456,7 @@ raygame3.com
 raygame4.com
 rayjoy.com
 rayli.com
+raylink.live
 raymx-micro.com
 rayoptek.com
 rayp.com
@@ -51464,6 +51464,7 @@ rayps.com
 rayrjx.com
 rayseasc.com
 raysilicon.com
+raysync.cloud
 raythonsoft.com
 raytoon.net
 rayuu.com
@@ -56184,6 +56185,7 @@ souxue8.com
 souxw.com
 souya.com
 souyidai.com
+souyoutu.com
 souyue.mobi
 souyunku.com
 sov2ex.com
@@ -56571,6 +56573,7 @@ staycu.com
 stbieshu.com
 stc2002.com
 stcaimcu.com
+stcfile.com
 stcmcu.com
 stcmcudata.com
 stcn.com
@@ -57175,7 +57178,6 @@ swordart.online
 swordofmorning.com
 swordtt.com
 swotbbs.com
-swq5t.com
 swsbw.com
 swscan-cdn.apple.com.akadns.net
 swscan.apple.com
@@ -57653,7 +57655,6 @@ szmc.net
 szmctc.com
 szmengqukj.com
 szmhthb.com
-szmianfei.com
 szmil.com
 szmingbiao.com
 szmjd.com
@@ -65343,6 +65344,7 @@ wxsell.com
 wxsgf.com
 wxshake.com
 wxsteed.com
+wxsy.net
 wxt2020.com
 wxtdf.com
 wxthe.com
@@ -65639,6 +65641,7 @@ xbiquge.cc
 xbiquge.la
 xbiquge.tw
 xbiqugu.info
+xbiqugu.net
 xbiqukan.com
 xbiquku.com
 xbiquwx.la
@@ -65795,6 +65798,7 @@ xdrig.com
 xdrtc.com
 xdrun.com
 xdsipo.com
+xdsp.mobi
 xdter.com
 xdtos.com
 xduoo.com
@@ -67173,7 +67177,6 @@ xixidoudizhu.com
 xixik.com
 xixik.net
 xixin123.com
-xixingyou.com
 xixinv.com
 xixiqipai.com
 xixisys.com
@@ -67766,6 +67769,7 @@ xswdcasting.com
 xsy.science
 xsycps.com
 xsyk021.com
+xsyq.cc
 xsyqmztg.com
 xsyx.xyz
 xsyxsc.com
@@ -67838,6 +67842,7 @@ xuanwonainiu.com
 xuanwu88.com
 xuanwumobile.com
 xuanwww.com
+xuanxiaodi.com
 xuanxiaozhuanjia.com
 xuanxuan.com
 xuanxuangame.com
@@ -67987,6 +67992,7 @@ xulihang.me
 xulizui6.com
 xulv.net
 xumenger.com
+xumengwang.com
 xumingxiang.com
 xumurc.com
 xun1688.com
@@ -69541,6 +69547,7 @@ yipaogan.com
 yiparts.com
 yipemail.com
 yipeng888.com
+yipiaoyun.com
 yipihuo.com
 yipingmi.vip
 yipingsj.com
@@ -69957,6 +69964,7 @@ ymq.com
 ymraaa.com
 ymrcw.vip
 yms.cool
+ymsss.com
 ymsteam.com
 ymt.com
 ymt360.com
@@ -70626,6 +70634,7 @@ yqsn.com
 yqtc.com
 yqw188.com
 yqwfpy.com
+yqwxw.cc
 yqwyx.xyz
 yqxiuyoung.com
 yqxs.cc
@@ -71300,6 +71309,7 @@ yuntue.com
 yuntuiweishang.com
 yuntuoguan.cc
 yuntuys.com
+yunverify.com
 yunvm.com
 yunwei8.com
 yunweibang.com
