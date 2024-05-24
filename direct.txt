@@ -47099,6 +47099,7 @@ ocn187.com
 ocsjs.com
 ocsp-lb.apple.com.akadns.net
 ocsp.apple.com
+ocsp2-lb.apple.com.akadns.net
 ocsp2.apple.com
 oct-asia.com
 oct-cts.com
