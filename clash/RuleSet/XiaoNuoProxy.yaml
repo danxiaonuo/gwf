@@ -6,6 +6,7 @@ payload:
   - DOMAIN-KEYWORD,youtube
   - DOMAIN-KEYWORD,onedrive
   - DOMAIN-KEYWORD,cloudflare
+  - DOMAIN-KEYWORD,tiktokv
   # 域名后缀匹
   - DOMAIN-SUFFIX,cloudflare.net
   - DOMAIN-SUFFIX,cloudflare.com
