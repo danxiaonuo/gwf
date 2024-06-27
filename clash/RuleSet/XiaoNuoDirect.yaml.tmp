@@ -142,7 +142,6 @@ payload:
   
   # 进程规则
   # 源进程名匹配
-  - PROCESS-NAME,dae
   - PROCESS-NAME,login
   - PROCESS-NAME,nginx
   - PROCESS-NAME,dropbear
