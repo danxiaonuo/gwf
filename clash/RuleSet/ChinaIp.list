@@ -9263,6 +9263,7 @@ IP-CIDR6,2401:b360::/32,no-resolve
 IP-CIDR6,2401:b400::/32,no-resolve
 IP-CIDR6,2401:b480::/32,no-resolve
 IP-CIDR6,2401:b4c0::/32,no-resolve
+IP-CIDR6,2401:b4e0::/32,no-resolve
 IP-CIDR6,2401:b540::/32,no-resolve
 IP-CIDR6,2401:b580::/32,no-resolve
 IP-CIDR6,2401:b600::/32,no-resolve
