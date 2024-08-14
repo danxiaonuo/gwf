@@ -1843,8 +1843,10 @@ DOMAIN-SUFFIX,andfaraway.net
 DOMAIN-SUFFIX,android
 DOMAIN-SUFFIX,android-x86.org
 DOMAIN-SUFFIX,android.com
+DOMAIN-SUFFIX,androidauthority.com
 DOMAIN-SUFFIX,androidify.com
 DOMAIN-SUFFIX,androidplus.co
+DOMAIN-SUFFIX,androidpolice.com
 DOMAIN-SUFFIX,androidtv.com
 DOMAIN-SUFFIX,andygod.com
 DOMAIN-SUFFIX,andysparis.com
@@ -6396,7 +6398,6 @@ DOMAIN-SUFFIX,dalailama-archives.org
 DOMAIN-SUFFIX,dalailama.com
 DOMAIN-SUFFIX,dalailama.mn
 DOMAIN-SUFFIX,dalailama.ru
-DOMAIN-SUFFIX,dalailama.usc.edu
 DOMAIN-SUFFIX,dalailama80.org
 DOMAIN-SUFFIX,dalailamacenter.org
 DOMAIN-SUFFIX,dalailamafellows.org
@@ -6739,6 +6740,7 @@ DOMAIN-SUFFIX,digitalpack.com
 DOMAIN-SUFFIX,digitalplayground.com
 DOMAIN-SUFFIX,digitalplaygroundnetwork.com
 DOMAIN-SUFFIX,digitalprototyping.com
+DOMAIN-SUFFIX,digitaltrends.com
 DOMAIN-SUFFIX,diigo.com
 DOMAIN-SUFFIX,dilber.se
 DOMAIN-SUFFIX,dilcdn.com
@@ -7900,6 +7902,7 @@ DOMAIN-SUFFIX,enfamil.es
 DOMAIN-SUFFIX,enfamil.pl
 DOMAIN-SUFFIX,enfamil.pt
 DOMAIN-SUFFIX,enfasmart.com
+DOMAIN-SUFFIX,engadget.com
 DOMAIN-SUFFIX,engagedaily.org
 DOMAIN-SUFFIX,engineeringvillage.com
 DOMAIN-SUFFIX,englishforeveryone.org
@@ -21243,6 +21246,7 @@ DOMAIN-SUFFIX,storesense.com
 DOMAIN-SUFFIX,stories.google
 DOMAIN-SUFFIX,storiesonline.net
 DOMAIN-SUFFIX,storify.com
+DOMAIN-SUFFIX,storj.io
 DOMAIN-SUFFIX,storm.mg
 DOMAIN-SUFFIX,stormmediagroup.com
 DOMAIN-SUFFIX,storyful.com
@@ -21692,6 +21696,7 @@ DOMAIN-SUFFIX,techliquidators.com
 DOMAIN-SUFFIX,technews.tw
 DOMAIN-SUFFIX,technics.com
 DOMAIN-SUFFIX,technologyandsociety.org
+DOMAIN-SUFFIX,techradar.com
 DOMAIN-SUFFIX,techspot.com
 DOMAIN-SUFFIX,techstop.corp.google.com
 DOMAIN-SUFFIX,techstreet.com
@@ -22283,6 +22288,7 @@ DOMAIN-SUFFIX,tokyotosho.info
 DOMAIN-SUFFIX,tokyotosho.se
 DOMAIN-SUFFIX,tomatespodres.com
 DOMAIN-SUFFIX,tomonews.net
+DOMAIN-SUFFIX,tomsguide.com
 DOMAIN-SUFFIX,tonec.com
 DOMAIN-SUFFIX,tongil.or.kr
 DOMAIN-SUFFIX,tonicmovies.com
@@ -23023,6 +23029,7 @@ DOMAIN-SUFFIX,usaco.org
 DOMAIN-SUFFIX,usaip.eu
 DOMAIN-SUFFIX,usatoday.com
 DOMAIN-SUFFIX,usatodaynetworkservice.com
+DOMAIN-SUFFIX,uscardforum.com
 DOMAIN-SUFFIX,uscnpm.org
 DOMAIN-SUFFIX,uselessjunk.com
 DOMAIN-SUFFIX,useplannr.com
@@ -25965,7 +25972,9 @@ DOMAIN-SUFFIX,zb.live
 DOMAIN-SUFFIX,zbporn.com
 DOMAIN-SUFFIX,zctb.buzz
 DOMAIN-SUFFIX,zdassets.com
+DOMAIN-SUFFIX,zdnet.com
 DOMAIN-SUFFIX,zdnet.com.tw
+DOMAIN-SUFFIX,zdnet.redvideo.io
 DOMAIN-SUFFIX,zdusercontent.com
 DOMAIN-SUFFIX,zee.com
 DOMAIN-SUFFIX,zee5.com
