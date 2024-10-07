@@ -9743,6 +9743,7 @@ facebook.br
 facebook.ca
 facebook.cc
 facebook.com
+facebook.de
 facebook.design
 facebook.hu
 facebook.in
@@ -27022,6 +27023,7 @@ torrentproject.se
 torrenty.org
 torrentz.eu
 torrindex.net
+tortoisesvn.net
 torvpn.com
 tosh.comedycentral.com
 toshiba
