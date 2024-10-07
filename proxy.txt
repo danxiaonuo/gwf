@@ -1014,6 +1014,7 @@ aesworkshops.com
 aetna
 aex.com
 af
+af-north-1.myhuaweicloud.com
 af-south-1.myhuaweicloud.com
 af.mil
 afantibbs.com
@@ -1637,6 +1638,7 @@ amof.ac.uk
 amoiist.com
 amourangels.com
 amp.dev
+amplifi.com
 amplifyapp.com
 amplifyframework.com
 ampproject.com
@@ -6422,6 +6424,7 @@ classicnike.com
 classics.ac.uk
 classymomsex.com
 claude.ai
+claudeusercontent.com
 clb.org.hk
 clc-london.ac.uk
 clco.cc
@@ -10123,8 +10126,10 @@ fastestvpn.com
 fastindianporn.com
 fastlane.ci
 fastlane.tools
+fastly-edge.com
 fastly-terrarium.com
 fastly.com
+fastly.io
 fastly.net
 fastlylabs.com
 fastlylb.net
@@ -11010,6 +11015,7 @@ frontier.ac.uk
 frontiersin.org
 frontiersofoncology.ac.uk
 frontlinedefenders.org
+frontrow.com
 froogle.com
 frootvpn.com
 frostbite.com
@@ -11635,6 +11641,7 @@ github.dev
 github.io
 githubapp.com
 githubassets.com
+githubcopilot.com
 githubhackathon.com
 githubnext.com
 githubpreview.dev
@@ -13643,6 +13650,7 @@ https443.org
 httpsfacebook.com
 httpwwwfacebook.com
 htvncdn.net
+htx.com
 htyj-bj.com
 hu
 hu1u.com
@@ -18798,6 +18806,7 @@ mxshm.site
 my
 my-enema.com
 my-formosa.com
+my-kualalumpur-1.myhuaweicloud.com
 my-magazine.me
 my-private-network.co.uk
 my-proxy.com
@@ -23480,6 +23489,7 @@ rti.tw
 rtings.com
 rtycminnesota.org
 ru
+ru-moscow-1.myhuaweicloud.com
 ru-northwest-2.myhuaweicloud.com
 rua-project.ac.uk
 ruanyifeng.com
@@ -24587,6 +24597,7 @@ signal.art
 signal.org
 signalbar.com
 signalprocessingsociety.org
+signalr.net
 signalusers.org
 sihe.ac.uk
 sijihuisuo.club
@@ -27608,6 +27619,7 @@ ubi.com
 ubisoft.com
 ubisoftconnect.com
 ubn.ac.uk
+ubncloud.com
 ubnw.net
 ubs
 ubuntu-touch.io
@@ -27704,10 +27716,12 @@ uhr.ac.uk
 uhrp.org
 uhsl.ac.uk
 uhub.com
+ui.com
 uighur.narod.ru
 uighur.nl
 uighurbiz.net
 uiporn.com
+uisp.com
 ujapanesesex.com
 ujizzcn.com
 uk
@@ -28697,6 +28711,7 @@ vk.com
 vk.design
 vk.link
 vk.me
+vk.ru
 vkcache.com
 vkgo.app
 vklive.app
@@ -29506,6 +29521,7 @@ wifesharingpics.com
 wifevideos.net
 wifewantstoplay.com
 wifi-mx.com
+wifiman.com
 wigan-leigh.ac.uk
 wigs.ac.uk
 wigstoncollege.ac.uk
@@ -31260,6 +31276,7 @@ zencdn.net
 zencoder.com
 zendesk.com
 zengjinyan.org
+zenlesszonezero.com
 zenmate.com
 zenmate.com.ru
 zenodo.org
