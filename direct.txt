@@ -40241,6 +40241,7 @@ icloud-cdn.icloud.com.akadns.net
 icloud-content.com
 icloud-isupport.com
 icloud-power.com
+icloud-sandbox.com
 icloud.cdn-apple.com
 icloud.ch
 icloud.com
