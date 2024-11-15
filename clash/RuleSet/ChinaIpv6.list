@@ -642,6 +642,7 @@ IP-CIDR6,2401:d2c0::/32,no-resolve
 IP-CIDR6,2401:d340::/32,no-resolve
 IP-CIDR6,2401:d420::/32,no-resolve
 IP-CIDR6,2401:d780::/32,no-resolve
+IP-CIDR6,2401:d7e0::/32,no-resolve
 IP-CIDR6,2401:da00::/32,no-resolve
 IP-CIDR6,2401:de00::/32,no-resolve
 IP-CIDR6,2401:e080::/32,no-resolve
