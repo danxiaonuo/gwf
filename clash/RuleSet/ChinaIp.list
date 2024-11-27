@@ -6273,6 +6273,8 @@ IP-CIDR,160.250.16.0/23,no-resolve
 IP-CIDR,160.250.18.0/23,no-resolve
 IP-CIDR,160.250.24.0/23,no-resolve
 IP-CIDR,160.250.84.0/23,no-resolve
+IP-CIDR,160.250.90.0/23,no-resolve
+IP-CIDR,160.250.102.0/23,no-resolve
 IP-CIDR,161.120.0.0/16,no-resolve
 IP-CIDR,161.189.0.0/16,no-resolve
 IP-CIDR,161.207.0.0/16,no-resolve
@@ -8711,10 +8713,8 @@ IP-CIDR6,2001:df1:c900::/48,no-resolve
 IP-CIDR6,2001:df1:d180::/48,no-resolve
 IP-CIDR6,2001:df1:da00::/48,no-resolve
 IP-CIDR6,2001:df1:f480::/48,no-resolve
-IP-CIDR6,2001:df1:f580::/48,no-resolve
 IP-CIDR6,2001:df1:fd80::/48,no-resolve
 IP-CIDR6,2001:df2:80::/48,no-resolve
-IP-CIDR6,2001:df2:180::/48,no-resolve
 IP-CIDR6,2001:df2:5780::/48,no-resolve
 IP-CIDR6,2001:df2:8bc0::/48,no-resolve
 IP-CIDR6,2001:df2:a580::/48,no-resolve
