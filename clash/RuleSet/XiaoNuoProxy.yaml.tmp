@@ -30,6 +30,7 @@ payload:
   - DOMAIN-SUFFIX,auth0.com
   - DOMAIN-SUFFIX,adultiptv.net
   - DOMAIN-SUFFIX,apkpure.net
+  - DOMAIN-SUFFIX,metacubex.one
   
   # cloudflare IP地址段
   - IP-CIDR,173.245.48.0/20,no-resolve
