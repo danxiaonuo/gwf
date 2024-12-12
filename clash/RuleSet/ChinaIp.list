@@ -6270,6 +6270,7 @@ IP-CIDR,160.250.104.0/23,no-resolve
 IP-CIDR,160.250.140.0/24,no-resolve
 IP-CIDR,160.250.160.0/23,no-resolve
 IP-CIDR,160.250.170.0/23,no-resolve
+IP-CIDR,160.250.214.0/23,no-resolve
 IP-CIDR,161.120.0.0/16,no-resolve
 IP-CIDR,161.189.0.0/16,no-resolve
 IP-CIDR,161.207.0.0/16,no-resolve
@@ -9311,6 +9312,8 @@ IP-CIDR6,2401:dd20::/32,no-resolve
 IP-CIDR6,2401:dd60::/32,no-resolve
 IP-CIDR6,2401:dde0::/32,no-resolve
 IP-CIDR6,2401:de00::/32,no-resolve
+IP-CIDR6,2401:dfe0::/32,no-resolve
+IP-CIDR6,2401:e020::/32,no-resolve
 IP-CIDR6,2401:e080::/32,no-resolve
 IP-CIDR6,2401:e0c0::/32,no-resolve
 IP-CIDR6,2401:e140::/32,no-resolve
