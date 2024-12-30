@@ -5439,7 +5439,6 @@ payload:
   - DOMAIN-SUFFIX,bsw.jp
   - DOMAIN-SUFFIX,bsxm1213.pro
   - DOMAIN-SUFFIX,bt
-  - DOMAIN-SUFFIX,bt2mag.com
   - DOMAIN-SUFFIX,bt95.com
   - DOMAIN-SUFFIX,btaia.com
   - DOMAIN-SUFFIX,btas.ac.uk
@@ -7911,6 +7910,7 @@ payload:
   - DOMAIN-SUFFIX,decrypt.day
   - DOMAIN-SUFFIX,decymru.ac.uk
   - DOMAIN-SUFFIX,deed.ac.uk
+  - DOMAIN-SUFFIX,deepai.org
   - DOMAIN-SUFFIX,deeper.com
   - DOMAIN-SUFFIX,deepfake-porn.com
   - DOMAIN-SUFFIX,deepfakeporn.net
@@ -12828,11 +12828,6 @@ payload:
   - DOMAIN-SUFFIX,h5dm.com
   - DOMAIN-SUFFIX,h5galgame.me
   - DOMAIN-SUFFIX,hace.ac.uk
-  - DOMAIN-SUFFIX,hacg.club
-  - DOMAIN-SUFFIX,hacg.in
-  - DOMAIN-SUFFIX,hacg.li
-  - DOMAIN-SUFFIX,hacg.me
-  - DOMAIN-SUFFIX,hacg.red
   - DOMAIN-SUFFIX,hackday.com.au
   - DOMAIN-SUFFIX,hacken.cc
   - DOMAIN-SUFFIX,hacker.org
@@ -29531,6 +29526,7 @@ payload:
   - DOMAIN-SUFFIX,vraiesagesse.net
   - DOMAIN-SUFFIX,vrbgay.com
   - DOMAIN-SUFFIX,vrcams.io
+  - DOMAIN-SUFFIX,vrchat.com
   - DOMAIN-SUFFIX,vred-essentials.com
   - DOMAIN-SUFFIX,vredessentials.com
   - DOMAIN-SUFFIX,vredprofessional.com
