@@ -9,6 +9,7 @@ DOMAIN-KEYWORD,tiktokv
 # 域名后缀匹
 DOMAIN-SUFFIX,cloudflare.net
 DOMAIN-SUFFIX,cloudflare.com
+DOMAIN-SUFFIX,workers.dev
 DOMAIN-SUFFIX,google.com
 DOMAIN-SUFFIX,github.com
 DOMAIN-SUFFIX,githubusercontent.com
