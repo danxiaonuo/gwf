@@ -33,6 +33,7 @@ payload:
   - DOMAIN-SUFFIX,apkpure.net
   - DOMAIN-SUFFIX,metacubex.one
   - DOMAIN-SUFFIX,semaphoreui.com
+  - DOMAIN-SUFFIX,lruihao.cn
   
   # cloudflare IP地址段
   - IP-CIDR,173.245.48.0/20,no-resolve
