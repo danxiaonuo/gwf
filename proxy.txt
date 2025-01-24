@@ -369,6 +369,8 @@
 4u4c.com
 5-d.com
 500caocao.com
+500px.com
+500px.org
 50dh.app
 50plusmilfs.com
 51.ca
@@ -1905,6 +1907,7 @@ app.smartmailcloud.com
 app.tutanota.com
 app0le.com
 app756.com
+appadvice.com
 appbrain.com
 appbridge.ca
 appbridge.io
@@ -3207,6 +3210,7 @@ bbs.mikocon.com
 bbs.morbell.com
 bbs.mychat.to
 bbs.netbig.com
+bbs.nyinfor.com
 bbs.ozchinese.com
 bbs.qmzdd.com
 bbs.sina.com
@@ -4099,6 +4103,7 @@ blog.martinoei.com
 blog.pathtosharepoint.com
 blog.pentalogic.net
 blog.ranxiang.com
+blog.reimu.net
 blog.sina.com.tw
 blog.sogoo.org
 blog.soylent.com
@@ -5289,12 +5294,20 @@ bwsj.hk
 bx.in.th
 bx.tl
 by
+byabcde.com
 byam-shaw.ac.uk
 byapis.com
+byapps.net
+bybdc6.com
 bybeatsdre.com
+bybit-global.com
+bybit.biz
+bybit.cloud
 bybit.com
+bybitglobal.com
 bycbe.com
 bycsi.com
+byd3c3.com
 bydrebeats.com
 bygpp1207.world
 byjav.me
@@ -8075,6 +8088,7 @@ divas.com.uy
 diversityuk.ac.uk
 diy
 diyarbakirescort.com
+diyin.org
 diyuser.buzz
 dizhidizhi.com
 dizhuzhishang.com
@@ -8714,6 +8728,7 @@ east-london.ac.uk
 east-yorks-coll.ac.uk
 east15.ac.uk
 eastantrim-institute.ac.uk
+eastasiaforum.org
 eastbabes.com
 eastberks.ac.uk
 eastchem.ac.uk
@@ -9642,6 +9657,7 @@ ewva.ac.uk
 ex.ac.uk
 exacttarget.com
 exam-ta.ac.uk
+exam.gov.tw
 exascale-tech.com
 exblog.jp
 excedo.com
@@ -9704,6 +9720,7 @@ exx.com
 exxxtra.net
 exxxtrasmall.com
 exxxtrasmall1.com
+ey.gov.tw
 eyevio.jp
 eyny.com
 ezpc.tk
@@ -10486,6 +10503,7 @@ fireemblemawakening.com
 fireflyresearch.ac.uk
 firefox.com
 firefoxusercontent.com
+fireofliberty.info
 fireofliberty.org
 fireservicecollege.ac.uk
 fireside.fm
@@ -10707,6 +10725,7 @@ fotolja.com
 fotoscaserasx.com
 foundationdb.org
 foundationyear.ac.uk
+fountmedia.io
 fourface.nodesnoop.com
 fourthinternational.org
 fox
@@ -13911,6 +13930,7 @@ hyperscan.io
 hypnohub.net
 hypnoporn.net
 hypnotube.com
+hypothes.is
 hysbys.ac.uk
 hyundai
 hzmn.net
@@ -14524,6 +14544,7 @@ indienudes.com
 indies-av.co.jp
 indonesiaporn.name
 industrialtoys.com
+inews-api.tvb.com
 infinitetoons.com
 infinitetube.com
 infiniti
@@ -15100,6 +15121,7 @@ isfocus.net
 isgame365.cc
 isgreat.org
 isheppc.com
+ishr.ch
 isic.ac.uk
 isiknowledge.com
 isis.ac.uk
@@ -15354,6 +15376,7 @@ javdove.com
 javdove8.xyz
 javextreme.net
 javfilms.com
+javfinder.ai
 javfor.me
 javforme.ninja
 javfree.la
@@ -15712,6 +15735,7 @@ jubileecentre.ac.uk
 jubushoushen.com
 juc.ac.uk
 judeporn.com
+judicial.gov.tw
 juggsjoy.com
 juhuaren.com
 juiceced.xyz
@@ -16179,6 +16203,7 @@ kyoyue.com
 kyurem.com
 kyzyhello.com
 kz
+kzaobao.com
 kzeng.info
 l-0005.dc-msedge.net
 l-0005.l-msedge.net
@@ -16428,6 +16453,7 @@ legaltech.law.com
 legaltracker.com
 leggott.ac.uk
 lego
+legra.ph
 legsex.com
 legsjapan.com
 leicester-poly.ac.uk
@@ -16584,6 +16610,7 @@ likeseiyu.com
 liketruyen.net
 liketwice.com
 likuoo.video
+lilaoshibushinilaoshi.com
 lilhumpers.com
 liliav.com
 lilith-soft.com
@@ -17080,6 +17107,7 @@ lwwcn.buzz
 lwwcn.xyz
 lxxlxx.com
 ly
+ly.gov.tw
 lyellcentre.ac.uk
 lyfhk.net
 lysol.ca
@@ -17234,6 +17262,7 @@ mailonline.com
 mailonsunday.co.uk
 mailonsunday.ie
 mailtalk.ac.uk
+main-ecnpaper-economist.content.pugpig.com
 mainichi-athletepartners.jp
 mainichi.jp
 mainichibooks.com
@@ -17309,6 +17338,7 @@ mangafox.me
 mangahasu.se
 mangahentai.me
 mangahome.com
+mangmang.run
 mango
 mangoporn.net
 mangotporn.com
@@ -17780,7 +17810,7 @@ meme
 meme.yahoo.com
 meme111.com
 memehk.com
-memorybbs.com
+memes.tw
 memri.org
 memrijttm.org
 men.com
@@ -18442,6 +18472,7 @@ mktroute.com
 ml
 mlab.ac.uk
 mlb
+mlc.ai
 mlcool.com
 mluri.ac.uk
 mlzs.work
@@ -19641,7 +19672,6 @@ news.cnyes.com
 news.co.uk
 news.com.au
 news.ebc.net.tw
-news.hk.msn.com
 news.msn.com.tw
 news.nationalgeographic.com
 news.net.au
@@ -19651,7 +19681,6 @@ news.sina.com.hk
 news.sina.com.tw
 news.sinchew.com.my
 news.singtao.ca
-news.tvb.com
 news.tvbs.com.tw
 news.yahoo.com
 news.ycombinator.com
@@ -22699,7 +22728,6 @@ putihome.org
 putinho.net
 putlocker.com
 putty.org
-puuko.com
 pvp.net
 pvp.tv
 pvt.sexy
@@ -23242,6 +23270,7 @@ redislabs.com
 redkix.com
 redlightcenter.com
 redmatureporn.com
+redotpay.com
 redporn.xxx
 redporno.cz
 redpornpictures.com
@@ -23718,6 +23747,7 @@ s1s1s1.com
 s2csntp.miz.nao.ac.jp
 s2stagehance.com
 s3-ap-northeast-1.amazonaws.com
+s3-ap-southeast-1.amazonaws.com
 s3-ap-southeast-2.amazonaws.com
 s3.amazonaws.com
 s81c.com
@@ -24856,7 +24886,6 @@ sjd.ac.uk
 sjhsp1.buzz
 sjr.ac.uk
 sjrt.org
-sjum.cn
 sk
 skate2.com
 skebetter.com
@@ -25418,6 +25447,7 @@ spoti.fi
 spotify-everywhere.com
 spotify.com
 spotify.design
+spotify.link
 spotifycdn.com
 spotifycdn.net
 spotifycharts.com
@@ -25769,6 +25799,7 @@ stin31.ru
 stingrayengine.com
 stir.ac.uk
 stirling.ac.uk
+stitcher.com
 stjohns-nottm.ac.uk
 stlouisbmw.net
 stloyes.ac.uk
@@ -26591,6 +26622,7 @@ textnow.me
 texttobuy.org
 texture.com
 tf
+tfc-taiwan.org.tw
 tferwq.com
 tfhub.dev
 tfiflve.com
@@ -26805,7 +26837,6 @@ thetibetmuseum.org
 thetibetpost.com
 thetimes.co.uk
 thetimes.ie
-thetinhat.com
 thetranny.com
 thetread.com
 thetrotskymovie.com
@@ -26836,6 +26867,7 @@ thinkquarterly.co.uk
 thinkquarterly.com
 thinkwales.ac.uk
 thinkwithgoogle.com
+thirdmill.org
 thisav.com
 thisismoney.co.uk
 thisispolaris.com
@@ -27190,6 +27222,7 @@ topsexygames.com
 topshareware.com
 topsy.com
 toptip.ca
+toptoon.net
 toptoonsites.com
 topvids.net
 topxxxpornvids.com
@@ -27625,7 +27658,6 @@ tweetmylast.fm
 tweetphoto.com
 tweetrans.com
 tweetree.com
-tweets.seraph.me
 tweettunnel.com
 tweetwally.com
 tweetymail.com
@@ -29371,7 +29403,6 @@ warwickshire.ac.uk
 wasdj.com
 waselpro.com
 washa.tv
-washeng.net
 washingtondcbmw.com
 washingtonpost.com
 waskucity.com
@@ -29404,6 +29435,7 @@ wav.tv
 waveomoney.com.mm
 waveprotocol.org
 waverleyabbeycollege.ac.uk
+waybig.com
 waymo.com
 waze.com
 wballiance.com
@@ -30094,6 +30126,7 @@ www.linksalpha.com
 www.m-sport.co.uk
 www.monlamit.org
 www.moztw.org
+www.msn.com
 www.nbc.com
 www.orchidbbs.com
 www.owind.com
@@ -30272,6 +30305,7 @@ xhamster2.com
 xhamsterlive.com
 xhcdn.com
 xhot.pro
+xhpjc6-cdn-settings.appsflyersdk.com
 xhub.tv
 xianba.net
 xianchawang.net
@@ -31536,6 +31570,7 @@ zlib.life
 zlibcdn.com
 zlibcdn2.com
 zm
+zmedia.com.tw
 zmw.cn
 zndsk.com
 zodgame.us
