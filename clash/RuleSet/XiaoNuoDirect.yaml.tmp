@@ -64,6 +64,7 @@ payload:
   - DOMAIN-SUFFIX,danxiaonuo.com
   - DOMAIN-SUFFIX,danxiaonuo.me
   - DOMAIN-SUFFIX,xiaonuo.live
+  - DOMAIN-SUFFIX,iflytek.com
   
   # clash
   # 域名匹配
