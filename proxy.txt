@@ -1111,7 +1111,6 @@ ai
 ai-kan.net
 ai-wen.net
 ai.binwang.me
-ai.com
 ai.google
 ai.ytimg.com
 ai3sd.ac.uk
