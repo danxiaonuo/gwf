@@ -19301,7 +19301,12 @@ payload:
   - DOMAIN-SUFFIX,mx
   - DOMAIN-SUFFIX,mx.hao123.com
   - DOMAIN-SUFFIX,mx981.com
+  - DOMAIN-SUFFIX,mxlogin.com
   - DOMAIN-SUFFIX,mxmcdn.net
+  - DOMAIN-SUFFIX,mxroute.com
+  - DOMAIN-SUFFIX,mxroutedocs.com
+  - DOMAIN-SUFFIX,mxroutehelp.com
+  - DOMAIN-SUFFIX,mxrouting.net
   - DOMAIN-SUFFIX,mxshm.site
   - DOMAIN-SUFFIX,my
   - DOMAIN-SUFFIX,my-enema.com
