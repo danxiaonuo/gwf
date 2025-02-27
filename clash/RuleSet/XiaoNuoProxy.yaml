@@ -19994,6 +19994,7 @@ payload:
   - DOMAIN-SUFFIX,netcup-news.de
   - DOMAIN-SUFFIX,netcup-sonderangebote.de
   - DOMAIN-SUFFIX,netcup-wiki.de
+  - DOMAIN-SUFFIX,netcup.cafe
   - DOMAIN-SUFFIX,netcup.com
   - DOMAIN-SUFFIX,netcup.de
   - DOMAIN-SUFFIX,netcup.eu
@@ -28025,7 +28026,9 @@ payload:
   - DOMAIN-SUFFIX,tubevintageporn.com
   - DOMAIN-SUFFIX,tubewolf.com
   - DOMAIN-SUFFIX,tubexclips.com
+  - DOMAIN-SUFFIX,tubi.io
   - DOMAIN-SUFFIX,tubinge.com
+  - DOMAIN-SUFFIX,tubitv.com
   - DOMAIN-SUFFIX,tubsexer.com
   - DOMAIN-SUFFIX,tubxporn.com
   - DOMAIN-SUFFIX,tubxporn.xxx
