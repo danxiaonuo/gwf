@@ -11010,9 +11010,6 @@ DOMAIN-SUFFIX,apgoview.com
 DOMAIN-SUFFIX,aphidic.com
 DOMAIN-SUFFIX,api-forwards.com
 DOMAIN-SUFFIX,api-m.com
-DOMAIN-SUFFIX,api-p-ap-c.smoot.apple.com
-DOMAIN-SUFFIX,api-p-ap-d.smoot.apple.com
-DOMAIN-SUFFIX,api-p-ap-e.smoot.apple.com
 DOMAIN-SUFFIX,api.anythinktech.com
 DOMAIN-SUFFIX,apiadmin.org
 DOMAIN-SUFFIX,apiairasia.com
@@ -32903,7 +32900,6 @@ DOMAIN-SUFFIX,gsp11-cn.ls.apple.com
 DOMAIN-SUFFIX,gsp12-cn.ls.apple.com
 DOMAIN-SUFFIX,gsp13-cn.ls.apple.com
 DOMAIN-SUFFIX,gsp4-cn.ls.apple.com
-DOMAIN-SUFFIX,gsp4-cn.ls.apple.com.edgekey.net
 DOMAIN-SUFFIX,gsp4-cn.ls.apple.com.edgekey.net.globalredir.akadns.net
 DOMAIN-SUFFIX,gsp5-cn.ls.apple.com
 DOMAIN-SUFFIX,gsp85-cn-ssl.ls.apple.com
@@ -32914,7 +32910,6 @@ DOMAIN-SUFFIX,gspe19-cn-ssl.ls.apple.com
 DOMAIN-SUFFIX,gspe19-cn.ls-apple.com.akadns.net
 DOMAIN-SUFFIX,gspe19-cn.ls.apple.com
 DOMAIN-SUFFIX,gspe21-ssl.ls.apple.com
-DOMAIN-SUFFIX,gspe21.ls.apple.com
 DOMAIN-SUFFIX,gspe35-ssl.ls.apple.com
 DOMAIN-SUFFIX,gspe79-cn-ssl.ls.apple.com
 DOMAIN-SUFFIX,gspst.com
@@ -42862,8 +42857,6 @@ DOMAIN-SUFFIX,imageoss.com
 DOMAIN-SUFFIX,imagepy.org
 DOMAIN-SUFFIX,imagerjt.com
 DOMAIN-SUFFIX,images-cache.com
-DOMAIN-SUFFIX,images.apple.com
-DOMAIN-SUFFIX,images.apple.com.akadns.net
 DOMAIN-SUFFIX,images.apple.com.edgekey.net.globalredir.akadns.net
 DOMAIN-SUFFIX,images.samsung.com
 DOMAIN-SUFFIX,imagestoryai.com
@@ -81857,7 +81850,6 @@ DOMAIN-SUFFIX,www.adobe.com
 DOMAIN-SUFFIX,www.amd.com
 DOMAIN-SUFFIX,www.analog.com
 DOMAIN-SUFFIX,www.apple.com
-DOMAIN-SUFFIX,www.apple.com.edgekey.net
 DOMAIN-SUFFIX,www.apple.com.edgekey.net.globalredir.akadns.net
 DOMAIN-SUFFIX,www.cc
 DOMAIN-SUFFIX,www.cg

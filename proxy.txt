@@ -1123,7 +1123,6 @@ ai-kan.net
 ai-wen.net
 ai.binwang.me
 ai.google
-ai.ytimg.com
 ai3sd.ac.uk
 ai7995.site
 ai91porn.cc
@@ -2160,7 +2159,6 @@ applelink.com
 applemagickeyboard.com
 applemalaysia.com.my
 applemasters.info
-applemdm.corp.google.com
 applemusic.berlin
 applemusic.co
 applemusic.com
@@ -4849,7 +4847,6 @@ borderlessprepaid.com
 bordersandborderlands.ac.uk
 borderscollege.ac.uk
 borgenmagazine.com
-borgmon.adz.google.com
 boringcompany.com
 borneo.world
 borneoasia.com
@@ -8239,7 +8236,6 @@ dndbeyond.com
 dnp
 dns-dns.com
 dns-stuff.com
-dns.corp.google.com
 dns.google
 dns.sb
 dns04.com
@@ -11386,7 +11382,6 @@ g0v.social
 g1.gstatic.com
 g2.gstatic.com
 g3.gstatic.com
-g3doc.corp.google.com
 g6hentai.com
 ga
 gab.com
@@ -11969,7 +11964,6 @@ gmodules.com
 gmoney.org
 gmozomg.izihost.org
 gmsa.ac.uk
-gmskiosk-ssl.corp.google.com
 gmx
 gn
 gnai-dh.sbs
@@ -12379,7 +12373,6 @@ gordonmoore.com
 goreforum.com
 goregrish.com
 gorin.jp
-gorom.corp.google.com
 gorseinon-bizcentre.ac.uk
 gorseinon.ac.uk
 gosc.ac.uk
@@ -12402,8 +12395,6 @@ gotdns.ch
 gotgayporn.com
 gotgeeks.com
 gothdporn.com
-goto.corp.google.com
-goto.google.com
 gotporn.com
 gotraffic.net
 gotrusted.com
@@ -22104,7 +22095,6 @@ platinumlinks.org
 play-asia.com
 play-bmm.shop
 play-bmmer.buzz
-play.1ucrs.com
 play4free.com
 playapex.com
 playartifact.com
@@ -23241,10 +23231,7 @@ rapidprototyping-cadcam.com
 rapidssl.com
 rapidvpn.com
 raponlinereview.com
-rapture-autopush.corp.google.com
 rapture-prod.corp.google.com
-rapture-test.corp.google.com
-rapture.corp.google.com
 raratutor.ac.uk
 rarbg.is
 rarbg.me
@@ -23548,7 +23535,6 @@ regionalhpc.ac.uk
 regionalsciencecentreoldham.ac.uk
 regionalvisions.ac.uk
 regiongold.com
-regioninfo-pa.googleapis.com
 registerhulu.com
 registeridm.com
 registry.google
@@ -24022,6 +24008,7 @@ saes.ac.uk
 saet.ac.uk
 safa.ac.uk
 safebooru.org
+safebrowsing-cache.google.com
 safebrowsing.googleapis.com
 safecampuscommunities.ac.uk
 safechat.com
@@ -24540,7 +24527,6 @@ sethwklein.net
 seti.ac.uk
 setn.com
 setsquared.ac.uk
-settings.xn--9trs65b.com
 settv.com.tw
 seven
 sevenload.com
@@ -25784,7 +25770,6 @@ ssees.ac.uk
 ssfc.ac.uk
 ssglobal.co
 ssglobal.me
-ssh-relay.corp.google.com
 ssh91.com
 sshm.ac.uk
 sshs.club
@@ -25864,7 +25849,6 @@ staffs.ac.uk
 stage64.hk
 staging-controlbe.floonet.goog
 staging-databe.floonet.goog
-staging-regioninfo-pa.googleapis.com
 staging.databe.floonet.goog
 stak.ac.uk
 stamford.ac.uk
@@ -26349,8 +26333,6 @@ supjav.com
 suppig.net
 supply-chain.ac.uk
 supplybestjerseys.com
-support.1ucrs.com
-supportcenter.corp.google.com
 supportfacebook.com
 supremacy.com
 supremacy.net
@@ -26763,7 +26745,6 @@ technics.com
 technologyandsociety.org
 techradar.com
 techspot.com
-techstop.corp.google.com
 techstreet.com
 techtimes.com
 techviz.net
@@ -26893,7 +26874,6 @@ test-ipv6.roedu.net
 test-ipv6.se
 test-ipv6.sin.vr.org
 test-ipv6.ttk.ru
-test.bugs-qa.chromium.org
 test.gbugs-qa.chromium.org
 testa.ac.uk
 testipv6.de
@@ -28118,15 +28098,9 @@ ubel-dtp.ac.uk
 uber-assets.com
 uber.com
 ubereats.com
-uberproxy-debug.corp.google.com
 uberproxy-debug4.corp.google.com
-uberproxy-pen-redirect.corp.google.com
-uberproxy-with-cn.l.google.com
-uberproxy-with-cn4.l.google.com
-uberproxy-with-cn6.l.google.com
 uberproxy.corp.google.com
 uberproxy.net
-uberproxy4.corp.google.com
 uberproxy6.corp.google.com
 ubi.com
 ubisoft.com
@@ -28872,7 +28846,6 @@ vetset2go.ac.uk
 vetvaccnet.ac.uk
 vevo.com
 vewas.net
-vext.corp.google.com
 vfabric.net
 vfsco.at
 vfsco.be
