@@ -6426,6 +6426,7 @@ DOMAIN-SUFFIX,chase.ac.uk
 DOMAIN-SUFFIX,chasestudy.ac.uk
 DOMAIN-SUFFIX,chat.com
 DOMAIN-SUFFIX,chat.lmsys.org
+DOMAIN-SUFFIX,chat.openai.com
 DOMAIN-SUFFIX,chatango.com
 DOMAIN-SUFFIX,chatgpt.com
 DOMAIN-SUFFIX,chatgpt.livekit.cloud
@@ -8494,9 +8495,6 @@ DOMAIN-SUFFIX,disquscdn.com
 DOMAIN-SUFFIX,disqusservice.com
 DOMAIN-SUFFIX,distillate.ac.uk
 DOMAIN-SUFFIX,distinct.ac.uk
-DOMAIN-SUFFIX,distribution.qatp1.net
-DOMAIN-SUFFIX,distribution.qcpp1.net
-DOMAIN-SUFFIX,distribution.qpdp1.net
 DOMAIN-SUFFIX,dit-inc.us
 DOMAIN-SUFFIX,divas.com.uy
 DOMAIN-SUFFIX,diversityuk.ac.uk
@@ -8719,8 +8717,6 @@ DOMAIN-SUFFIX,download.cnet.com
 DOMAIN-SUFFIX,download.com
 DOMAIN-SUFFIX,download.mlcc.google.com
 DOMAIN-SUFFIX,download.qatp1.net
-DOMAIN-SUFFIX,download.qcpp1.net
-DOMAIN-SUFFIX,download.qpdp1.net
 DOMAIN-SUFFIX,download.tensorflow.google.com
 DOMAIN-SUFFIX,downloadpass.com
 DOMAIN-SUFFIX,downloadsforipod.com
@@ -11087,10 +11083,8 @@ DOMAIN-SUFFIX,fonolia.com
 DOMAIN-SUFFIX,fontawesome.com
 DOMAIN-SUFFIX,fontbook.com
 DOMAIN-SUFFIX,fontexplorerx.com
-DOMAIN-SUFFIX,fontfiles.googleadapis.com
 DOMAIN-SUFFIX,fontfiles.googleapis.com
 DOMAIN-SUFFIX,fonts.com
-DOMAIN-SUFFIX,fonts.googleadapis.com
 DOMAIN-SUFFIX,fonts.googleapis.com
 DOMAIN-SUFFIX,fonts.gstatic.com
 DOMAIN-SUFFIX,fonts.net
@@ -12673,7 +12667,6 @@ DOMAIN-SUFFIX,googleoptimize.com
 DOMAIN-SUFFIX,googlepagecreator.com
 DOMAIN-SUFFIX,googlephotos.com
 DOMAIN-SUFFIX,googleplay.com
-DOMAIN-SUFFIX,googleplex.com
 DOMAIN-SUFFIX,googleplus.com
 DOMAIN-SUFFIX,googlescholar.com
 DOMAIN-SUFFIX,googlesile.com
@@ -19122,8 +19115,6 @@ DOMAIN-SUFFIX,mongodb.com
 DOMAIN-SUFFIX,mongodb.org
 DOMAIN-SUFFIX,monica.im
 DOMAIN-SUFFIX,monitorchina.org
-DOMAIN-SUFFIX,monitoring.qatp1.net
-DOMAIN-SUFFIX,monitoring.qcpp1.net
 DOMAIN-SUFFIX,monitoring.qpdp1.net
 DOMAIN-SUFFIX,monitrix.net
 DOMAIN-SUFFIX,monkwear.ac.uk
@@ -21437,6 +21428,7 @@ DOMAIN-SUFFIX,open
 DOMAIN-SUFFIX,open.ac.uk
 DOMAIN-SUFFIX,open.com.hk
 DOMAIN-SUFFIX,open.firstory.me
+DOMAIN-SUFFIX,open.spotify.com
 DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,openallweb.com
 DOMAIN-SUFFIX,openamt.com
@@ -23329,8 +23321,6 @@ DOMAIN-SUFFIX,qaa.ac.uk
 DOMAIN-SUFFIX,qac.ac.uk
 DOMAIN-SUFFIX,qacollege.ac.uk
 DOMAIN-SUFFIX,qagpublic.qatp1.net
-DOMAIN-SUFFIX,qagpublic.qcpp1.net
-DOMAIN-SUFFIX,qagpublic.qpdp1.net
 DOMAIN-SUFFIX,qanote.com
 DOMAIN-SUFFIX,qatarescortsvip.com
 DOMAIN-SUFFIX,qattdh.cc
@@ -23345,9 +23335,7 @@ DOMAIN-SUFFIX,qcmod.xyz
 DOMAIN-SUFFIX,qctconnect.com
 DOMAIN-SUFFIX,qdiehzz7.me
 DOMAIN-SUFFIX,qeliz.ac.uk
-DOMAIN-SUFFIX,qgadmin.qatp1.net
 DOMAIN-SUFFIX,qgadmin.qcpp1.net
-DOMAIN-SUFFIX,qgadmin.qpdp1.net
 DOMAIN-SUFFIX,qgirl.com.tw
 DOMAIN-SUFFIX,qhigh.com
 DOMAIN-SUFFIX,qi-gong.me
@@ -23425,10 +23413,6 @@ DOMAIN-SUFFIX,qualcommventures.com
 DOMAIN-SUFFIX,qualidata.ac.uk
 DOMAIN-SUFFIX,qualphone.com
 DOMAIN-SUFFIX,qualysapi.qatp1.net
-DOMAIN-SUFFIX,qualysapi.qcpp1.net
-DOMAIN-SUFFIX,qualysapi.qpdp1.net
-DOMAIN-SUFFIX,qualysguard.qatp1.net
-DOMAIN-SUFFIX,qualysguard.qcpp1.net
 DOMAIN-SUFFIX,qualysguard.qpdp1.net
 DOMAIN-SUFFIX,quanben-xiaoshuo.com
 DOMAIN-SUFFIX,quanben.io
@@ -24531,9 +24515,7 @@ DOMAIN-SUFFIX,scaleflex.com
 DOMAIN-SUFFIX,scaleform.com
 DOMAIN-SUFFIX,scandalplanet.com
 DOMAIN-SUFFIX,scanlover.com
-DOMAIN-SUFFIX,scanservice1.qatp1.net
 DOMAIN-SUFFIX,scanservice1.qcpp1.net
-DOMAIN-SUFFIX,scanservice1.qpdp1.net
 DOMAIN-SUFFIX,scapa.ac.uk
 DOMAIN-SUFFIX,scarb-6-form.ac.uk
 DOMAIN-SUFFIX,scarboroughtec.ac.uk
@@ -30749,7 +30731,6 @@ DOMAIN-SUFFIX,www.dwheeler.com
 DOMAIN-SUFFIX,www.eastturkistan.net
 DOMAIN-SUFFIX,www.gmiddle.com
 DOMAIN-SUFFIX,www.gmiddle.net
-DOMAIN-SUFFIX,www.googleadapis.com
 DOMAIN-SUFFIX,www.gstatic.com
 DOMAIN-SUFFIX,www.hustlercash.com
 DOMAIN-SUFFIX,www.idlcoyote.com

@@ -6091,6 +6091,7 @@ chase.ac.uk
 chasestudy.ac.uk
 chat.com
 chat.lmsys.org
+chat.openai.com
 chatango.com
 chatgpt.com
 chatgpt.livekit.cloud
@@ -8159,9 +8160,6 @@ disquscdn.com
 disqusservice.com
 distillate.ac.uk
 distinct.ac.uk
-distribution.qatp1.net
-distribution.qcpp1.net
-distribution.qpdp1.net
 dit-inc.us
 divas.com.uy
 diversityuk.ac.uk
@@ -8384,8 +8382,6 @@ download.cnet.com
 download.com
 download.mlcc.google.com
 download.qatp1.net
-download.qcpp1.net
-download.qpdp1.net
 download.tensorflow.google.com
 downloadpass.com
 downloadsforipod.com
@@ -10752,10 +10748,8 @@ fonolia.com
 fontawesome.com
 fontbook.com
 fontexplorerx.com
-fontfiles.googleadapis.com
 fontfiles.googleapis.com
 fonts.com
-fonts.googleadapis.com
 fonts.googleapis.com
 fonts.gstatic.com
 fonts.net
@@ -12338,7 +12332,6 @@ googleoptimize.com
 googlepagecreator.com
 googlephotos.com
 googleplay.com
-googleplex.com
 googleplus.com
 googlescholar.com
 googlesile.com
@@ -18787,8 +18780,6 @@ mongodb.com
 mongodb.org
 monica.im
 monitorchina.org
-monitoring.qatp1.net
-monitoring.qcpp1.net
 monitoring.qpdp1.net
 monitrix.net
 monkwear.ac.uk
@@ -21102,6 +21093,7 @@ open
 open.ac.uk
 open.com.hk
 open.firstory.me
+open.spotify.com
 openai.com
 openallweb.com
 openamt.com
@@ -22994,8 +22986,6 @@ qaa.ac.uk
 qac.ac.uk
 qacollege.ac.uk
 qagpublic.qatp1.net
-qagpublic.qcpp1.net
-qagpublic.qpdp1.net
 qanote.com
 qatarescortsvip.com
 qattdh.cc
@@ -23010,9 +23000,7 @@ qcmod.xyz
 qctconnect.com
 qdiehzz7.me
 qeliz.ac.uk
-qgadmin.qatp1.net
 qgadmin.qcpp1.net
-qgadmin.qpdp1.net
 qgirl.com.tw
 qhigh.com
 qi-gong.me
@@ -23090,10 +23078,6 @@ qualcommventures.com
 qualidata.ac.uk
 qualphone.com
 qualysapi.qatp1.net
-qualysapi.qcpp1.net
-qualysapi.qpdp1.net
-qualysguard.qatp1.net
-qualysguard.qcpp1.net
 qualysguard.qpdp1.net
 quanben-xiaoshuo.com
 quanben.io
@@ -24196,9 +24180,7 @@ scaleflex.com
 scaleform.com
 scandalplanet.com
 scanlover.com
-scanservice1.qatp1.net
 scanservice1.qcpp1.net
-scanservice1.qpdp1.net
 scapa.ac.uk
 scarb-6-form.ac.uk
 scarboroughtec.ac.uk
@@ -30414,7 +30396,6 @@ www.dwheeler.com
 www.eastturkistan.net
 www.gmiddle.com
 www.gmiddle.net
-www.googleadapis.com
 www.gstatic.com
 www.hustlercash.com
 www.idlcoyote.com
