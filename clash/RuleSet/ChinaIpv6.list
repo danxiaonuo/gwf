@@ -2006,6 +2006,7 @@ IP-CIDR6,2408:6000::/24,no-resolve
 IP-CIDR6,2408:8000::/22,no-resolve
 IP-CIDR6,2408:8400::/22,no-resolve
 IP-CIDR6,2408:8800::/21,no-resolve
+IP-CIDR6,2409:1000::/20,no-resolve
 IP-CIDR6,2409:2000::/21,no-resolve
 IP-CIDR6,2409:6000::/20,no-resolve
 IP-CIDR6,2409:8000::/20,no-resolve
