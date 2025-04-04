@@ -2660,6 +2660,7 @@ auricularesbeatsmarkt.com
 auroraoss.com
 ausbeatsbydrdre.com
 auspost
+auth.openai.com
 auth0.com
 authorizeddns.net
 authorizeddns.org
@@ -21131,6 +21132,7 @@ openart.ai
 opencollective.com
 opencreate.org
 opendemocracy.net
+opendesktop.org
 opendn.xyz
 opendns.com
 opendroneid.org
