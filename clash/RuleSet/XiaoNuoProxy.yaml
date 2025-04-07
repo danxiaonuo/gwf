@@ -25366,7 +25366,11 @@ payload:
   - DOMAIN-SUFFIX,sign.ac.uk
   - DOMAIN-SUFFIX,sign.new
   - DOMAIN-SUFFIX,signal.art
+  - DOMAIN-SUFFIX,signal.group
+  - DOMAIN-SUFFIX,signal.link
+  - DOMAIN-SUFFIX,signal.me
   - DOMAIN-SUFFIX,signal.org
+  - DOMAIN-SUFFIX,signal.tube
   - DOMAIN-SUFFIX,signalbar.com
   - DOMAIN-SUFFIX,signalprocessingsociety.org
   - DOMAIN-SUFFIX,signalr.net
