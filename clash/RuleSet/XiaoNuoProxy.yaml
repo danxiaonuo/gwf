@@ -2982,6 +2982,7 @@ payload:
   - DOMAIN-SUFFIX,audiencenetwork.tv
   - DOMAIN-SUFFIX,audiobeatsau.com
   - DOMAIN-SUFFIX,audiobeatsbydre.com
+  - DOMAIN-SUFFIX,audiomack.com
   - DOMAIN-SUFFIX,audiomonsterbeatsonline.com
   - DOMAIN-SUFFIX,aue.ac.uk
   - DOMAIN-SUFFIX,auee.ac.uk
@@ -24339,6 +24340,7 @@ payload:
   - DOMAIN-SUFFIX,s3-ap-southeast-1.amazonaws.com
   - DOMAIN-SUFFIX,s3-ap-southeast-2.amazonaws.com
   - DOMAIN-SUFFIX,s3.amazonaws.com
+  - DOMAIN-SUFFIX,s3.eu-central-1.amazonaws.com
   - DOMAIN-SUFFIX,s81c.com
   - DOMAIN-SUFFIX,s8ds5gfm.xyz
   - DOMAIN-SUFFIX,s8forum.com
