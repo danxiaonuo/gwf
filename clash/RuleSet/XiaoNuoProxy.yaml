@@ -13538,6 +13538,7 @@ payload:
   - DOMAIN-SUFFIX,hetzner.com
   - DOMAIN-SUFFIX,hetzner.company
   - DOMAIN-SUFFIX,hetzner.de
+  - DOMAIN-SUFFIX,hetzner.social
   - DOMAIN-SUFFIX,heungkongdiscuss.com
   - DOMAIN-SUFFIX,hew.ac.uk
   - DOMAIN-SUFFIX,hewit.ac.uk
