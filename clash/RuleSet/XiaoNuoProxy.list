@@ -512,6 +512,7 @@ DOMAIN-SUFFIX,1lib.education
 DOMAIN-SUFFIX,1lib.eu
 DOMAIN-SUFFIX,1lib.limited
 DOMAIN-SUFFIX,1lib.pl
+DOMAIN-SUFFIX,1lib.sk
 DOMAIN-SUFFIX,1lib.to
 DOMAIN-SUFFIX,1lib.tw
 DOMAIN-SUFFIX,1mobile.com
@@ -1478,7 +1479,6 @@ DOMAIN-SUFFIX,ai
 DOMAIN-SUFFIX,ai-kan.net
 DOMAIN-SUFFIX,ai-wen.net
 DOMAIN-SUFFIX,ai.binwang.me
-DOMAIN-SUFFIX,ai.google
 DOMAIN-SUFFIX,ai3sd.ac.uk
 DOMAIN-SUFFIX,ai7995.site
 DOMAIN-SUFFIX,ai91porn.cc
@@ -12332,6 +12332,7 @@ DOMAIN-SUFFIX,gmo
 DOMAIN-SUFFIX,gmodules.com
 DOMAIN-SUFFIX,gmoney.org
 DOMAIN-SUFFIX,gmozomg.izihost.org
+DOMAIN-SUFFIX,gmp4.com
 DOMAIN-SUFFIX,gmsa.ac.uk
 DOMAIN-SUFFIX,gmx
 DOMAIN-SUFFIX,gn
@@ -14439,6 +14440,7 @@ DOMAIN-SUFFIX,i-lab.ac.uk
 DOMAIN-SUFFIX,i-o-u.info
 DOMAIN-SUFFIX,i-part.com.tw
 DOMAIN-SUFFIX,i-scmp.com
+DOMAIN-SUFFIX,i.111666.best
 DOMAIN-SUFFIX,i.lithium.com
 DOMAIN-SUFFIX,i.org
 DOMAIN-SUFFIX,i1.hk
@@ -21400,6 +21402,7 @@ DOMAIN-SUFFIX,onapp.com
 DOMAIN-SUFFIX,onbeatsbydresale.com
 DOMAIN-SUFFIX,oncars.in
 DOMAIN-SUFFIX,one.one.one
+DOMAIN-SUFFIX,one.one.one.one
 DOMAIN-SUFFIX,one889.app
 DOMAIN-SUFFIX,oneapi.com
 DOMAIN-SUFFIX,onedinesfree.com
@@ -22495,6 +22498,7 @@ DOMAIN-SUFFIX,platinumlinks.org
 DOMAIN-SUFFIX,play-asia.com
 DOMAIN-SUFFIX,play-bmm.shop
 DOMAIN-SUFFIX,play-bmmer.buzz
+DOMAIN-SUFFIX,play.google
 DOMAIN-SUFFIX,play4free.com
 DOMAIN-SUFFIX,playapex.com
 DOMAIN-SUFFIX,playartifact.com
@@ -23330,6 +23334,7 @@ DOMAIN-SUFFIX,puppiesofourtime.ac.uk
 DOMAIN-SUFFIX,pure18.com
 DOMAIN-SUFFIX,pureapk.com
 DOMAIN-SUFFIX,pureconcepts.net
+DOMAIN-SUFFIX,puredns.org
 DOMAIN-SUFFIX,pureinsight.org
 DOMAIN-SUFFIX,purelov5.com
 DOMAIN-SUFFIX,purelyceleb.com
@@ -23440,6 +23445,7 @@ DOMAIN-SUFFIX,qmced.ac.uk
 DOMAIN-SUFFIX,qml.ac.uk
 DOMAIN-SUFFIX,qmov.com
 DOMAIN-SUFFIX,qmov.net
+DOMAIN-SUFFIX,qmp4.com
 DOMAIN-SUFFIX,qmpgmc.ac.uk
 DOMAIN-SUFFIX,qmttqg3k.me
 DOMAIN-SUFFIX,qmu.ac.uk
@@ -24285,6 +24291,7 @@ DOMAIN-SUFFIX,rthklive2-lh.akamaihd.net
 DOMAIN-SUFFIX,rti.org.tw
 DOMAIN-SUFFIX,rti.tw
 DOMAIN-SUFFIX,rtings.com
+DOMAIN-SUFFIX,rtm.tnt-ea.com
 DOMAIN-SUFFIX,rtycminnesota.org
 DOMAIN-SUFFIX,ru
 DOMAIN-SUFFIX,ru-moscow-1.myhuaweicloud.com
@@ -32168,9 +32175,14 @@ DOMAIN-SUFFIX,yyjlymb.xyz
 DOMAIN-SUFFIX,yysub.net
 DOMAIN-SUFFIX,yzld188.top
 DOMAIN-SUFFIX,yzzk.com
+DOMAIN-SUFFIX,z-lib.fm
+DOMAIN-SUFFIX,z-lib.fo
+DOMAIN-SUFFIX,z-lib.gd
+DOMAIN-SUFFIX,z-lib.gl
 DOMAIN-SUFFIX,z-lib.io
 DOMAIN-SUFFIX,z-lib.org
 DOMAIN-SUFFIX,z-library.se
+DOMAIN-SUFFIX,z-library.sk
 DOMAIN-SUFFIX,z00.world
 DOMAIN-SUFFIX,z18r.co
 DOMAIN-SUFFIX,z18r.com

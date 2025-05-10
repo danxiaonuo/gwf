@@ -177,6 +177,7 @@
 1lib.eu
 1lib.limited
 1lib.pl
+1lib.sk
 1lib.to
 1lib.tw
 1mobile.com
@@ -1143,7 +1144,6 @@ ai
 ai-kan.net
 ai-wen.net
 ai.binwang.me
-ai.google
 ai3sd.ac.uk
 ai7995.site
 ai91porn.cc
@@ -11997,6 +11997,7 @@ gmo
 gmodules.com
 gmoney.org
 gmozomg.izihost.org
+gmp4.com
 gmsa.ac.uk
 gmx
 gn
@@ -14104,6 +14105,7 @@ i-lab.ac.uk
 i-o-u.info
 i-part.com.tw
 i-scmp.com
+i.111666.best
 i.lithium.com
 i.org
 i1.hk
@@ -21065,6 +21067,7 @@ onapp.com
 onbeatsbydresale.com
 oncars.in
 one.one.one
+one.one.one.one
 one889.app
 oneapi.com
 onedinesfree.com
@@ -22160,6 +22163,7 @@ platinumlinks.org
 play-asia.com
 play-bmm.shop
 play-bmmer.buzz
+play.google
 play4free.com
 playapex.com
 playartifact.com
@@ -22995,6 +22999,7 @@ puppiesofourtime.ac.uk
 pure18.com
 pureapk.com
 pureconcepts.net
+puredns.org
 pureinsight.org
 purelov5.com
 purelyceleb.com
@@ -23105,6 +23110,7 @@ qmced.ac.uk
 qml.ac.uk
 qmov.com
 qmov.net
+qmp4.com
 qmpgmc.ac.uk
 qmttqg3k.me
 qmu.ac.uk
@@ -23950,6 +23956,7 @@ rthklive2-lh.akamaihd.net
 rti.org.tw
 rti.tw
 rtings.com
+rtm.tnt-ea.com
 rtycminnesota.org
 ru
 ru-moscow-1.myhuaweicloud.com
@@ -31833,9 +31840,14 @@ yyjlymb.xyz
 yysub.net
 yzld188.top
 yzzk.com
+z-lib.fm
+z-lib.fo
+z-lib.gd
+z-lib.gl
 z-lib.io
 z-lib.org
 z-library.se
+z-library.sk
 z00.world
 z18r.co
 z18r.com
