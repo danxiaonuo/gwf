@@ -1480,6 +1480,7 @@ payload:
   - DOMAIN-SUFFIX,ai-kan.net
   - DOMAIN-SUFFIX,ai-wen.net
   - DOMAIN-SUFFIX,ai.binwang.me
+  - DOMAIN-SUFFIX,ai.google
   - DOMAIN-SUFFIX,ai3sd.ac.uk
   - DOMAIN-SUFFIX,ai7995.site
   - DOMAIN-SUFFIX,ai91porn.cc
@@ -20616,6 +20617,7 @@ payload:
   - DOMAIN-SUFFIX,nikke-jp.com
   - DOMAIN-SUFFIX,nikke-kr.com
   - DOMAIN-SUFFIX,nikke-sea.com
+  - DOMAIN-SUFFIX,nikke.hotcool.tw
   - DOMAIN-SUFFIX,nikkei-cnbc.co.jp
   - DOMAIN-SUFFIX,nikkei.co.jp
   - DOMAIN-SUFFIX,nikkei.com
@@ -20805,6 +20807,7 @@ payload:
   - DOMAIN-SUFFIX,norton
   - DOMAIN-SUFFIX,norwichresearchpark.ac.uk
   - DOMAIN-SUFFIX,nos.nl
+  - DOMAIN-SUFFIX,notebooklm.google
   - DOMAIN-SUFFIX,notepad-plus-plus.org
   - DOMAIN-SUFFIX,notion-static.com
   - DOMAIN-SUFFIX,notion.com
