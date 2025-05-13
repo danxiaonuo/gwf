@@ -6348,6 +6348,7 @@ IP-CIDR,163.227.80.0/23,no-resolve
 IP-CIDR,163.228.0.0/16,no-resolve
 IP-CIDR,164.52.0.0/17,no-resolve
 IP-CIDR,165.99.4.0/24,no-resolve
+IP-CIDR,165.99.42.0/23,no-resolve
 IP-CIDR,166.111.0.0/16,no-resolve
 IP-CIDR,167.139.0.0/16,no-resolve
 IP-CIDR,167.189.0.0/16,no-resolve
