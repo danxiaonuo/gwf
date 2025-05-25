@@ -2263,7 +2263,6 @@ payload:
   - DOMAIN-SUFFIX,api-verify.recaptcha.net
   - DOMAIN-SUFFIX,api.ai
   - DOMAIN-SUFFIX,api.linksalpha.com
-  - DOMAIN-SUFFIX,api.nebula-emby.com
   - DOMAIN-SUFFIX,api.news
   - DOMAIN-SUFFIX,api.pureapk.com
   - DOMAIN-SUFFIX,api.recaptcha.net
@@ -14501,7 +14500,16 @@ payload:
   - DOMAIN-SUFFIX,ibiblio.org
   - DOMAIN-SUFFIX,ibis.ac.uk
   - DOMAIN-SUFFIX,ibit.am
+  - DOMAIN-SUFFIX,ibkr.ca
+  - DOMAIN-SUFFIX,ibkr.co.in
+  - DOMAIN-SUFFIX,ibkr.co.uk
   - DOMAIN-SUFFIX,ibkr.com
+  - DOMAIN-SUFFIX,ibkr.com.au
+  - DOMAIN-SUFFIX,ibkr.com.hk
+  - DOMAIN-SUFFIX,ibkr.com.sg
+  - DOMAIN-SUFFIX,ibkr.eu
+  - DOMAIN-SUFFIX,ibkr.ie
+  - DOMAIN-SUFFIX,ibkrguides.com
   - DOMAIN-SUFFIX,iblist.com
   - DOMAIN-SUFFIX,ibllc.com
   - DOMAIN-SUFFIX,iblogserv-f.net
@@ -19384,6 +19392,7 @@ payload:
   - DOMAIN-SUFFIX,mr
   - DOMAIN-SUFFIX,mr-apple.com.tw
   - DOMAIN-SUFFIX,mr-tireman.jp
+  - DOMAIN-SUFFIX,mradx.net
   - DOMAIN-SUFFIX,mray.club
   - DOMAIN-SUFFIX,mrbasic.com
   - DOMAIN-SUFFIX,mrbdsm.com
@@ -24227,6 +24236,7 @@ payload:
   - DOMAIN-SUFFIX,rosetta.ac.uk
   - DOMAIN-SUFFIX,roshy.tv
   - DOMAIN-SUFFIX,roslin.ac.uk
+  - DOMAIN-SUFFIX,rostaxi.org
   - DOMAIN-SUFFIX,rothamsted.ac.uk
   - DOMAIN-SUFFIX,rotherham-coll.ac.uk
   - DOMAIN-SUFFIX,rotherham.ac.uk
@@ -29660,6 +29670,7 @@ payload:
   - DOMAIN-SUFFIX,vizvaz.com
   - DOMAIN-SUFFIX,vjav.com
   - DOMAIN-SUFFIX,vjmedia.com.hk
+  - DOMAIN-SUFFIX,vk-analytics.ru
   - DOMAIN-SUFFIX,vk-apps.com
   - DOMAIN-SUFFIX,vk-apps.ru
   - DOMAIN-SUFFIX,vk-cdn.me
@@ -30230,7 +30241,6 @@ payload:
   - DOMAIN-SUFFIX,web-instagram.net
   - DOMAIN-SUFFIX,web.app
   - DOMAIN-SUFFIX,web.dev
-  - DOMAIN-SUFFIX,web.nebula-emby.com
   - DOMAIN-SUFFIX,web2project.net
   - DOMAIN-SUFFIX,webappfieldguide.com
   - DOMAIN-SUFFIX,webbang.net
@@ -31762,6 +31772,8 @@ payload:
   - DOMAIN-SUFFIX,yamoon.club
   - DOMAIN-SUFFIX,yande.re
   - DOMAIN-SUFFIX,yandex
+  - DOMAIN-SUFFIX,yandex-bank.net
+  - DOMAIN-SUFFIX,yandex-images.clstorage.net
   - DOMAIN-SUFFIX,yandex.aero
   - DOMAIN-SUFFIX,yandex.az
   - DOMAIN-SUFFIX,yandex.by
@@ -31793,7 +31805,10 @@ payload:
   - DOMAIN-SUFFIX,yandex.tm
   - DOMAIN-SUFFIX,yandex.ua
   - DOMAIN-SUFFIX,yandex.uz
+  - DOMAIN-SUFFIX,yandexadexchange.net
   - DOMAIN-SUFFIX,yandexcloud.net
+  - DOMAIN-SUFFIX,yandexcom.net
+  - DOMAIN-SUFFIX,yandexwebcache.org
   - DOMAIN-SUFFIX,yanghengjun.com
   - DOMAIN-SUFFIX,yangjianli.com
   - DOMAIN-SUFFIX,yantaqu.com
