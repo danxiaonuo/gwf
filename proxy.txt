@@ -7679,6 +7679,7 @@ den.ac.uk
 dengeamerika.com
 dengiamerika.com
 deno.com
+deno.dev
 deno.land
 dentalhypotheses.com
 dentalschoolscouncil.ac.uk
@@ -8188,6 +8189,7 @@ dockerstatic.com
 docleradn.com
 doclercdn.com
 docs.com
+docs.deno.com
 docs.new
 docs.rs
 doctor-videos.com
@@ -11191,6 +11193,7 @@ furbo.org
 furhhdl.org
 furinkan.com
 furness.ac.uk
+furrybar.com
 furrypornvideos.com
 furuke.com
 fury.blog
