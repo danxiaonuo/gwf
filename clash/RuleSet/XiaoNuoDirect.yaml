@@ -71842,8 +71842,6 @@ payload:
   - DOMAIN-SUFFIX,mypian.com
   - DOMAIN-SUFFIX,mypiao.com
   - DOMAIN-SUFFIX,mypiaojia.com
-  - DOMAIN-SUFFIX,mypikpak.com
-  - DOMAIN-SUFFIX,mypikpak.net
   - DOMAIN-SUFFIX,mypitaya.com
   - DOMAIN-SUFFIX,mypity.com
   - DOMAIN-SUFFIX,mypiwik.com
@@ -72110,7 +72108,6 @@ payload:
   - DOMAIN-SUFFIX,naiveadmin.com
   - DOMAIN-SUFFIX,naiveblue.com
   - DOMAIN-SUFFIX,naiwch.com
-  - DOMAIN-SUFFIX,naixi.net
   - DOMAIN-SUFFIX,naixuecha.com
   - DOMAIN-SUFFIX,naiyouxuexi.com
   - DOMAIN-SUFFIX,najingtech.com
@@ -97986,7 +97983,6 @@ payload:
   - DOMAIN-SUFFIX,ustbtc.com
   - DOMAIN-SUFFIX,ustc.edu
   - DOMAIN-SUFFIX,ustcers.com
-  - DOMAIN-SUFFIX,ustclug.org
   - DOMAIN-SUFFIX,ustui.com
   - DOMAIN-SUFFIX,usuredata.com
   - DOMAIN-SUFFIX,usuuu.com
@@ -105252,7 +105248,6 @@ payload:
   - DOMAIN-SUFFIX,xiaomeiti.com
   - DOMAIN-SUFFIX,xiaomeng1235.com
   - DOMAIN-SUFFIX,xiaomi.com
-  - DOMAIN-SUFFIX,xiaomi.eu
   - DOMAIN-SUFFIX,xiaomi.hk
   - DOMAIN-SUFFIX,xiaomi.net
   - DOMAIN-SUFFIX,xiaomi.org
@@ -107038,6 +107033,7 @@ payload:
   - DOMAIN-SUFFIX,xn--54q23ckxiyx0e.com
   - DOMAIN-SUFFIX,xn--54q249denfzw9a.net
   - DOMAIN-SUFFIX,xn--54q40czz0g7xp.com
+  - DOMAIN-SUFFIX,xn--55qw42g
   - DOMAIN-SUFFIX,xn--55qw7biqf7g3d004h8yuw1ctrt04sep1cjfb.com
   - DOMAIN-SUFFIX,xn--55qwa79fh6ku8czve.com
   - DOMAIN-SUFFIX,xn--55qx2ag79c1iq.com
