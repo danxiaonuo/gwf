@@ -25925,7 +25925,6 @@ payload:
   - DOMAIN-SUFFIX,copl.com.hk
   - DOMAIN-SUFFIX,copperalliance.asia
   - DOMAIN-SUFFIX,copperhome.net
-  - DOMAIN-SUFFIX,copy-manga.com
   - DOMAIN-SUFFIX,copyedu.com
   - DOMAIN-SUFFIX,copyfuture.com
   - DOMAIN-SUFFIX,copyswisswatches.com
@@ -29427,6 +29426,7 @@ payload:
   - DOMAIN-SUFFIX,delixidrive.com
   - DOMAIN-SUFFIX,deliyun.com
   - DOMAIN-SUFFIX,dell-alw.com
+  - DOMAIN-SUFFIX,dell-brand.com
   - DOMAIN-SUFFIX,dell027.com
   - DOMAIN-SUFFIX,dellecs.com
   - DOMAIN-SUFFIX,dellemc-solution.com
@@ -37496,6 +37496,7 @@ payload:
   - DOMAIN-SUFFIX,functionads.com
   - DOMAIN-SUFFIX,functionaltextilesshanghai.com
   - DOMAIN-SUFFIX,functioncool.com
+  - DOMAIN-SUFFIX,functiongraph.run
   - DOMAIN-SUFFIX,fund001.com
   - DOMAIN-SUFFIX,fundebug.com
   - DOMAIN-SUFFIX,fundebug.net
@@ -68196,9 +68197,7 @@ payload:
   - DOMAIN-SUFFIX,manfen5.com
   - DOMAIN-SUFFIX,manfred-auto.com
   - DOMAIN-SUFFIX,manfrottoclub.com
-  - DOMAIN-SUFFIX,mangacopy.com
   - DOMAIN-SUFFIX,mangafuna.xyz
-  - DOMAIN-SUFFIX,mangafunb.fun
   - DOMAIN-SUFFIX,manganesenanhai.com
   - DOMAIN-SUFFIX,mangg.com
   - DOMAIN-SUFFIX,mangguo.com
@@ -77720,6 +77719,7 @@ payload:
   - DOMAIN-SUFFIX,plateno.com
   - DOMAIN-SUFFIX,platenogroup.com
   - DOMAIN-SUFFIX,platform-cn.com
+  - DOMAIN-SUFFIX,platform.dell.com
   - DOMAIN-SUFFIX,platinum-traveller.com
   - DOMAIN-SUFFIX,platinumchina.com
   - DOMAIN-SUFFIX,play-analytics.com
@@ -82640,6 +82640,7 @@ payload:
   - DOMAIN-SUFFIX,robam.com
   - DOMAIN-SUFFIX,robei.com
   - DOMAIN-SUFFIX,roboeyeai.com
+  - DOMAIN-SUFFIX,robomaster.com
   - DOMAIN-SUFFIX,roboo.com
   - DOMAIN-SUFFIX,robook.com
   - DOMAIN-SUFFIX,robopeak.net
@@ -103447,7 +103448,6 @@ payload:
   - DOMAIN-SUFFIX,www.apple.com.edgekey.net.globalredir.akadns.net
   - DOMAIN-SUFFIX,www.cg
   - DOMAIN-SUFFIX,www.com.my
-  - DOMAIN-SUFFIX,www.dell-brand.com
   - DOMAIN-SUFFIX,www.dell.com
   - DOMAIN-SUFFIX,www.djivideos.com
   - DOMAIN-SUFFIX,www.gov.mo
