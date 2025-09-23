@@ -2286,6 +2286,7 @@ payload:
   - DOMAIN-SUFFIX,api-verify.recaptcha.net
   - DOMAIN-SUFFIX,api.ai
   - DOMAIN-SUFFIX,api.news
+  - DOMAIN-SUFFIX,api.palworldgame.com
   - DOMAIN-SUFFIX,api.pureapk.com
   - DOMAIN-SUFFIX,api.recaptcha.net
   - DOMAIN-SUFFIX,api.steampowered.com
@@ -21212,6 +21213,7 @@ payload:
   - DOMAIN-SUFFIX,ocsp-responder.com
   - DOMAIN-SUFFIX,ocsp.pki.goog
   - DOMAIN-SUFFIX,october-review.org
+  - DOMAIN-SUFFIX,octocaptcha.com
   - DOMAIN-SUFFIX,ocul.us
   - DOMAIN-SUFFIX,oculus-china.com
   - DOMAIN-SUFFIX,oculus.com
