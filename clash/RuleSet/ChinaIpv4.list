@@ -1810,6 +1810,7 @@ IP-CIDR,113.200.0.0/15,no-resolve
 IP-CIDR,113.204.0.0/14,no-resolve
 IP-CIDR,113.208.112.0/21,no-resolve
 IP-CIDR,113.209.128.0/17,no-resolve
+IP-CIDR,113.213.0.0/18,no-resolve
 IP-CIDR,113.213.64.0/19,no-resolve
 IP-CIDR,113.213.96.0/20,no-resolve
 IP-CIDR,113.214.0.0/15,no-resolve
