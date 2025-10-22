@@ -8352,6 +8352,7 @@ payload:
   - DOMAIN-SUFFIX,deviantclip.com
   - DOMAIN-SUFFIX,device-manager.us
   - DOMAIN-SUFFIX,devilsfilm.com
+  - DOMAIN-SUFFIX,devin.ai
   - DOMAIN-SUFFIX,devio.us
   - DOMAIN-SUFFIX,devm2m.com
   - DOMAIN-SUFFIX,devolution.ac.uk
@@ -8757,6 +8758,7 @@ payload:
   - DOMAIN-SUFFIX,docker.io
   - DOMAIN-SUFFIX,dockerizer.com
   - DOMAIN-SUFFIX,dockerstatic.com
+  - DOMAIN-SUFFIX,dockerstatus.com
   - DOMAIN-SUFFIX,docleradn.com
   - DOMAIN-SUFFIX,doclercdn.com
   - DOMAIN-SUFFIX,docs.com
@@ -16609,6 +16611,7 @@ payload:
   - DOMAIN-SUFFIX,kinmen.org.tw
   - DOMAIN-SUFFIX,kinmen.travel
   - DOMAIN-SUFFIX,kinokuniya.com
+  - DOMAIN-SUFFIX,kinopoisk.ru
   - DOMAIN-SUFFIX,kir.jp
   - DOMAIN-SUFFIX,kir2kos.net
   - DOMAIN-SUFFIX,kirbysepicyarn.com
@@ -26503,6 +26506,7 @@ payload:
   - DOMAIN-SUFFIX,straightouttasomewhere.com
   - DOMAIN-SUFFIX,straightpornstuds.com
   - DOMAIN-SUFFIX,straitstimes.com
+  - DOMAIN-SUFFIX,straitsx.com
   - DOMAIN-SUFFIX,stran.ac.uk
   - DOMAIN-SUFFIX,stranabg.com
   - DOMAIN-SUFFIX,straplessdildo.com
@@ -27440,6 +27444,7 @@ payload:
   - DOMAIN-SUFFIX,thepaypalshop.com
   - DOMAIN-SUFFIX,thepervs.com
   - DOMAIN-SUFFIX,thepiratebay.org
+  - DOMAIN-SUFFIX,thepoizon.ru
   - DOMAIN-SUFFIX,theporn.cc
   - DOMAIN-SUFFIX,thepornarea.com
   - DOMAIN-SUFFIX,thepornbest.com
@@ -30035,6 +30040,7 @@ payload:
   - DOMAIN-SUFFIX,wariolandshakeit.com
   - DOMAIN-SUFFIX,wariowarediy.com
   - DOMAIN-SUFFIX,warkscol.ac.uk
+  - DOMAIN-SUFFIX,warnerbrosgames.com
   - DOMAIN-SUFFIX,warp.plus
   - DOMAIN-SUFFIX,warr.ac.uk
   - DOMAIN-SUFFIX,warrington.ac.uk
@@ -30081,9 +30087,12 @@ payload:
   - DOMAIN-SUFFIX,waybig.com
   - DOMAIN-SUFFIX,waymo.com
   - DOMAIN-SUFFIX,waze.com
+  - DOMAIN-SUFFIX,wbagora.com
   - DOMAIN-SUFFIX,wballiance.com
   - DOMAIN-SUFFIX,wbd.ms
   - DOMAIN-SUFFIX,wbdnbo.net
+  - DOMAIN-SUFFIX,wbgames.com
+  - DOMAIN-SUFFIX,wbinsights.com
   - DOMAIN-SUFFIX,wbrks.com
   - DOMAIN-SUFFIX,wbs.ac.uk
   - DOMAIN-SUFFIX,wbvm4s.com
