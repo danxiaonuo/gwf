@@ -20302,6 +20302,7 @@ payload:
   - DOMAIN-SUFFIX,ceyice.net
   - DOMAIN-SUFFIX,ceyige.com
   - DOMAIN-SUFFIX,cezhu.net
+  - DOMAIN-SUFFIX,cf-china.info
   - DOMAIN-SUFFIX,cf-ns.com
   - DOMAIN-SUFFIX,cf-ns.net
   - DOMAIN-SUFFIX,cf-ns.site
@@ -28726,7 +28727,6 @@ payload:
   - DOMAIN-SUFFIX,deepfast.com
   - DOMAIN-SUFFIX,deepin-ai.com
   - DOMAIN-SUFFIX,deepin.com
-  - DOMAIN-SUFFIX,deepin.io
   - DOMAIN-SUFFIX,deepin.org
   - DOMAIN-SUFFIX,deepinghost.com
   - DOMAIN-SUFFIX,deepinmind.com
@@ -63716,6 +63716,7 @@ payload:
   - DOMAIN-SUFFIX,linglingkaimen.com
   - DOMAIN-SUFFIX,linglingmo.site
   - DOMAIN-SUFFIX,linglong.dev
+  - DOMAIN-SUFFIX,linglong.space
   - DOMAIN-SUFFIX,linglongart.com
   - DOMAIN-SUFFIX,linglonglife.com
   - DOMAIN-SUFFIX,linglongtech.com
