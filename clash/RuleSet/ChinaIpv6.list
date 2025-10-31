@@ -448,6 +448,8 @@ IP-CIDR6,2406:840:fc40::/42,no-resolve
 IP-CIDR6,2406:840:fc80::/42,no-resolve
 IP-CIDR6,2406:840:fcc0::/44,no-resolve
 IP-CIDR6,2406:840:fcd0::/48,no-resolve
+IP-CIDR6,2406:840:fcf0::/46,no-resolve
+IP-CIDR6,2406:840:fcf4::/47,no-resolve
 IP-CIDR6,2406:840:fd40::/42,no-resolve
 IP-CIDR6,2406:840:fd80::/44,no-resolve
 IP-CIDR6,2406:840:fd9f::/48,no-resolve
@@ -473,6 +475,7 @@ IP-CIDR6,2406:840:feca::/47,no-resolve
 IP-CIDR6,2406:840:fecc::/47,no-resolve
 IP-CIDR6,2406:840:fecf::/48,no-resolve
 IP-CIDR6,2406:840:fed1::/48,no-resolve
+IP-CIDR6,2406:840:fed6::/48,no-resolve
 IP-CIDR6,2406:840:fed8::/48,no-resolve
 IP-CIDR6,2406:840:fedb::/48,no-resolve
 IP-CIDR6,2406:840:fedc::/48,no-resolve
@@ -1195,18 +1198,7 @@ IP-CIDR6,240a:42e0::/28,no-resolve
 IP-CIDR6,240a:42f0::/29,no-resolve
 IP-CIDR6,240a:42f8::/30,no-resolve
 IP-CIDR6,240a:6001::/48,no-resolve
-IP-CIDR6,240a:a000::/21,no-resolve
-IP-CIDR6,240a:a800::/24,no-resolve
-IP-CIDR6,240a:a900::/26,no-resolve
-IP-CIDR6,240a:a940::/27,no-resolve
-IP-CIDR6,240a:a960::/29,no-resolve
-IP-CIDR6,240a:a968::/32,no-resolve
-IP-CIDR6,240a:a96a::/31,no-resolve
-IP-CIDR6,240a:a96c::/30,no-resolve
-IP-CIDR6,240a:a970::/28,no-resolve
-IP-CIDR6,240a:a980::/25,no-resolve
-IP-CIDR6,240a:aa00::/23,no-resolve
-IP-CIDR6,240a:ac00::/22,no-resolve
+IP-CIDR6,240a:a000::/20,no-resolve
 IP-CIDR6,240a:c000::/20,no-resolve
 IP-CIDR6,240b:e001::/32,no-resolve
 IP-CIDR6,240b:e002::/31,no-resolve
@@ -1284,7 +1276,8 @@ IP-CIDR6,2a06:1180:1000::/48,no-resolve
 IP-CIDR6,2a06:1281:8000::/36,no-resolve
 IP-CIDR6,2a06:3603::/32,no-resolve
 IP-CIDR6,2a06:3604::/30,no-resolve
-IP-CIDR6,2a06:9f81:4600::/42,no-resolve
+IP-CIDR6,2a06:9f81:4600::/43,no-resolve
+IP-CIDR6,2a06:9f81:4620::/44,no-resolve
 IP-CIDR6,2a06:9f81:4640::/43,no-resolve
 IP-CIDR6,2a06:a005:260::/43,no-resolve
 IP-CIDR6,2a06:a005:280::/43,no-resolve
@@ -1421,7 +1414,7 @@ IP-CIDR6,2a13:a5c7:3108::/48,no-resolve
 IP-CIDR6,2a13:a5c7:31a0::/43,no-resolve
 IP-CIDR6,2a13:a5c7:3301::/48,no-resolve
 IP-CIDR6,2a13:a5c7:3304::/48,no-resolve
-IP-CIDR6,2a13:a5c7:3306::/48,no-resolve
+IP-CIDR6,2a13:a5c7:3306::/47,no-resolve
 IP-CIDR6,2a13:aac4:f000::/44,no-resolve
 IP-CIDR6,2a14:7c0:4a01::/48,no-resolve
 IP-CIDR6,2a14:7c0:5103::/48,no-resolve
