@@ -5,6 +5,8 @@ curl -s -m 3 --retry-delay 3 --retry 3 -k -4 --header 'cache-control: no-cache' 
 curl -s -m 3 --retry-delay 3 --retry 3 -k -4 --header 'cache-control: no-cache' --url 'https://purge.jsdelivr.net/gh/danxiaonuo/gwf/ip/ChinaIpv6.txt'
 curl -s -m 3 --retry-delay 3 --retry 3 -k -4 --header 'cache-control: no-cache' --url 'https://purge.jsdelivr.net/gh/danxiaonuo/gwf/smartdns/smartdns_gfw_domain.conf'
 curl -s -m 3 --retry-delay 3 --retry 3 -k -4 --header 'cache-control: no-cache' --url 'https://purge.jsdelivr.net/gh/danxiaonuo/gwf/smartdns/smartdns_xiaonuo_domain.conf'
+curl -s -m 3 --retry-delay 3 --retry 3 -k -4 --header 'cache-control: no-cache' --url 'https://purge.jsdelivr.net/gh/danxiaonuo/gwf/smartdns/smartdns_gfw_domain_list.conf'
+curl -s -m 3 --retry-delay 3 --retry 3 -k -4 --header 'cache-control: no-cache' --url 'https://purge.jsdelivr.net/gh/danxiaonuo/gwf/smartdns/smartdns_xiaonuo_domain_list.conf'
 curl -s -m 3 --retry-delay 3 --retry 3 -k -4 --header 'cache-control: no-cache' --url 'https://purge.jsdelivr.net/gh/danxiaonuo/gwf/Country.mmdb'
 curl -s -m 3 --retry-delay 3 --retry 3 -k -4 --header 'cache-control: no-cache' --url 'https://purge.jsdelivr.net/gh/danxiaonuo/gwf/chatgpt/chatgpt_token.txt'
 
