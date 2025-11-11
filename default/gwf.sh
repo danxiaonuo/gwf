@@ -47,6 +47,7 @@ sed -i '/,cn$/d' clash/RuleSet/XiaoNuoDirect.yaml
 # smartdns
 mkdir -p smartdns
 cat direct.txt | perl -ne '/([-_a-zA-Z0-9]+(\.[-_a-zA-Z0-9]+)*)/ && print "nameserver /.$1/xiaonuo\n"' | sed "s/|/'/g" > smartdns/smartdns_xiaonuo_domain.conf
+cat direct.txt | perl -ne '/([-_a-zA-Z0-9]+(\.[-_a-zA-Z0-9]+)*)/ && print "$1\n"' | sed "s/|/'/g" > smartdns/smartdns_xiaonuo_domain_list.conf
 
 # 代理域名
 # proxy
@@ -80,6 +81,7 @@ cat clash/RuleSet/XiaoNuoReject.yaml.tmp > clash/RuleSet/XiaoNuoReject.yaml
 # smartdns
 mkdir -p smartdns
 cat proxy.txt | perl -ne '/([-_a-zA-Z0-9]+(\.[-_a-zA-Z0-9]+)*)/ && print "nameserver /.$1/gwf\n"' | sed "s/|/'/g" > smartdns/smartdns_gfw_domain.conf
+cat proxy.txt | perl -ne '/([-_a-zA-Z0-9]+(\.[-_a-zA-Z0-9]+)*)/ && print "$1\n"' | sed "s/|/'/g" > smartdns/smartdns_gfw_domain_list.conf
 
 # MMDB库
 curl -L -s -m 3 --retry-delay 3 --retry 3 -k -4 --header 'cache-control: no-cache' --url 'https://github.com/MetaCubeX/meta-rules-dat/releases/download/latest/country.mmdb' -O country.mmdb
