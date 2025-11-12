@@ -1396,6 +1396,8 @@ payload:
   - DOMAIN-SUFFIX,afappyending.com
   - DOMAIN-SUFFIX,afewmomentswith.com
   - DOMAIN-SUFFIX,affect3dstore.com
+  - DOMAIN-SUFFIX,affinity.api.serifservices.com
+  - DOMAIN-SUFFIX,affinity.studio
   - DOMAIN-SUFFIX,affirmtrust.com
   - DOMAIN-SUFFIX,afi.ac.uk
   - DOMAIN-SUFFIX,afkv28.com
@@ -3687,6 +3689,7 @@ payload:
   - DOMAIN-SUFFIX,bctcs.ac.uk
   - DOMAIN-SUFFIX,bcu.ac.uk
   - DOMAIN-SUFFIX,bcuc.ac.uk
+  - DOMAIN-SUFFIX,bcvcdn.com
   - DOMAIN-SUFFIX,bcvp0rtal.com
   - DOMAIN-SUFFIX,bcy01.com
   - DOMAIN-SUFFIX,bd
@@ -4187,6 +4190,7 @@ payload:
   - DOMAIN-SUFFIX,bftv.ac.uk
   - DOMAIN-SUFFIX,bg
   - DOMAIN-SUFFIX,bgc.ac.uk
+  - DOMAIN-SUFFIX,bgicdn.com
   - DOMAIN-SUFFIX,bgm.tv
   - DOMAIN-SUFFIX,bgme.me
   - DOMAIN-SUFFIX,bgov.com
@@ -6012,6 +6016,7 @@ payload:
   - DOMAIN-SUFFIX,canterbury.ac.uk
   - DOMAIN-SUFFIX,canterburycollege.ac.uk
   - DOMAIN-SUFFIX,canterburytrust.ac.uk
+  - DOMAIN-SUFFIX,canva.com
   - DOMAIN-SUFFIX,canyu.org
   - DOMAIN-SUFFIX,caobian.info
   - DOMAIN-SUFFIX,caochangqing.com
@@ -20184,6 +20189,7 @@ payload:
   - DOMAIN-SUFFIX,neodaas.ac.uk
   - DOMAIN-SUFFIX,neonatalsociety.ac.uk
   - DOMAIN-SUFFIX,neotokyo.supertop-100.com
+  - DOMAIN-SUFFIX,neovim.io
   - DOMAIN-SUFFIX,neow.in
   - DOMAIN-SUFFIX,neowin.net
   - DOMAIN-SUFFIX,nerap.ac.uk
@@ -32264,6 +32270,7 @@ payload:
   - DOMAIN-SUFFIX,zeit.sh
   - DOMAIN-SUFFIX,zeitworld.com
   - DOMAIN-SUFFIX,zello.com
+  - DOMAIN-SUFFIX,zen-browser.app
   - DOMAIN-SUFFIX,zen8ok.xyz
   - DOMAIN-SUFFIX,zencdn.net
   - DOMAIN-SUFFIX,zencoder.com
