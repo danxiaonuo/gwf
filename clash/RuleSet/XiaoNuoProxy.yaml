@@ -1118,6 +1118,7 @@ payload:
   - DOMAIN-SUFFIX,addyoutube.com
   - DOMAIN-SUFFIX,adelaidebbs.com
   - DOMAIN-SUFFIX,adelaidenow.com.au
+  - DOMAIN-SUFFIX,adfox.ru
   - DOMAIN-SUFFIX,adgoogle.net
   - DOMAIN-SUFFIX,adguard-dns.com
   - DOMAIN-SUFFIX,adguard-dns.io
@@ -1152,6 +1153,7 @@ payload:
   - DOMAIN-SUFFIX,adidas.se
   - DOMAIN-SUFFIX,adinst.com
   - DOMAIN-SUFFIX,admeld.com
+  - DOMAIN-SUFFIX,admetrica.ru
   - DOMAIN-SUFFIX,admin.recaptcha.net
   - DOMAIN-SUFFIX,admob-cn.com
   - DOMAIN-SUFFIX,admob.com
@@ -11499,6 +11501,7 @@ payload:
   - DOMAIN-SUFFIX,heyzo.com
   - DOMAIN-SUFFIX,hf-iphone.com
   - DOMAIN-SUFFIX,hf.co
+  - DOMAIN-SUFFIX,hf.space
   - DOMAIN-SUFFIX,hg.cool
   - DOMAIN-SUFFIX,hgamer.pro
   - DOMAIN-SUFFIX,hgseav.com
@@ -14167,6 +14170,7 @@ payload:
   - DOMAIN-SUFFIX,kinmen.org.tw
   - DOMAIN-SUFFIX,kinmen.travel
   - DOMAIN-SUFFIX,kinokuniya.com
+  - DOMAIN-SUFFIX,kinopoisk-ru.clstorage.net
   - DOMAIN-SUFFIX,kinopoisk.ru
   - DOMAIN-SUFFIX,kir.jp
   - DOMAIN-SUFFIX,kir2kos.net
@@ -16797,6 +16801,7 @@ payload:
   - DOMAIN-SUFFIX,namethatpornad.com
   - DOMAIN-SUFFIX,namgyal.org
   - DOMAIN-SUFFIX,namgyalmonastery.org
+  - DOMAIN-SUFFIX,namu.wiki
   - DOMAIN-SUFFIX,nan-net.com
   - DOMAIN-SUFFIX,nanopool.org
   - DOMAIN-SUFFIX,nantobank.co.jp
@@ -18694,6 +18699,7 @@ payload:
   - DOMAIN-SUFFIX,picpost.com
   - DOMAIN-SUFFIX,pics.ee
   - DOMAIN-SUFFIX,pics.vc
+  - DOMAIN-SUFFIX,picsart.com
   - DOMAIN-SUFFIX,picsee.co
   - DOMAIN-SUFFIX,picsee.pro
   - DOMAIN-SUFFIX,pictet
@@ -25039,6 +25045,8 @@ payload:
   - DOMAIN-SUFFIX,webtoons.com
   - DOMAIN-SUFFIX,webtoonscorp.com
   - DOMAIN-SUFFIX,webtype.com
+  - DOMAIN-SUFFIX,webvisor.com
+  - DOMAIN-SUFFIX,webvisor.org
   - DOMAIN-SUFFIX,webwarper.net
   - DOMAIN-SUFFIX,webworkerdaily.com
   - DOMAIN-SUFFIX,wechatlawsuit.com
@@ -26141,6 +26149,7 @@ payload:
   - DOMAIN-SUFFIX,yaddal.tv
   - DOMAIN-SUFFIX,yadi.sk
   - DOMAIN-SUFFIX,yadori.club
+  - DOMAIN-SUFFIX,yads.tech
   - DOMAIN-SUFFIX,yaeby.info
   - DOMAIN-SUFFIX,yaeby.pro
   - DOMAIN-SUFFIX,yahoo
@@ -26314,6 +26323,7 @@ payload:
   - DOMAIN-SUFFIX,yandex
   - DOMAIN-SUFFIX,yandex-bank.net
   - DOMAIN-SUFFIX,yandex-images.clstorage.net
+  - DOMAIN-SUFFIX,yandex-team.ru
   - DOMAIN-SUFFIX,yandex.aero
   - DOMAIN-SUFFIX,yandex.az
   - DOMAIN-SUFFIX,yandex.by
@@ -26349,6 +26359,7 @@ payload:
   - DOMAIN-SUFFIX,yandexadexchange.net
   - DOMAIN-SUFFIX,yandexcloud.net
   - DOMAIN-SUFFIX,yandexcom.net
+  - DOMAIN-SUFFIX,yandexmetrica.com
   - DOMAIN-SUFFIX,yandexwebcache.org
   - DOMAIN-SUFFIX,yanghengjun.com
   - DOMAIN-SUFFIX,yangzhi.org
@@ -26364,6 +26375,7 @@ payload:
   - DOMAIN-SUFFIX,yarnpkg.com
   - DOMAIN-SUFFIX,yasarang.net
   - DOMAIN-SUFFIX,yasni.co.uk
+  - DOMAIN-SUFFIX,yastat.net
   - DOMAIN-SUFFIX,yastatic.net
   - DOMAIN-SUFFIX,yasukuni.or.jp
   - DOMAIN-SUFFIX,yavtube.com
