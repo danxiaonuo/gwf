@@ -1946,7 +1946,6 @@ payload:
   - DOMAIN-SUFFIX,anchor.fm
   - DOMAIN-SUFFIX,anchorfree.com
   - DOMAIN-SUFFIX,ancsconf.org
-  - DOMAIN-SUFFIX,and
   - DOMAIN-SUFFIX,andfaraway.net
   - DOMAIN-SUFFIX,android
   - DOMAIN-SUFFIX,android-x86.org
@@ -5385,7 +5384,6 @@ payload:
   - DOMAIN-SUFFIX,cbm.com.mm
   - DOMAIN-SUFFIX,cbn
   - DOMAIN-SUFFIX,cbre
-  - DOMAIN-SUFFIX,cbs
   - DOMAIN-SUFFIX,cbs.com
   - DOMAIN-SUFFIX,cbs.ntu.edu.tw
   - DOMAIN-SUFFIX,cbsaavideo.com
@@ -15342,7 +15340,6 @@ payload:
   - DOMAIN-SUFFIX,mcaf.ee
   - DOMAIN-SUFFIX,mcafee.com
   - DOMAIN-SUFFIX,mcb.com.mm
-  - DOMAIN-SUFFIX,mcd
   - DOMAIN-SUFFIX,mcd-holdings.co.jp
   - DOMAIN-SUFFIX,mcd.com
   - DOMAIN-SUFFIX,mcdelivery.co.id
@@ -15355,7 +15352,6 @@ payload:
   - DOMAIN-SUFFIX,mcdelivery.com.tw
   - DOMAIN-SUFFIX,mcdindia.com
   - DOMAIN-SUFFIX,mcdindonesia.com
-  - DOMAIN-SUFFIX,mcdonalds
   - DOMAIN-SUFFIX,mcdonalds-online.com
   - DOMAIN-SUFFIX,mcdonalds.be
   - DOMAIN-SUFFIX,mcdonalds.ca
@@ -21135,7 +21131,6 @@ payload:
   - DOMAIN-SUFFIX,shotwithgeforce.com
   - DOMAIN-SUFFIX,showhaotu.com
   - DOMAIN-SUFFIX,shownote.com
-  - DOMAIN-SUFFIX,showtime
   - DOMAIN-SUFFIX,showtime.com
   - DOMAIN-SUFFIX,showtime.jp
   - DOMAIN-SUFFIX,showtimeanytime.com
@@ -22701,7 +22696,6 @@ payload:
   - DOMAIN-SUFFIX,thegithubshop.com
   - DOMAIN-SUFFIX,thegly.com
   - DOMAIN-SUFFIX,thegooglestore.com
-  - DOMAIN-SUFFIX,theguardian
   - DOMAIN-SUFFIX,theguardian.com
   - DOMAIN-SUFFIX,theguardiandns.com
   - DOMAIN-SUFFIX,thehabibshow.com
