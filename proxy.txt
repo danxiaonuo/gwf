@@ -949,6 +949,7 @@ advertisercommunity.com
 adx.promo
 ae
 ae-ad-1.myhuaweicloud.com
+ae-rus.net
 ae.hao123.com
 ae.org
 aeasyshop.com
@@ -961,6 +962,7 @@ aerogard.com.au
 aerogardcn.com
 aerospace-cadcam.com
 aerospace-design.com
+aestatic.net
 aesworkshops.com
 aetna
 aex.com
@@ -5821,6 +5823,9 @@ comdotgame.com
 come29.xyz
 comefromchina.com
 cometotheduckside.com
+comfy.org
+comfyci.org
+comfyregistry.org
 comic-mega.me
 comicbox.xyz
 comicscartoonporn.com
@@ -17857,6 +17862,7 @@ oxlife.co
 oyax.com
 oyeloca.com
 oyghan.com
+oystermercury.top
 ozchinese.com
 ozeex.com
 ozodi.org
@@ -19569,12 +19575,15 @@ rbeopp.com
 rbeuroinfo.com
 rbgrads.com
 rbgraduates.com
+rblx.org
 rbmavericks.com
 rbnainternational.com
 rbplc.com
 rbrandlibrary.com
 rbsgr.com
 rbspeakup.com
+rbx.com
+rbxcdn.com
 rcam.target.com
 rcinet.ca
 rcl07.xyz
@@ -19870,6 +19879,9 @@ ro
 ro89.com
 road-crew.com
 roadshow.hk
+roblox-api.arkoselabs.co
+roblox.com
+robloxlabs.com
 robobat.com
 roboforex.com
 roboform.com
