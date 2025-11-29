@@ -17861,6 +17861,8 @@ payload:
   - DOMAIN-SUFFIX,okinawabank.co.jp
   - DOMAIN-SUFFIX,okk.tw
   - DOMAIN-SUFFIX,okkisokuho.com
+  - DOMAIN-SUFFIX,okko.sport
+  - DOMAIN-SUFFIX,okko.tv
   - DOMAIN-SUFFIX,okpool.me
   - DOMAIN-SUFFIX,okx-dns.com
   - DOMAIN-SUFFIX,okx-dns1.com
@@ -18868,6 +18870,7 @@ payload:
   - DOMAIN-SUFFIX,playerjs.io
   - DOMAIN-SUFFIX,playfab.com
   - DOMAIN-SUFFIX,playfabapi.com
+  - DOMAIN-SUFFIX,playfamily.ru
   - DOMAIN-SUFFIX,playforceone.com
   - DOMAIN-SUFFIX,playhearthstone.com
   - DOMAIN-SUFFIX,playmation.com
