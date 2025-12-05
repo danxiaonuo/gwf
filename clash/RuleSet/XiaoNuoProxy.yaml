@@ -23027,6 +23027,7 @@ payload:
   - DOMAIN-SUFFIX,tig-ol-bitties.live
   - DOMAIN-SUFFIX,tigervpn.com
   - DOMAIN-SUFFIX,tik-tokapi.com
+  - DOMAIN-SUFFIX,tiktok-row.net
   - DOMAIN-SUFFIX,tiktok.com
   - DOMAIN-SUFFIX,tiktokcdn-eu.com
   - DOMAIN-SUFFIX,tiktokcdn-us.com
@@ -23034,6 +23035,8 @@ payload:
   - DOMAIN-SUFFIX,tiktokd.net
   - DOMAIN-SUFFIX,tiktokd.org
   - DOMAIN-SUFFIX,tiktokeu-cdn.com
+  - DOMAIN-SUFFIX,tiktokglobalshopv.com
+  - DOMAIN-SUFFIX,tiktokminis.us
   - DOMAIN-SUFFIX,tiktokrow-cdn.com
   - DOMAIN-SUFFIX,tiktokv.com
   - DOMAIN-SUFFIX,tiktokv.eu
@@ -27006,6 +27009,7 @@ payload:
   - DOMAIN-SUFFIX,zopim.com
   - DOMAIN-SUFFIX,zorglist.com
   - DOMAIN-SUFFIX,zorrovpn.com
+  - DOMAIN-SUFFIX,zotero.org
   - DOMAIN-SUFFIX,zozotown.com
   - DOMAIN-SUFFIX,zpn.im
   - DOMAIN-SUFFIX,zqqpwz.com
