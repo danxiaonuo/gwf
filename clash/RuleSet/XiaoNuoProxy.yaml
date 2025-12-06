@@ -2541,6 +2541,7 @@ payload:
   - DOMAIN-SUFFIX,archivx.to
   - DOMAIN-SUFFIX,archlinux.org
   - DOMAIN-SUFFIX,archlinuxarm.org
+  - DOMAIN-SUFFIX,arcraiders.com
   - DOMAIN-SUFFIX,arctosia.com
   - DOMAIN-SUFFIX,area120.com
   - DOMAIN-SUFFIX,area51.to
@@ -8192,6 +8193,8 @@ payload:
   - DOMAIN-SUFFIX,emaga.com
   - DOMAIN-SUFFIX,emagic.de
   - DOMAIN-SUFFIX,emanna.com
+  - DOMAIN-SUFFIX,embark-studios.com
+  - DOMAIN-SUFFIX,embark.games
   - DOMAIN-SUFFIX,embase.com
   - DOMAIN-SUFFIX,embed-cdn.com
   - DOMAIN-SUFFIX,embed.ly
@@ -8852,6 +8855,8 @@ payload:
   - DOMAIN-SUFFIX,faceid99.com
   - DOMAIN-SUFFIX,faceid99.net
   - DOMAIN-SUFFIX,faceidglobal.com
+  - DOMAIN-SUFFIX,faceit-cdn.net
+  - DOMAIN-SUFFIX,faceit.com
   - DOMAIN-SUFFIX,faceless.me
   - DOMAIN-SUFFIX,faceobk.com
   - DOMAIN-SUFFIX,faceobok.com
@@ -19961,6 +19966,7 @@ payload:
   - DOMAIN-SUFFIX,rea.tech
   - DOMAIN-SUFFIX,reabble.com
   - DOMAIN-SUFFIX,reachporn.com
+  - DOMAIN-SUFFIX,reachthefinals.com
   - DOMAIN-SUFFIX,reachtheworldonfacebook.com
   - DOMAIN-SUFFIX,react.com
   - DOMAIN-SUFFIX,reactjs.com
