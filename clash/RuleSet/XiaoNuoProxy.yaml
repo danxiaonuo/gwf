@@ -18957,7 +18957,10 @@ payload:
   - DOMAIN-SUFFIX,pogo.com
   - DOMAIN-SUFFIX,pogobeta.com
   - DOMAIN-SUFFIX,pohl
+  - DOMAIN-SUFFIX,poi.icu
   - DOMAIN-SUFFIX,poi.moe
+  - DOMAIN-SUFFIX,poi6.net
+  - DOMAIN-SUFFIX,poihub.com
   - DOMAIN-SUFFIX,points-media.com
   - DOMAIN-SUFFIX,poisontube.com
   - DOMAIN-SUFFIX,pojapp.cfd
@@ -19519,6 +19522,7 @@ payload:
   - DOMAIN-SUFFIX,profilemaster.com
   - DOMAIN-SUFFIX,profreeporno.com
   - DOMAIN-SUFFIX,progressive
+  - DOMAIN-SUFFIX,project-poi.com
   - DOMAIN-SUFFIX,project-syndicate.org
   - DOMAIN-SUFFIX,projectapex.com
   - DOMAIN-SUFFIX,projectara.com
