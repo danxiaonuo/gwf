@@ -3964,6 +3964,7 @@ payload:
   - DOMAIN-SUFFIX,bit-z.com
   - DOMAIN-SUFFIX,bit.do
   - DOMAIN-SUFFIX,bit.ly
+  - DOMAIN-SUFFIX,bitbaby.com
   - DOMAIN-SUFFIX,bitballoon.com
   - DOMAIN-SUFFIX,bitbank.cc
   - DOMAIN-SUFFIX,bitbay.net
@@ -12465,6 +12466,7 @@ payload:
   - DOMAIN-SUFFIX,id.hao123.com
   - DOMAIN-SUFFIX,id.heroku.com
   - DOMAIN-SUFFIX,idarkdoll.com
+  - DOMAIN-SUFFIX,idcflare.com
   - DOMAIN-SUFFIX,idea-server.com
   - DOMAIN-SUFFIX,ideal-teens.com
   - DOMAIN-SUFFIX,ideapocket.com
