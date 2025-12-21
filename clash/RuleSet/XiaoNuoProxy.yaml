@@ -22111,6 +22111,7 @@ payload:
   - DOMAIN-SUFFIX,static-nike.com
   - DOMAIN-SUFFIX,static-verizon.com
   - DOMAIN-SUFFIX,static.fun
+  - DOMAIN-SUFFIX,static.pocketcasts.com
   - DOMAIN-SUFFIX,static.shemalez.com
   - DOMAIN-SUFFIX,static01.nyt.com
   - DOMAIN-SUFFIX,static9.net.au
