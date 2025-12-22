@@ -2817,6 +2817,7 @@ IP-CIDR,140.255.0.0/16,no-resolve
 IP-CIDR,141.11.141.0/24,no-resolve
 IP-CIDR,143.14.49.0/24,no-resolve
 IP-CIDR,143.20.147.0/24,no-resolve
+IP-CIDR,143.20.246.0/24,no-resolve
 IP-CIDR,143.64.0.0/16,no-resolve
 IP-CIDR,144.0.0.0/16,no-resolve
 IP-CIDR,144.7.0.0/17,no-resolve
