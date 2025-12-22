@@ -142,6 +142,7 @@ DOMAIN-SUFFIX,ceye.io
 
 # 进程规则
 # 源进程名匹配
+PROCESS-NAME,dae
 PROCESS-NAME,clash
 PROCESS-NAME,nebula
 PROCESS-NAME,docker
