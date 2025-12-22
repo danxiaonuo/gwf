@@ -143,6 +143,9 @@ payload:
   
   # 进程规则
   # 源进程名匹配
+  - PROCESS-NAME,clash
+  - PROCESS-NAME,nebula
+  - PROCESS-NAME,docker
   - PROCESS-NAME,login
   - PROCESS-NAME,nginx
   - PROCESS-NAME,dropbear
