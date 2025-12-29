@@ -8,6 +8,7 @@ payload:
   - DOMAIN-KEYWORD,cloudflare
   - DOMAIN-KEYWORD,tiktokv
   # 域名后缀匹
+  - DOMAIN-SUFFIX,grafana.com
   - DOMAIN-SUFFIX,cloudflare.net
   - DOMAIN-SUFFIX,cloudflare.com
   - DOMAIN-SUFFIX,workers.dev
