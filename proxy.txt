@@ -4599,6 +4599,7 @@ brutaltgp.com
 bs
 bs-adreview.com
 bs-awh.ne.jp
+bsappapi.com
 bsi.ir
 bsky.app
 bsky.network
@@ -18623,6 +18624,7 @@ pixtronix.com
 pjbyj.top
 pjful-app.lol
 pjgirls.com
+pjsekai.sega.jp
 pk
 pk.com
 pki-goog.l.google.com
@@ -22202,6 +22204,7 @@ tahr.org.tw
 taiav.com
 tail-f.com
 tailf.com
+tails.net
 tailscale.com
 tailscale.io
 tailwindtraders.com
