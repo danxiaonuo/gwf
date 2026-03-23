@@ -16986,6 +16986,7 @@ openleaks.org
 openlibrary.org
 openmaps.org
 openreality.com
+openrec.tv
 openresty.org
 openreview.net
 openrouter.ai
@@ -19246,6 +19247,7 @@ s-msn.com
 s-nbcnews.com
 s-rewards.hk
 s-xoom.com
+s.rmimg.com
 s.team
 s.yimg.com
 s1s1s1.com
