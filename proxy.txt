@@ -7945,6 +7945,7 @@ esg.t91y.com
 eskimotube.com
 eslite.com
 esm.run
+esm.sh
 esmarthealth.com
 esmatube.com
 esopworld.com
@@ -17868,6 +17869,7 @@ pjful-app.lol
 pjgirls.com
 pjsekai.sega.jp
 pk
+pkgbuild.com
 pki-goog.l.google.com
 pki-post.ch
 pki-posta.ch
