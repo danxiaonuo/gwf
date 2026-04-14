@@ -1764,6 +1764,8 @@ animezilla.com
 aniscartujo.com
 anistreaming.xyz
 ankarazirvesi2018.com
+ankiuser.net
+ankiweb.net
 anm.co.uk
 annamilk.com
 annas-archive.gd
@@ -2258,6 +2260,7 @@ archiveofourown.net
 archiveofourown.org
 archives.gov
 archivx.to
+archlinux.de
 archlinux.org
 archlinuxarm.org
 archlinuxcn.org
