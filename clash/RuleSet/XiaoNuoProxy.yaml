@@ -8153,7 +8153,6 @@ payload:
   - DOMAIN-SUFFIX,emerald.com
   - DOMAIN-SUFFIX,emerck
   - DOMAIN-SUFFIX,emergingsolutions.com
-  - DOMAIN-SUFFIX,emmapplecodevice.googleapis.com
   - DOMAIN-SUFFIX,emojipedia.org
   - DOMAIN-SUFFIX,emome.net
   - DOMAIN-SUFFIX,empero-right.mom
@@ -10433,7 +10432,6 @@ payload:
   - DOMAIN-SUFFIX,go-lang.org
   - DOMAIN-SUFFIX,go-to-zlibrary.se
   - DOMAIN-SUFFIX,go.com
-  - DOMAIN-SUFFIX,go.corp.google.com
   - DOMAIN-SUFFIX,go.dev
   - DOMAIN-SUFFIX,go141.com
   - DOMAIN-SUFFIX,go2av.com
@@ -14186,7 +14184,6 @@ payload:
   - DOMAIN-SUFFIX,kzeng.info
   - DOMAIN-SUFFIX,l-0005.dc-msedge.net
   - DOMAIN-SUFFIX,l-msedge.net
-  - DOMAIN-SUFFIX,l2-uberproxy.corp.google.com
   - DOMAIN-SUFFIX,la
   - DOMAIN-SUFFIX,la-mama.ru
   - DOMAIN-SUFFIX,lab.skk.moe
@@ -14554,15 +14551,12 @@ payload:
   - DOMAIN-SUFFIX,locker
   - DOMAIN-SUFFIX,lockestek.com
   - DOMAIN-SUFFIX,locus
-  - DOMAIN-SUFFIX,logger-dev.corp.google.com
-  - DOMAIN-SUFFIX,logger.corp.google.com
   - DOMAIN-SUFFIX,logi.com
   - DOMAIN-SUFFIX,logicool.co.jp
   - DOMAIN-SUFFIX,logicoolg.com
   - DOMAIN-SUFFIX,login-account.net
   - DOMAIN-SUFFIX,login-paypal.com
   - DOMAIN-SUFFIX,login-paypal.info
-  - DOMAIN-SUFFIX,login.corp.google.com
   - DOMAIN-SUFFIX,login.target.com
   - DOMAIN-SUFFIX,logitech.biz
   - DOMAIN-SUFFIX,logitech.com
@@ -19299,7 +19293,6 @@ payload:
   - DOMAIN-SUFFIX,proxomitron.info
   - DOMAIN-SUFFIX,proxpn.com
   - DOMAIN-SUFFIX,proxyadult.org
-  - DOMAIN-SUFFIX,proxyconfig.corp.google.com
   - DOMAIN-SUFFIX,proxynetwork.org.uk
   - DOMAIN-SUFFIX,proxyrarbg.org
   - DOMAIN-SUFFIX,proxz.com
@@ -19551,7 +19544,6 @@ payload:
   - DOMAIN-SUFFIX,qzav.tv
   - DOMAIN-SUFFIX,r-pool.net
   - DOMAIN-SUFFIX,r-project.org
-  - DOMAIN-SUFFIX,r.cert.corp.google.com
   - DOMAIN-SUFFIX,r0.ru
   - DOMAIN-SUFFIX,r10s.com
   - DOMAIN-SUFFIX,r10s.jp
@@ -19614,7 +19606,6 @@ payload:
   - DOMAIN-SUFFIX,rapidssl.com
   - DOMAIN-SUFFIX,rapidvpn.com
   - DOMAIN-SUFFIX,raponlinereview.com
-  - DOMAIN-SUFFIX,rapture-prod.corp.google.com
   - DOMAIN-SUFFIX,rarbg.is
   - DOMAIN-SUFFIX,rarbg.me
   - DOMAIN-SUFFIX,rarbg.to
@@ -21561,7 +21552,6 @@ payload:
   - DOMAIN-SUFFIX,ssl.gstatic.com
   - DOMAIN-SUFFIX,ssl.webpack.de
   - DOMAIN-SUFFIX,sslpaypal.org
-  - DOMAIN-SUFFIX,sslredirect.corp.google.com
   - DOMAIN-SUFFIX,sspanel.net
   - DOMAIN-SUFFIX,ssplive.pw
   - DOMAIN-SUFFIX,ssr.tools
@@ -21808,8 +21798,6 @@ payload:
   - DOMAIN-SUFFIX,stream-mydirtyhobby.biz
   - DOMAIN-SUFFIX,streamable.com
   - DOMAIN-SUFFIX,streamate.com
-  - DOMAIN-SUFFIX,streaming-uberproxy-rotation.corp.google.com
-  - DOMAIN-SUFFIX,streaming-uberproxy.corp.google.com
   - DOMAIN-SUFFIX,streamingdisney.net
   - DOMAIN-SUFFIX,streamingporn.xyz
   - DOMAIN-SUFFIX,streamingthe.net
@@ -21914,10 +21902,6 @@ payload:
   - DOMAIN-SUFFIX,suno.ai
   - DOMAIN-SUFFIX,suno.com
   - DOMAIN-SUFFIX,sunporno.com
-  - DOMAIN-SUFFIX,sup-ssh-relay.corp.google.com
-  - DOMAIN-SUFFIX,sup-ssh-relay2.corp.google.com
-  - DOMAIN-SUFFIX,sup.corp.google.com
-  - DOMAIN-SUFFIX,sup.l.google.com
   - DOMAIN-SUFFIX,supadou.blogism.jp
   - DOMAIN-SUFFIX,supanimegames.com
   - DOMAIN-SUFFIX,supchina.com
@@ -22373,7 +22357,6 @@ payload:
   - DOMAIN-SUFFIX,test-ipv6.se
   - DOMAIN-SUFFIX,test-ipv6.sin.vr.org
   - DOMAIN-SUFFIX,test-ipv6.ttk.ru
-  - DOMAIN-SUFFIX,test.gbugs-qa.chromium.org
   - DOMAIN-SUFFIX,testipv6.de
   - DOMAIN-SUFFIX,testonfox.com
   - DOMAIN-SUFFIX,tetrika-school.ru
@@ -22843,7 +22826,6 @@ payload:
   - DOMAIN-SUFFIX,toolforge.org
   - DOMAIN-SUFFIX,toolmaking-cadcam.com
   - DOMAIN-SUFFIX,tools.google.com
-  - DOMAIN-SUFFIX,tools.l.google.com
   - DOMAIN-SUFFIX,toomadporn.pro
   - DOMAIN-SUFFIX,toon-3d.com
   - DOMAIN-SUFFIX,toonsexblog.com
@@ -23350,10 +23332,7 @@ payload:
   - DOMAIN-SUFFIX,uber-assets.com
   - DOMAIN-SUFFIX,uber.com
   - DOMAIN-SUFFIX,ubereats.com
-  - DOMAIN-SUFFIX,uberproxy-debug4.corp.google.com
-  - DOMAIN-SUFFIX,uberproxy.corp.google.com
   - DOMAIN-SUFFIX,uberproxy.net
-  - DOMAIN-SUFFIX,uberproxy6.corp.google.com
   - DOMAIN-SUFFIX,ubi.com
   - DOMAIN-SUFFIX,ubisoft.com
   - DOMAIN-SUFFIX,ubisoftconnect.com

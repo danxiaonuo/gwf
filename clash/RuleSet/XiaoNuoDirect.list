@@ -51296,12 +51296,10 @@ DOMAIN-SUFFIX,iclicash.com
 DOMAIN-SUFFIX,iclickstatic.com
 DOMAIN-SUFFIX,icliexpo.com
 DOMAIN-SUFFIX,icljt.com
-DOMAIN-SUFFIX,icloud-cdn.icloud.com.akadns.net
 DOMAIN-SUFFIX,icloud-content.com
 DOMAIN-SUFFIX,icloud-isupport.com
 DOMAIN-SUFFIX,icloud-power.com
 DOMAIN-SUFFIX,icloud-sandbox.com
-DOMAIN-SUFFIX,icloud.cdn-apple.com
 DOMAIN-SUFFIX,icloud.ch
 DOMAIN-SUFFIX,icloud.com
 DOMAIN-SUFFIX,icloud.de
@@ -72368,10 +72366,8 @@ DOMAIN-SUFFIX,oclkj.com
 DOMAIN-SUFFIX,ocn187.com
 DOMAIN-SUFFIX,ocpuritech.com
 DOMAIN-SUFFIX,ocsjs.com
-DOMAIN-SUFFIX,ocsp-lb.apple.com.akadns.net
 DOMAIN-SUFFIX,ocsp.apple.com
 DOMAIN-SUFFIX,ocsp.us.cdnetworks.com
-DOMAIN-SUFFIX,ocsp2-lb.apple.com.akadns.net
 DOMAIN-SUFFIX,ocsp2.apple.com
 DOMAIN-SUFFIX,ocssaas.com
 DOMAIN-SUFFIX,oct-asia.com
@@ -73602,7 +73598,6 @@ DOMAIN-SUFFIX,panawincn.com
 DOMAIN-SUFFIX,panbaidu.net
 DOMAIN-SUFFIX,panbrake.com
 DOMAIN-SUFFIX,pancake.apple.com
-DOMAIN-SUFFIX,pancake.cdn-apple.com.akadns.net
 DOMAIN-SUFFIX,panchinasports.com
 DOMAIN-SUFFIX,panchip.com
 DOMAIN-SUFFIX,panchuang.net
@@ -79130,7 +79125,6 @@ DOMAIN-SUFFIX,rergdfh.com
 DOMAIN-SUFFIX,reseetech.com
 DOMAIN-SUFFIX,resemblancey.com
 DOMAIN-SUFFIX,resemi.com
-DOMAIN-SUFFIX,reserve-prime.apple.com
 DOMAIN-SUFFIX,reservehemu.com
 DOMAIN-SUFFIX,resheji.com
 DOMAIN-SUFFIX,resistor.today
