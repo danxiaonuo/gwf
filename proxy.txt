@@ -6304,6 +6304,7 @@ dat.foundation
 data-tscbank.ru
 data-vocabulary.org
 data.com
+data18.com
 datacloudmy.com
 dataframeworks.com
 dataliberation.org
@@ -7266,6 +7267,7 @@ dssott.com
 dstk.dk
 dswz88.xyz
 dsyiren.com
+dt18.com
 dtci.co
 dtci.technology
 dtiblog.com
@@ -9859,6 +9861,7 @@ gettyimages.se
 gettyimages.us
 getuploader.com
 getws1.com
+getwsj.com
 getwsone.com
 getzola.org
 gf
@@ -13078,6 +13081,7 @@ javdoe.to
 javdove.com
 javdove8.xyz
 javextreme.net
+javfc2.xyz
 javfilms.com
 javfinder.ai
 javfor.me
