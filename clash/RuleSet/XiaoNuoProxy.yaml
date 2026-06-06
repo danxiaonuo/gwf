@@ -5965,6 +5965,7 @@ payload:
   - DOMAIN-SUFFIX,claude.ai
   - DOMAIN-SUFFIX,claude.com
   - DOMAIN-SUFFIX,claudemcpclient.com
+  - DOMAIN-SUFFIX,claudemcpcontent.com
   - DOMAIN-SUFFIX,claudeusercontent.com
   - DOMAIN-SUFFIX,clawhub.ai
   - DOMAIN-SUFFIX,clck.ru
@@ -22270,6 +22271,7 @@ payload:
   - DOMAIN-SUFFIX,sustainthesound.com
   - DOMAIN-SUFFIX,suxib.com
   - DOMAIN-SUFFIX,suxiebu.com
+  - DOMAIN-SUFFIX,suyingtv.com
   - DOMAIN-SUFFIX,suzuki
   - DOMAIN-SUFFIX,suzuri.jp
   - DOMAIN-SUFFIX,sv
@@ -25509,6 +25511,7 @@ payload:
   - DOMAIN-SUFFIX,wp-themes.com
   - DOMAIN-SUFFIX,wp.com
   - DOMAIN-SUFFIX,wpewebkit.org
+  - DOMAIN-SUFFIX,wplace.live
   - DOMAIN-SUFFIX,wpoforum.com
   - DOMAIN-SUFFIX,wpvip.com
   - DOMAIN-SUFFIX,wrenchead.com
