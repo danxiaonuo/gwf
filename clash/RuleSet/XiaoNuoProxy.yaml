@@ -1985,6 +1985,7 @@ payload:
   - DOMAIN-SUFFIX,amd.com
   - DOMAIN-SUFFIX,amd.com.cn
   - DOMAIN-SUFFIX,amdfanstore.com
+  - DOMAIN-SUFFIX,amdgaming.com
   - DOMAIN-SUFFIX,amdigital.co.uk
   - DOMAIN-SUFFIX,ameba.jp
   - DOMAIN-SUFFIX,amebame.com
@@ -5019,6 +5020,7 @@ payload:
   - DOMAIN-SUFFIX,budatt.com
   - DOMAIN-SUFFIX,buddymedia.com
   - DOMAIN-SUFFIX,buffered.com
+  - DOMAIN-SUFFIX,bugsnag.com
   - DOMAIN-SUFFIX,bugzilla.org
   - DOMAIN-SUFFIX,buhidoh.net
   - DOMAIN-SUFFIX,buicha.social
@@ -5512,6 +5514,7 @@ payload:
   - DOMAIN-SUFFIX,cciernslabs.com
   - DOMAIN-SUFFIX,cciesecuritylabs.com
   - DOMAIN-SUFFIX,ccievoicelabs.com
+  - DOMAIN-SUFFIX,ccleaner.com
   - DOMAIN-SUFFIX,cclife.org
   - DOMAIN-SUFFIX,cclifefl.org
   - DOMAIN-SUFFIX,ccna5.net
@@ -5932,6 +5935,7 @@ payload:
   - DOMAIN-SUFFIX,cityoflove.com
   - DOMAIN-SUFFIX,citypopulation.de
   - DOMAIN-SUFFIX,citytourgirls.com
+  - DOMAIN-SUFFIX,cityu.hk
   - DOMAIN-SUFFIX,civicparty.hk
   - DOMAIN-SUFFIX,civil3d.com
   - DOMAIN-SUFFIX,civilcc.com
@@ -6502,6 +6506,7 @@ payload:
   - DOMAIN-SUFFIX,cuckwimp.com
   - DOMAIN-SUFFIX,cuebic.biz
   - DOMAIN-SUFFIX,cuffiesaldi.com
+  - DOMAIN-SUFFIX,cuhk.hk
   - DOMAIN-SUFFIX,cuinc.oen.tw
   - DOMAIN-SUFFIX,cuinc.tw
   - DOMAIN-SUFFIX,cuisinella
@@ -8114,9 +8119,11 @@ payload:
   - DOMAIN-SUFFIX,edninfo.com
   - DOMAIN-SUFFIX,edu
   - DOMAIN-SUFFIX,edu-research.org
+  - DOMAIN-SUFFIX,edu.hk
   - DOMAIN-SUFFIX,edu.ir
   - DOMAIN-SUFFIX,edubridge.com
   - DOMAIN-SUFFIX,education-cadcam.com
+  - DOMAIN-SUFFIX,eduhk.hk
   - DOMAIN-SUFFIX,eduplus.hk
   - DOMAIN-SUFFIX,edx-cdn.org
   - DOMAIN-SUFFIX,edx.org
@@ -9213,6 +9220,7 @@ payload:
   - DOMAIN-SUFFIX,files.oaiusercontent.com
   - DOMAIN-SUFFIX,filesmonster.vip
   - DOMAIN-SUFFIX,filesor.com
+  - DOMAIN-SUFFIX,filezilla-project.org
   - DOMAIN-SUFFIX,filipino-music.net
   - DOMAIN-SUFFIX,filme2.xxx
   - DOMAIN-SUFFIX,filmeleporno.xxx
@@ -10390,6 +10398,7 @@ payload:
   - DOMAIN-SUFFIX,git.io
   - DOMAIN-SUFFIX,gitbook.com
   - DOMAIN-SUFFIX,gitbook.io
+  - DOMAIN-SUFFIX,gitgud.io
   - DOMAIN-SUFFIX,github.ai
   - DOMAIN-SUFFIX,github.blog
   - DOMAIN-SUFFIX,github.com
@@ -11618,6 +11627,7 @@ payload:
   - DOMAIN-SUFFIX,hitxhot.com
   - DOMAIN-SUFFIX,hive.blog
   - DOMAIN-SUFFIX,hiveon.net
+  - DOMAIN-SUFFIX,hivepress.io
   - DOMAIN-SUFFIX,hjb246.top
   - DOMAIN-SUFFIX,hjb7e9.top
   - DOMAIN-SUFFIX,hk-pub.com
@@ -11632,6 +11642,7 @@ payload:
   - DOMAIN-SUFFIX,hkbn.net
   - DOMAIN-SUFFIX,hkbnes.net
   - DOMAIN-SUFFIX,hkbookcity.com
+  - DOMAIN-SUFFIX,hkbu.hk
   - DOMAIN-SUFFIX,hkchronicles.com
   - DOMAIN-SUFFIX,hkcircleapp.com
   - DOMAIN-SUFFIX,hkcitizenmedia.com
@@ -11667,6 +11678,8 @@ payload:
   - DOMAIN-SUFFIX,hkteducation.com
   - DOMAIN-SUFFIX,hktpremier.com
   - DOMAIN-SUFFIX,hktshop.com
+  - DOMAIN-SUFFIX,hku.hk
+  - DOMAIN-SUFFIX,hkust.hk
   - DOMAIN-SUFFIX,hlbelygl.com
   - DOMAIN-SUFFIX,hlsp1.pw
   - DOMAIN-SUFFIX,hm
@@ -14340,6 +14353,7 @@ payload:
   - DOMAIN-SUFFIX,landrover
   - DOMAIN-SUFFIX,langchain.com
   - DOMAIN-SUFFIX,langsuirs.com
+  - DOMAIN-SUFFIX,languagetool.org
   - DOMAIN-SUFFIX,lanik.us
   - DOMAIN-SUFFIX,lanmdh.net
   - DOMAIN-SUFFIX,lanniser-ylo.shop
@@ -16294,6 +16308,7 @@ payload:
   - DOMAIN-SUFFIX,motionpictureser.com
   - DOMAIN-SUFFIX,moto.com
   - DOMAIN-SUFFIX,motolia.com
+  - DOMAIN-SUFFIX,motopress.com
   - DOMAIN-SUFFIX,motorola.ca
   - DOMAIN-SUFFIX,motorola.cl
   - DOMAIN-SUFFIX,motorola.co
@@ -16451,6 +16466,7 @@ payload:
   - DOMAIN-SUFFIX,msudalosti.com
   - DOMAIN-SUFFIX,msunlimitedcloudsummit.com
   - DOMAIN-SUFFIX,mswe1.org
+  - DOMAIN-SUFFIX,msys2.org
   - DOMAIN-SUFFIX,mt
   - DOMAIN-SUFFIX,mt.lv
   - DOMAIN-SUFFIX,mt0011.site
@@ -17713,6 +17729,7 @@ payload:
   - DOMAIN-SUFFIX,o3t.ru
   - DOMAIN-SUFFIX,o3team.ru
   - DOMAIN-SUFFIX,oaistatic.com
+  - DOMAIN-SUFFIX,oaistatsig.com
   - DOMAIN-SUFFIX,oaiusercontent.com
   - DOMAIN-SUFFIX,oanda.com
   - DOMAIN-SUFFIX,oanencore.com
@@ -18944,6 +18961,7 @@ payload:
   - DOMAIN-SUFFIX,polymer-project.org
   - DOMAIN-SUFFIX,polymerhk.com
   - DOMAIN-SUFFIX,polymerproject.org
+  - DOMAIN-SUFFIX,polyu.hk
   - DOMAIN-SUFFIX,ponyanimalsex.com
   - DOMAIN-SUFFIX,poofetish.com
   - DOMAIN-SUFFIX,pool.ntp.org
@@ -19665,6 +19683,7 @@ payload:
   - DOMAIN-SUFFIX,qmttqg3k.me
   - DOMAIN-SUFFIX,qnap.com
   - DOMAIN-SUFFIX,qobuz.com
+  - DOMAIN-SUFFIX,qoder.com
   - DOMAIN-SUFFIX,qombol.com
   - DOMAIN-SUFFIX,qoo-app.com
   - DOMAIN-SUFFIX,qoo10.jp
@@ -25512,6 +25531,7 @@ payload:
   - DOMAIN-SUFFIX,wp.com
   - DOMAIN-SUFFIX,wpewebkit.org
   - DOMAIN-SUFFIX,wplace.live
+  - DOMAIN-SUFFIX,wpmailsmtp.com
   - DOMAIN-SUFFIX,wpoforum.com
   - DOMAIN-SUFFIX,wpvip.com
   - DOMAIN-SUFFIX,wrenchead.com
@@ -25881,12 +25901,18 @@ payload:
   - DOMAIN-SUFFIX,xn--e1a4c
   - DOMAIN-SUFFIX,xn--e1adjldbbpv.xn--90ais
   - DOMAIN-SUFFIX,xn--e1aigb.xn--p1ai
+  - DOMAIN-SUFFIX,xn--fiqs8s1bxp3anr7a.hk
+  - DOMAIN-SUFFIX,xn--fiqs8s1bxp3anr7a.xn--j6w193g
+  - DOMAIN-SUFFIX,xn--fiqs8s1byzqyvl.hk
+  - DOMAIN-SUFFIX,xn--fiqs8s1byzqyvl.xn--j6w193g
   - DOMAIN-SUFFIX,xn--fiqs8sxootzz.xn--hxt814e
   - DOMAIN-SUFFIX,xn--flw351e
   - DOMAIN-SUFFIX,xn--flw351e.com
   - DOMAIN-SUFFIX,xn--fpcrj9c3d
   - DOMAIN-SUFFIX,xn--fzc2c9e2c
   - DOMAIN-SUFFIX,xn--fzys8d69uvgm
+  - DOMAIN-SUFFIX,xn--gdt08a.hk
+  - DOMAIN-SUFFIX,xn--gdt08a.xn--j6w193g
   - DOMAIN-SUFFIX,xn--gecrj9c
   - DOMAIN-SUFFIX,xn--ggle-55da.com
   - DOMAIN-SUFFIX,xn--gmq348bujlxrb.com
@@ -25943,6 +25969,8 @@ payload:
   - DOMAIN-SUFFIX,xn--mix891f
   - DOMAIN-SUFFIX,xn--mts47c3w9b1qr.net
   - DOMAIN-SUFFIX,xn--mtswd61ejxq.com
+  - DOMAIN-SUFFIX,xn--mxtq18a.hk
+  - DOMAIN-SUFFIX,xn--mxtq18a.xn--j6w193g
   - DOMAIN-SUFFIX,xn--ngbe9e0a
   - DOMAIN-SUFFIX,xn--ngstr-lra8j.com
   - DOMAIN-SUFFIX,xn--nnx388a
@@ -25956,6 +25984,16 @@ payload:
   - DOMAIN-SUFFIX,xn--p8j9a0d9c9a.xn--q9jyb4c
   - DOMAIN-SUFFIX,xn--pearsonenespaol-brb.com
   - DOMAIN-SUFFIX,xn--pgbs0dh
+  - DOMAIN-SUFFIX,xn--pssu7ci2j23mp9ny48b.hk
+  - DOMAIN-SUFFIX,xn--pssu7ci2j23mp9ny48b.xn--j6w193g
+  - DOMAIN-SUFFIX,xn--pssu7cv61af1tcs59bnvd.hk
+  - DOMAIN-SUFFIX,xn--pssu7cv61af1tcs59bnvd.xn--j6w193g
+  - DOMAIN-SUFFIX,xn--pssu7cv61af44b.hk
+  - DOMAIN-SUFFIX,xn--pssu7cv61af44b.xn--j6w193g
+  - DOMAIN-SUFFIX,xn--pssu7cv61ahw8aq79bztd.hk
+  - DOMAIN-SUFFIX,xn--pssu7cv61ahw8aq79bztd.xn--j6w193g
+  - DOMAIN-SUFFIX,xn--pssu7cv61ahwcb1p2yk.hk
+  - DOMAIN-SUFFIX,xn--pssu7cv61ahwcb1p2yk.xn--j6w193g
   - DOMAIN-SUFFIX,xn--q41am8x.com
   - DOMAIN-SUFFIX,xn--q7ce6a
   - DOMAIN-SUFFIX,xn--q9jyb4c
@@ -25974,9 +26012,15 @@ payload:
   - DOMAIN-SUFFIX,xn--u2u927b.com
   - DOMAIN-SUFFIX,xn--ubt498knmf.com
   - DOMAIN-SUFFIX,xn--uis17aj9kmuf.com
+  - DOMAIN-SUFFIX,xn--uis44a.xn--j6w193g
   - DOMAIN-SUFFIX,xn--urs05q.jp
   - DOMAIN-SUFFIX,xn--w4r85el8fhu5dnra
   - DOMAIN-SUFFIX,xn--w4rs40l
+  - DOMAIN-SUFFIX,xn--wcv22d.hk
+  - DOMAIN-SUFFIX,xn--wcv22d.xn--j6w193g
+  - DOMAIN-SUFFIX,xn--wcvs22d.xn--j6w193g
+  - DOMAIN-SUFFIX,xn--wcvs22d1m.hk
+  - DOMAIN-SUFFIX,xn--wcvs22d1m.xn--j6w193g
   - DOMAIN-SUFFIX,xn--wgbh1c
   - DOMAIN-SUFFIX,xn--wgbl6a
   - DOMAIN-SUFFIX,xn--x-qeu1ji09tzlg.biz
