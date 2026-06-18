@@ -1030,6 +1030,7 @@ payload:
   - DOMAIN-SUFFIX,account-paypal.info
   - DOMAIN-SUFFIX,account-paypal.net
   - DOMAIN-SUFFIX,account-paypal.org
+  - DOMAIN-SUFFIX,accountboy.com
   - DOMAIN-SUFFIX,accountkit.com
   - DOMAIN-SUFFIX,accountpaypal.com
   - DOMAIN-SUFFIX,accountpaypal.net
@@ -7111,6 +7112,7 @@ payload:
   - DOMAIN-SUFFIX,dewitwithdurex.com
   - DOMAIN-SUFFIX,dexterhorn.com
   - DOMAIN-SUFFIX,dezyred.com
+  - DOMAIN-SUFFIX,dfvpn.com
   - DOMAIN-SUFFIX,dg-meta.video.google.com
   - DOMAIN-SUFFIX,dgaqp.com
   - DOMAIN-SUFFIX,dgg.gg
@@ -10094,6 +10096,7 @@ payload:
   - DOMAIN-SUFFIX,gamesstack.com
   - DOMAIN-SUFFIX,gametap.com
   - DOMAIN-SUFFIX,gameuxmasterguide.com
+  - DOMAIN-SUFFIX,gamewtb.com
   - DOMAIN-SUFFIX,gamez.com.tw
   - DOMAIN-SUFFIX,gaming-notebooks.com
   - DOMAIN-SUFFIX,gandhara.ru
@@ -10607,6 +10610,7 @@ payload:
   - DOMAIN-SUFFIX,gockhuatviet.com
   - DOMAIN-SUFFIX,godaddy
   - DOMAIN-SUFFIX,godaddy.com
+  - DOMAIN-SUFFIX,godaddy.net
   - DOMAIN-SUFFIX,godbolt.org
   - DOMAIN-SUFFIX,godfootsteps.org
   - DOMAIN-SUFFIX,godoc.org
@@ -22638,6 +22642,7 @@ payload:
   - DOMAIN-SUFFIX,taylorandfrancis.com
   - DOMAIN-SUFFIX,taylorfrancis.com
   - DOMAIN-SUFFIX,tb-esim.ru
+  - DOMAIN-SUFFIX,tb.pro
   - DOMAIN-SUFFIX,tbank-online.com
   - DOMAIN-SUFFIX,tbank.ru
   - DOMAIN-SUFFIX,tbcollege.org
@@ -23064,6 +23069,7 @@ payload:
   - DOMAIN-SUFFIX,thumbzilla.com
   - DOMAIN-SUFFIX,thunderbird.net
   - DOMAIN-SUFFIX,thunderbolttechnology.net
+  - DOMAIN-SUFFIX,thundermail.com
   - DOMAIN-SUFFIX,thywords.com
   - DOMAIN-SUFFIX,thz7.net
   - DOMAIN-SUFFIX,thzu.cc
@@ -25659,6 +25665,7 @@ payload:
   - DOMAIN-SUFFIX,ws
   - DOMAIN-SUFFIX,ws-blau.com
   - DOMAIN-SUFFIX,ws-tcg.com
+  - DOMAIN-SUFFIX,wsimg.com
   - DOMAIN-SUFFIX,wsj.com
   - DOMAIN-SUFFIX,wsj.jobs
   - DOMAIN-SUFFIX,wsj.net
@@ -26137,6 +26144,7 @@ payload:
   - DOMAIN-SUFFIX,xn--uis17aj9kmuf.com
   - DOMAIN-SUFFIX,xn--uis44a.xn--j6w193g
   - DOMAIN-SUFFIX,xn--urs05q.jp
+  - DOMAIN-SUFFIX,xn--vuqv2cf7wzyig79c.com
   - DOMAIN-SUFFIX,xn--w4r85el8fhu5dnra
   - DOMAIN-SUFFIX,xn--w4rs40l
   - DOMAIN-SUFFIX,xn--wcv22d.hk
