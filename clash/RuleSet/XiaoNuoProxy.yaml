@@ -1780,6 +1780,7 @@ payload:
   - DOMAIN-SUFFIX,allswingersclubs.org
   - DOMAIN-SUFFIX,allthefallen.moe
   - DOMAIN-SUFFIX,ally
+  - DOMAIN-SUFFIX,almalinux.org
   - DOMAIN-SUFFIX,alohatube.com
   - DOMAIN-SUFFIX,alotporn.com
   - DOMAIN-SUFFIX,alphabet.asia
@@ -5116,6 +5117,7 @@ payload:
   - DOMAIN-SUFFIX,bustyoldsluts.com
   - DOMAIN-SUFFIX,bustysammieblack.com
   - DOMAIN-SUFFIX,busu.org
+  - DOMAIN-SUFFIX,busybox.net
   - DOMAIN-SUFFIX,buy-from-shanghai.com
   - DOMAIN-SUFFIX,buyaapl.com
   - DOMAIN-SUFFIX,buyaapl.net
@@ -8635,6 +8637,7 @@ payload:
   - DOMAIN-SUFFIX,exoav.com
   - DOMAIN-SUFFIX,exotic-ghana.com
   - DOMAIN-SUFFIX,exoticuganda.com
+  - DOMAIN-SUFFIX,exp-tas.com
   - DOMAIN-SUFFIX,expatshield.com
   - DOMAIN-SUFFIX,expecthim.com
   - DOMAIN-SUFFIX,expekt.com
@@ -10487,6 +10490,7 @@ payload:
   - DOMAIN-SUFFIX,gitgud.io
   - DOMAIN-SUFFIX,github.ai
   - DOMAIN-SUFFIX,github.blog
+  - DOMAIN-SUFFIX,github.career
   - DOMAIN-SUFFIX,github.com
   - DOMAIN-SUFFIX,github.community
   - DOMAIN-SUFFIX,github.dev
@@ -14634,6 +14638,7 @@ payload:
   - DOMAIN-SUFFIX,licenseparser.com
   - DOMAIN-SUFFIX,lidl
   - DOMAIN-SUFFIX,life-global.org
+  - DOMAIN-SUFFIX,lifeatspotify.com
   - DOMAIN-SUFFIX,lifemiles.com
   - DOMAIN-SUFFIX,lifeselector.com
   - DOMAIN-SUFFIX,lifestyle-tec.ru
@@ -15166,6 +15171,7 @@ payload:
   - DOMAIN-SUFFIX,manhwa24h.com
   - DOMAIN-SUFFIX,manhwahentai.me
   - DOMAIN-SUFFIX,maniakey.homes
+  - DOMAIN-SUFFIX,manjaro.org
   - DOMAIN-SUFFIX,manorama.com
   - DOMAIN-SUFFIX,manoramanews.com
   - DOMAIN-SUFFIX,manoramaonline.com
@@ -20392,6 +20398,7 @@ payload:
   - DOMAIN-SUFFIX,rocksextube.com
   - DOMAIN-SUFFIX,rockstargames.com
   - DOMAIN-SUFFIX,rockstarnorth.com
+  - DOMAIN-SUFFIX,rockylinux.org
   - DOMAIN-SUFFIX,rogers
   - DOMAIN-SUFFIX,rojo.com
   - DOMAIN-SUFFIX,roku.com
@@ -21975,6 +21982,7 @@ payload:
   - DOMAIN-SUFFIX,spotifycharts.com
   - DOMAIN-SUFFIX,spotifycodes.com
   - DOMAIN-SUFFIX,spotifyforbrands.com
+  - DOMAIN-SUFFIX,spotifyforvendors.com
   - DOMAIN-SUFFIX,spotifyjobs.com
   - DOMAIN-SUFFIX,spraynwash.com
   - DOMAIN-SUFFIX,spreadprivacy.com
@@ -25074,7 +25082,10 @@ payload:
   - DOMAIN-SUFFIX,vscale.ru
   - DOMAIN-SUFFIX,vscode-cdn.net
   - DOMAIN-SUFFIX,vscode-unpkg.net
+  - DOMAIN-SUFFIX,vscode-webview.net
   - DOMAIN-SUFFIX,vscode.dev
+  - DOMAIN-SUFFIX,vscodeedu.app
+  - DOMAIN-SUFFIX,vscodeedu.com
   - DOMAIN-SUFFIX,vsemrabota.ru
   - DOMAIN-SUFFIX,vsex.in
   - DOMAIN-SUFFIX,vsezoo.com
