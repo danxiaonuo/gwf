@@ -6349,6 +6349,7 @@ payload:
   - DOMAIN-SUFFIX,coova.com
   - DOMAIN-SUFFIX,coova.net
   - DOMAIN-SUFFIX,coova.org
+  - DOMAIN-SUFFIX,copilot.com
   - DOMAIN-SUFFIX,copilot.microsoft.com
   - DOMAIN-SUFFIX,copro.pw
   - DOMAIN-SUFFIX,copy-manga.com
@@ -25344,6 +25345,7 @@ payload:
   - DOMAIN-SUFFIX,webpkgcache.com
   - DOMAIN-SUFFIX,webrtc.org
   - DOMAIN-SUFFIX,websdr.org
+  - DOMAIN-SUFFIX,webshare.io
   - DOMAIN-SUFFIX,website.new
   - DOMAIN-SUFFIX,webtoons.com
   - DOMAIN-SUFFIX,webtoonscorp.com
