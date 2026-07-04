@@ -1946,6 +1946,7 @@ apple-pay.rs
 apple-pay.wang
 apple-store.net
 apple-store.wang
+apple-studies.com
 apple-usa.net
 apple-watch.com.ru
 apple.ae
@@ -2459,6 +2460,7 @@ atlasonepoint.com
 atlassian-dev.net
 atlassian.com
 atlassian.net
+atmeta.com
 atnext.com
 atokara.jp
 atom.io
@@ -2847,6 +2849,7 @@ aziani.com
 azirevpn.com
 aznude.com
 azure
+azure-api.net
 azure-devices-int.net
 azure-devices.net
 azure-dns.com
@@ -2884,6 +2887,7 @@ azureplanetscale.net
 azureserviceprofiler.com
 azuresmartspaces.net
 azurestackvalidation.com
+azurestaticapps.net
 azurewebsites.net
 b-cdn.net
 b-eroland.net
