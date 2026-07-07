@@ -9476,6 +9476,8 @@ payload:
   - DOMAIN-SUFFIX,flowgpt.com
   - DOMAIN-SUFFIX,flowhongkong.net
   - DOMAIN-SUFFIX,flowtype.org
+  - DOMAIN-SUFFIX,flowwow-images.com
+  - DOMAIN-SUFFIX,flowwow.com
   - DOMAIN-SUFFIX,fluffychat.im
   - DOMAIN-SUFFIX,fluidfxapp.com
   - DOMAIN-SUFFIX,fluidpreview.com
@@ -9995,6 +9997,8 @@ payload:
   - DOMAIN-SUFFIX,funkyimg.com
   - DOMAIN-SUFFIX,funnyfacebook.org
   - DOMAIN-SUFFIX,funnyordie.com
+  - DOMAIN-SUFFIX,funpay.com
+  - DOMAIN-SUFFIX,funpay.ru
   - DOMAIN-SUFFIX,funshemale.com
   - DOMAIN-SUFFIX,fuq.com
   - DOMAIN-SUFFIX,fuqqt.com
@@ -21250,6 +21254,7 @@ payload:
   - DOMAIN-SUFFIX,sfr
   - DOMAIN-SUFFIX,sfshibao.com
   - DOMAIN-SUFFIX,sftuk.org
+  - DOMAIN-SUFFIX,sfunpay.com
   - DOMAIN-SUFFIX,sfx.ms
   - DOMAIN-SUFFIX,sg
   - DOMAIN-SUFFIX,sg120.me
@@ -23252,6 +23257,7 @@ payload:
   - DOMAIN-SUFFIX,tilda.ws
   - DOMAIN-SUFFIX,tildaapi.com
   - DOMAIN-SUFFIX,tildacdn.com
+  - DOMAIN-SUFFIX,tildacdn.net
   - DOMAIN-SUFFIX,tiltbrush.com
   - DOMAIN-SUFFIX,timdir.com
   - DOMAIN-SUFFIX,time-messenger.ru
