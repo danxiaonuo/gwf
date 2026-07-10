@@ -79,6 +79,7 @@ IP-CIDR6,2400:9380:9250::/47,no-resolve
 IP-CIDR6,2400:9380:9260::/48,no-resolve
 IP-CIDR6,2400:9380:9271::/48,no-resolve
 IP-CIDR6,2400:9380:9280::/47,no-resolve
+IP-CIDR6,2400:9380:9282::/48,no-resolve
 IP-CIDR6,2400:9380:92b1::/48,no-resolve
 IP-CIDR6,2400:9380:92b2::/47,no-resolve
 IP-CIDR6,2400:9380:92b4::/46,no-resolve
@@ -102,7 +103,6 @@ IP-CIDR6,2400:cb80:e40::/44,no-resolve
 IP-CIDR6,2400:da00::/32,no-resolve
 IP-CIDR6,2400:dd00::/28,no-resolve
 IP-CIDR6,2400:e3e0:aa00::/39,no-resolve
-IP-CIDR6,2400:e680::/32,no-resolve
 IP-CIDR6,2400:ee00::/32,no-resolve
 IP-CIDR6,2400:f6e0::/32,no-resolve
 IP-CIDR6,2400:f720::/32,no-resolve
@@ -439,6 +439,7 @@ IP-CIDR6,2404:2280:2fc::/48,no-resolve
 IP-CIDR6,2404:2280:308::/46,no-resolve
 IP-CIDR6,2404:2280:30d::/48,no-resolve
 IP-CIDR6,2404:2280:313::/48,no-resolve
+IP-CIDR6,2404:2280:314::/48,no-resolve
 IP-CIDR6,2404:2280:317::/48,no-resolve
 IP-CIDR6,2404:3700::/48,no-resolve
 IP-CIDR6,2404:4dc0::/32,no-resolve
@@ -1495,6 +1496,7 @@ IP-CIDR6,2a0f:1cc5:130::/44,no-resolve
 IP-CIDR6,2a0f:1cc5:140::/42,no-resolve
 IP-CIDR6,2a0f:1cc5:600::/47,no-resolve
 IP-CIDR6,2a0f:1cc5:603::/48,no-resolve
+IP-CIDR6,2a0f:1cc5:642::/48,no-resolve
 IP-CIDR6,2a0f:1cc5:661::/48,no-resolve
 IP-CIDR6,2a0f:1cc5:662::/48,no-resolve
 IP-CIDR6,2a0f:1cc5:6a0::/48,no-resolve
@@ -1608,13 +1610,14 @@ IP-CIDR6,2a14:67c2:a50::/48,no-resolve
 IP-CIDR6,2a14:67c2:a70::/47,no-resolve
 IP-CIDR6,2a14:67c2:a80::/47,no-resolve
 IP-CIDR6,2a14:67c2:a90::/48,no-resolve
+IP-CIDR6,2a14:67c2:c05::/48,no-resolve
+IP-CIDR6,2a14:67c2:c08::/47,no-resolve
+IP-CIDR6,2a14:67c2:c0c::/47,no-resolve
 IP-CIDR6,2a14:67c3:30::/44,no-resolve
-IP-CIDR6,2a14:67c3:c0::/48,no-resolve
 IP-CIDR6,2a14:67c3:190::/47,no-resolve
 IP-CIDR6,2a14:67c3:192::/48,no-resolve
 IP-CIDR6,2a14:67c3:360::/48,no-resolve
 IP-CIDR6,2a14:67c3:9990::/44,no-resolve
-IP-CIDR6,2a14:67c3:fff0::/44,no-resolve
 IP-CIDR6,2a14:7580:740::/44,no-resolve
 IP-CIDR6,2a14:7580:d00::/43,no-resolve
 IP-CIDR6,2a14:7580:d20::/46,no-resolve
@@ -1622,15 +1625,11 @@ IP-CIDR6,2a14:7580:d41::/48,no-resolve
 IP-CIDR6,2a14:7580:d42::/47,no-resolve
 IP-CIDR6,2a14:7580:dff::/48,no-resolve
 IP-CIDR6,2a14:7580:fffa::/48,no-resolve
-IP-CIDR6,2a14:7581:ffb::/48,no-resolve
 IP-CIDR6,2a14:7581:30b6::/48,no-resolve
 IP-CIDR6,2a14:7581:3100::/40,no-resolve
-IP-CIDR6,2a14:7581:3401::/48,no-resolve
 IP-CIDR6,2a14:7581:3810::/48,no-resolve
 IP-CIDR6,2a14:7581:3814::/48,no-resolve
 IP-CIDR6,2a14:7583:efff::/48,no-resolve
-IP-CIDR6,2a14:7583:f220::/43,no-resolve
-IP-CIDR6,2a14:7583:f240::/42,no-resolve
 IP-CIDR6,2a14:7583:f300::/46,no-resolve
 IP-CIDR6,2a14:7583:f304::/47,no-resolve
 IP-CIDR6,2a14:7583:f411::/48,no-resolve
