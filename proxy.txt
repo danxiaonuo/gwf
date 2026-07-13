@@ -1329,7 +1329,6 @@ alefbank.com
 alexa.com
 alexanderstreet.com
 alfa.me
-alfabank.oavdo.amc
 alfabank.ru
 alfabank.st
 alfadirect.ru
@@ -5354,6 +5353,7 @@ chat.lmsys.org
 chatango.com
 chatgpt.com
 chatgpt.livekit.cloud
+chatgpt.site
 chatgptvideo.xyz
 chatgptvideob.buzz
 chatpdf.com
@@ -10378,7 +10378,6 @@ gongyichuangyi.net
 gonike.com
 gonzo-movies.com
 gonzo.com
-goo
 goo.gl
 goo.ne.jp
 gooblox.com
@@ -12673,7 +12672,6 @@ intagram.com
 intagrm.com
 intc.com
 integral7.com
-intel
 intel-research.net
 intel-university-collaboration.net
 intel.ac
@@ -13888,6 +13886,7 @@ ki
 kia
 kichiku-doujinko.com
 kichikuou.com
+kick.com
 kickporn.com
 kickshatchannel.com
 kicksnike1.com
@@ -14019,7 +14018,6 @@ kompozer.net
 konachan.com
 konachan.net
 konachan.wjcodes.com
-konami
 konami-igaming.online
 konami.co.jp
 konami.com
