@@ -10540,6 +10540,7 @@ payload:
   - DOMAIN-SUFFIX,githubnext.com
   - DOMAIN-SUFFIX,githubpreview.dev
   - DOMAIN-SUFFIX,githubstatus.com
+  - DOMAIN-SUFFIX,githubsupport.com
   - DOMAIN-SUFFIX,githubuniverse.com
   - DOMAIN-SUFFIX,githubusercontent.com
   - DOMAIN-SUFFIX,gitlab-static.net
@@ -23640,6 +23641,7 @@ payload:
   - DOMAIN-SUFFIX,truyenwk.com
   - DOMAIN-SUFFIX,trv
   - DOMAIN-SUFFIX,try.rw
+  - DOMAIN-SUFFIX,tryai.dev
   - DOMAIN-SUFFIX,tryalias.com
   - DOMAIN-SUFFIX,tryboobs.com
   - DOMAIN-SUFFIX,trycloudflare.com
