@@ -3249,6 +3249,7 @@ IP-CIDR,185.39.51.0/24,no-resolve
 IP-CIDR,185.75.173.0/24,no-resolve
 IP-CIDR,185.75.174.0/24,no-resolve
 IP-CIDR,185.116.90.0/24,no-resolve
+IP-CIDR,186.241.179.0/24,no-resolve
 IP-CIDR,186.241.181.0/24,no-resolve
 IP-CIDR,188.131.128.0/17,no-resolve
 IP-CIDR,188.220.7.0/24,no-resolve
