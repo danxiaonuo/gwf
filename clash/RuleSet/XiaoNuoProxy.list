@@ -36,6 +36,7 @@ DOMAIN-SUFFIX,metacubex.one
 DOMAIN-SUFFIX,semaphoreui.com
 DOMAIN-SUFFIX,lruihao.cn
 DOMAIN-SUFFIX,koyeb.com
+DOMAIN-SUFFIX,agnes-ai.com
 
 # cloudflare IP地址段
 IP-CIDR,173.245.48.0/20,no-resolve
