@@ -1709,6 +1709,10 @@ IP-CIDR6,2a14:7586:6110::/48,no-resolve
 IP-CIDR6,2a14:7586:6113::/48,no-resolve
 IP-CIDR6,2a14:7586:6300::/44,no-resolve
 IP-CIDR6,2a14:7586:6500::/48,no-resolve
+IP-CIDR6,2a14:7dc0:510::/47,no-resolve
+IP-CIDR6,2a14:7dc0:512::/48,no-resolve
+IP-CIDR6,2a14:7dc0:515::/48,no-resolve
+IP-CIDR6,2a14:7dc0:516::/47,no-resolve
 IP-CIDR6,2a14:ae00:50::/44,no-resolve
 IP-CIDR6,2c0f:f7a8:8011::/48,no-resolve
 IP-CIDR6,2c0f:f7a8:8050::/48,no-resolve
