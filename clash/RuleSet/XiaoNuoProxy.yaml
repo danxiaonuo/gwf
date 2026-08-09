@@ -1424,6 +1424,7 @@ payload:
   - DOMAIN-SUFFIX,aiaa.org
   - DOMAIN-SUFFIX,aiasahi.jp
   - DOMAIN-SUFFIX,aig
+  - DOMAIN-SUFFIX,aihub.top
   - DOMAIN-SUFFIX,aimei133.com
   - DOMAIN-SUFFIX,aimsciences.org
   - DOMAIN-SUFFIX,aiosearch.com
@@ -3377,6 +3378,7 @@ payload:
   - DOMAIN-SUFFIX,base.org
   - DOMAIN-SUFFIX,baselinestudy.com
   - DOMAIN-SUFFIX,baselinestudy.org
+  - DOMAIN-SUFFIX,basemaps.arcgis.com
   - DOMAIN-SUFFIX,basilisk-browser.org
   - DOMAIN-SUFFIX,bastillepost.com
   - DOMAIN-SUFFIX,bastropfirestone.com
@@ -8587,6 +8589,7 @@ payload:
   - DOMAIN-SUFFIX,esforce.com
   - DOMAIN-SUFFIX,esforce.ru
   - DOMAIN-SUFFIX,esg.t91y.com
+  - DOMAIN-SUFFIX,esim.redteago.com
   - DOMAIN-SUFFIX,eskimotube.com
   - DOMAIN-SUFFIX,eslite.com
   - DOMAIN-SUFFIX,esm.run
@@ -8702,6 +8705,7 @@ payload:
   - DOMAIN-SUFFIX,expecthim.com
   - DOMAIN-SUFFIX,expekt.com
   - DOMAIN-SUFFIX,experience-vmware.com
+  - DOMAIN-SUFFIX,experience.arcgis.com
   - DOMAIN-SUFFIX,experiencebillmelater.com
   - DOMAIN-SUFFIX,expertmaker.com
   - DOMAIN-SUFFIX,explicittube.com
