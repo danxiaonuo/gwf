@@ -5242,6 +5242,7 @@ payload:
   - DOMAIN-SUFFIX,c-spanvideo.org
   - DOMAIN-SUFFIX,c.admob.com
   - DOMAIN-SUFFIX,c.android.clients.google.com
+  - DOMAIN-SUFFIX,c.go-mpulse.net
   - DOMAIN-SUFFIX,c.mi.com
   - DOMAIN-SUFFIX,c.pki.goog
   - DOMAIN-SUFFIX,c0930.com
@@ -24464,6 +24465,7 @@ payload:
   - DOMAIN-SUFFIX,vaultify.info
   - DOMAIN-SUFFIX,vaultify.net
   - DOMAIN-SUFFIX,vaultproject.io
+  - DOMAIN-SUFFIX,vava8.com
   - DOMAIN-SUFFIX,vbcdn.com
   - DOMAIN-SUFFIX,vbcdn.net
   - DOMAIN-SUFFIX,vbejeyv.shop
