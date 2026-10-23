@@ -6423,6 +6423,7 @@ payload:
   - DOMAIN-SUFFIX,conscrypt.org
   - DOMAIN-SUFFIX,consentmanager.net
   - DOMAIN-SUFFIX,consentpro.com
+  - DOMAIN-SUFFIX,console.typesafe.ai
   - DOMAIN-SUFFIX,constructware.com
   - DOMAIN-SUFFIX,consul.io
   - DOMAIN-SUFFIX,contactossexoecuador.com
@@ -10265,6 +10266,7 @@ payload:
   - DOMAIN-SUFFIX,g3.gstatic.com
   - DOMAIN-SUFFIX,g6hentai.com
   - DOMAIN-SUFFIX,ga
+  - DOMAIN-SUFFIX,ga.jspm.io
   - DOMAIN-SUFFIX,gab.com
   - DOMAIN-SUFFIX,gabocorp.com
   - DOMAIN-SUFFIX,gacebook.com
