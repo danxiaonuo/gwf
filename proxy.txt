@@ -6610,6 +6610,7 @@ dealtree.org
 deasians.com
 debank.com
 debian.org
+debot.ai
 debug.com
 debugproject.com
 decentr.net
@@ -20286,6 +20287,7 @@ relay.firefox.com
 reliance
 religionnews.com
 remirepo.net
+remna.dev
 remna.st
 rencapbank.ru
 renchead.com
